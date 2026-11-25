@@ -316,6 +316,41 @@ body {
   white-space: nowrap;
 }
 
+.seo-about {
+  margin: 0 0 3rem;
+  padding: 1.4rem 1.35rem 1.5rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.02);
+  animation: rise 0.9s 0.22s ease both;
+}
+.seo-copy {
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.7;
+  max-width: 62rem;
+}
+.seo-copy p { margin: 0 0 1rem; }
+.seo-copy h3 {
+  margin: 1.25rem 0 0.55rem;
+  font-family: var(--display);
+  font-size: 1.05rem;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+.seo-copy ul {
+  margin: 0 0 1rem;
+  padding-left: 1.2rem;
+}
+.seo-copy li { margin: 0.35rem 0; }
+.seo-copy strong { color: var(--ink); font-weight: 650; }
+.seo-copy a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(61, 255, 168, 0.35);
+}
+.seo-copy a:hover { border-bottom-color: var(--accent); }
+
 .foot {
   display: flex;
   justify-content: space-between;

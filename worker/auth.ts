@@ -55,8 +55,10 @@ function timingSafeEqual(a: string, b: string): boolean {
 }
 
 export function isPublicPath(pathname: string): boolean {
+  if (pathname === "/" || pathname === "/index.html") return true;
   if (pathname === "/login" || pathname === "/login/") return true;
   if (pathname === "/api/login" || pathname === "/api/logout") return true;
+  if (pathname === "/robots.txt" || pathname === "/sitemap.xml") return true;
   if (pathname.startsWith("/assets/")) return true;
   if (pathname === "/favicon.ico") return true;
   return false;

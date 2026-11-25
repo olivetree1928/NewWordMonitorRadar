@@ -20,5 +20,9 @@
   },
   "vars": {
     "AUTH_USERNAME": "admin"
-  }
+  },
+  "routes": [
+    { "pattern": "trendmonitor.blog", "custom_domain": true },
+    { "pattern": "www.trendmonitor.blog", "custom_domain": true }
+  ]
 }

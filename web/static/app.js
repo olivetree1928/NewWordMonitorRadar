@@ -20,6 +20,10 @@ let state = {
 
 async function boot() {
   const res = await fetch("/api/latest");
+  if (res.status === 401) {
+    location.href = "/login?next=" + encodeURIComponent("/");
+    return;
+  }
   if (!res.ok) {
     document.getElementById("newGrid").innerHTML =
       `<div class="empty">加载失败：${res.status}。请先运行 python main.py --seed-only</div>`;

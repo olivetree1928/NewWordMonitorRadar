@@ -31,6 +31,10 @@ for (const f of assetFiles) {
 }
 cpSync(join(staticDir, "index.html"), join(publicDir, "index.html"));
 cpSync(join(staticDir, "login.html"), join(publicDir, "login.html"));
+for (const f of ["robots.txt", "sitemap.xml"]) {
+  const src = join(staticDir, f);
+  if (existsSync(src)) cpSync(src, join(publicDir, f));
+}
 
 for (const page of ["tiktok", "trends", "reddit", "toolify"]) {
   mkdirSync(join(publicDir, page), { recursive: true });

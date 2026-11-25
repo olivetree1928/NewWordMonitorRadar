@@ -1,0 +1,3388 @@
+{
+  "scanned_at": "2026-11-25T02:16:54Z",
+  "source": "google_trends_rss",
+  "geos": [
+    "US",
+    "TW",
+    "HK",
+    "JP",
+    "GB",
+    "SG"
+  ],
+  "summary": {
+    "regions_ok": 6,
+    "regions_total": 6,
+    "terms": 60,
+    "ai_related": 2
+  },
+  "errors": [],
+  "regions": [
+    {
+      "ok": true,
+      "geo": "US",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "trae young",
+          "approx_traffic": "2000+",
+          "traffic_score": 2000,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsfYBdzwuawmoc2UVSviwa6mCAwI4w3sf1aWknqwgwkQn78lyw8L_a9jrvQ2Q",
+          "news": [
+            {
+              "title": "As Trae Young struggles, Wizards work on how to get him and their offense going",
+              "url": "https://www.nytimes.com/athletic/7807430/2026/11/24/trae-young-struggle-offense-wizards/",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Trae Young Slams Critics amid Career-Low Stat, 'Don't Really Care What Other People's Opinion Is'",
+              "url": "https://bleacherreport.com/articles/25537217-trae-young-slams-critics-amid-career-low-stat-dont-really-care-what-other-peoples-opinion",
+              "source": "Bleacher Report"
+            },
+            {
+              "title": "‘This Is the Only Way He Stays in the League,’ ‘This Don’t Make Sense’ — NBA Fans React as Wizards Reportedly Ask Trae Young to Pass More",
+              "url": "https://sports.yahoo.com/nba/articles/only-way-stays-league-don-201650183.html",
+              "source": "Yahoo Sports"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=trae+young&geo=US",
+          "geo": "US"
+        },
+        {
+          "rank": 2,
+          "title": "anthony davis",
+          "approx_traffic": "1000+",
+          "traffic_score": 1000,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTU1QGtaeXKR6FhUa0njTTX6kX2CwS8tc1ctNMXARra1mzbKrAWDjEUNfiQ0jA",
+          "news": [
+            {
+              "title": "‘All is quiet’ on trade talks for AD for now",
+              "url": "https://sports.yahoo.com/general/videos/quiet-trade-talks-ad-now-003952384.html",
+              "source": "Yahoo Sports"
+            },
+            {
+              "title": "This Anthony Davis Trade Idea Could Really Save Golden State Warriors",
+              "url": "https://bleacherreport.com/articles/25535609-anthony-davis-trade-idea-could-really-save-golden-state-warriors",
+              "source": "Bleacher Report"
+            },
+            {
+              "title": "New mock trade proposal breaks up Stephen Curry and Draymond Green",
+              "url": "https://warriorswire.usatoday.com/story/sports/nba/warriors/2026/11/24/warriors-mock-trade-idea-breaks-up-stephen-curry-draymond-green/92949044007/",
+              "source": "Warriors Wire"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=anthony+davis&geo=US",
+          "geo": "US"
+        },
+        {
+          "rank": 3,
+          "title": "kalshi",
+          "approx_traffic": "1000+",
+          "traffic_score": 1000,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrbkM6Tw5WkGUJpU1JnSXMdaIJ3Xcs0RzPLk36Mq8UYnmMV9Jyz5KDE7gw-PU",
+          "news": [
+            {
+              "title": "Utah scores win against Kalshi as company halts operations in state",
+              "url": "https://www.cnn.com/2026/11/24/politics/utah-criminal-charges-kalshi-dropped",
+              "source": "CNN"
+            },
+            {
+              "title": "Utah asks to drop charges against Kalshi and its founders after Kalshi halts trading there",
+              "url": "https://abcnews.com/Business/wireStory/utah-asks-drop-charges-kalshi-founders-after-kalshi-138416910",
+              "source": "ABC News - Breaking News, Latest News and Videos"
+            },
+            {
+              "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+              "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+              "source": "Ars Technica"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=kalshi&geo=US",
+          "geo": "US"
+        },
+        {
+          "rank": 4,
+          "title": "hayden panettiere",
+          "approx_traffic": "500+",
+          "traffic_score": 500,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfSJa0UZN4LKyRZPQFTEEPYGiyK45PXOZYJcs5ILZBqFyqlVWQVPXYYpqyoyg",
+          "news": [
+            {
+              "title": "Hayden Panettiere Left Behind at Least $6.25 Million",
+              "url": "https://www.tmz.com/2026/11/24/hayden-panettiere-left-behind-millions/",
+              "source": "TMZ"
+            },
+            {
+              "title": "Hayden Panettiere’s Estate Valued at Over $6 Million, Ex Wladimir Klitschko Claims",
+              "url": "https://people.com/hayden-panettiere-estate-valued-at-over-usd6-million-ex-wladimir-klitschko-claims-12278551",
+              "source": "People.com"
+            },
+            {
+              "title": "Hayden Panettiere left behind a massive fortune for her 11-year-old daughter, new court docs reveal",
+              "url": "https://pagesix.com/2026/11/24/celebrity-news/hayden-panettiere-left-behind-6m-fortune-for-11-year-old-daughter-kaya/",
+              "source": "Page Six"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=hayden+panettiere&geo=US",
+          "geo": "US"
+        },
+        {
+          "rank": 5,
+          "title": "mavericks vs nuggets",
+          "approx_traffic": "1000+",
+          "traffic_score": 1000,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3NJu_5aTquS9Grnfwy-PUDFAQTAatRZ0RW86qs_fR8ayCtVoetZrRf5lMlDA",
+          "news": [
+            {
+              "title": "MMBets Game of the Week: Mavs and Nuggets battle for Group A supremacy",
+              "url": "https://sports.yahoo.com/betting/articles/mmbets-game-week-mavs-nuggets-205705032.html",
+              "source": "Yahoo Sports"
+            },
+            {
+              "title": "Nuggets vs. Mavericks prediction, odds, time: 2026 NBA Cup picks for Tuesday, Nov. 24 from proven model",
+              "url": "https://www.cbssports.com/betting/news/nuggets-mavericks-prediction-odds-time-2026-nba-cup-picks-best-bets-tuesday-november-24/",
+              "source": "CBS Sports"
+            },
+            {
+              "title": "Preview: Denver Nuggets face Dallas Mavericks at home in third NBA Cup game",
+              "url": "https://www.denverstiffs.com/preview-denver-nuggets-face-dallas-mavericks-at-home-in-third-nba-cup-game/",
+              "source": "Denver Stiffs"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=mavericks+vs+nuggets&geo=US",
+          "geo": "US"
+        },
+        {
+          "rank": 6,
+          "title": "mizzou basketball",
+          "approx_traffic": "500+",
+          "traffic_score": 500,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRRVbA_G6qaLdVmt4_ykzQlmAZtoHzvBuv6y-sDHF7m0PAYVeR60SwoXK3W28",
+          "news": [
+            {
+              "title": "Tiger Tip-Off Preview: Evansville",
+              "url": "https://247sports.com/college/missouri/article/mizzou-basketball-tiger-tip-off-preview-evansville-293212675/",
+              "source": "247Sports"
+            },
+            {
+              "title": "MBB Preview: Mizzou Looks to Extend Win Streak to 5 Against Evansville",
+              "url": "https://www.rockmnation.com/missouri-tigers-basketball/164796/mbb-preview-mizzou-looks-to-extend-win-streak-to-5-against-evansville",
+              "source": "Rock M Nation"
+            },
+            {
+              "title": "Live updates as Mizzou basketball takes on Evansville at home",
+              "url": "https://sports.yahoo.com/mens-college-basketball/articles/live-updates-mizzou-basketball-takes-230107941.html",
+              "source": "Yahoo Sports"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=mizzou+basketball&geo=US",
+          "geo": "US"
+        },
+        {
+          "rank": 7,
+          "title": "mario kart world",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTQtsOLyIB9zStjPSG5jg8iP8pm828Lz6QXQxHwPGgzxfXPsMsXbJIny3mk4U",
+          "news": [
+            {
+              "title": "Mario Kart World update adds 8 courses and more",
+              "url": "https://www.nintendo.com/us/whatsnew/mario-kart-world-update-adds-eight-courses-and-more/",
+              "source": "Nintendo"
+            },
+            {
+              "title": "Mario Kart World 1.9.0 update out now, patch notes",
+              "url": "https://nintendoeverything.com/mario-kart-world-1-9-0-update-out-now-patch-notes/",
+              "source": "Nintendo Everything"
+            },
+            {
+              "title": "Nintendo says Mario Kart World’s free update remixes eight familiar courses",
+              "url": "https://digg.com/gaming/ekcy9zwh",
+              "source": "Digg"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=mario+kart+world&geo=US",
+          "geo": "US"
+        },
+        {
+          "rank": 8,
+          "title": "dig tv show",
+          "approx_traffic": "500+",
+          "traffic_score": 500,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjKujTC8xocWBLiVkv-2RHuObalPeKLfb6cppNpmVlEGSo2If8fpSyu4uFfuM",
+          "news": [
+            {
+              "title": "‘Dig’ Review: Amy Poehler’s Archeology Comedy Is Shockingly Unfunny",
+              "url": "https://variety.com/2026/tv/reviews/dig-review-amy-poehler-peacock-1236952005/",
+              "source": "Variety"
+            },
+            {
+              "title": "'Dig' pulls off a perfect 'Parks and Rec' reunion",
+              "url": "https://mashable.com/entertainment/dig-rashida-jones-cameo",
+              "source": "Mashable"
+            },
+            {
+              "title": "A Penn grad thought archaeology was boring. Now Amy Poehler is starring in a comedy inspired by her experience.",
+              "url": "https://www.inquirer.com/arts/kate-myers-excavations-dig-amy-poehler-20261123.html",
+              "source": "Inquirer.com"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=dig+tv+show&geo=US",
+          "geo": "US"
+        },
+        {
+          "rank": 9,
+          "title": "heather dinich",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRis8h3yTOq7uWkMkBguQjhy2a93oUeJFXstfoYLT5-a52KFD-I3nEXC8SNm_U",
+          "news": [
+            {
+              "title": "‘The Downfall of (Kirk) Herbstreit Is Tragic,’ ‘He Just Ruined It’ — CFB Fans React As ESPN Star Denies Involvement in Viral Ad Mocking CFP Committee",
+              "url": "https://sports.yahoo.com/college-football/articles/downfall-kirk-herbstreit-tragic-just-202629707.html",
+              "source": "Yahoo Sports"
+            },
+            {
+              "title": "Kirk Herbstreit Distances Himself From Viral Video Mocking ESPN, CFP",
+              "url": "https://frontofficesports.com/article/kirk-herbstreit-espn-sec-shorts-video/",
+              "source": "Front Office Sports"
+            },
+            {
+              "title": "Herbstreit says he’s ‘not involved’ in SEC Shorts production after latest video mocks CFP, ESPN",
+              "url": "https://www.al.com/sports/2026/11/herbstreit-says-hes-not-involved-in-sec-shorts-production-after-latest-video-mocks-cfp-espn.html",
+              "source": "AL.com"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=heather+dinich&geo=US",
+          "geo": "US"
+        },
+        {
+          "rank": 10,
+          "title": "john candy",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtekzVxLBUVvqdjzNwQzGMoP4cR5ouC-CQokrSRFHTIIjkoxcvEOchhTARG3Q",
+          "news": [
+            {
+              "title": "Steve Martin’s 1987 Comedy Whose Cast ‘Lived the Plot’ Named Best Thanksgiving Movie",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/steve-martin-1987-comedy-whose-171000128.html",
+              "source": "Yahoo"
+            },
+            {
+              "title": "The Holy Fool in ‘Planes, Trains and Automobiles’",
+              "url": "https://www.mccookgazette.com/opinion/the-holy-fool-in-planes-trains-and-automobiles-c5cfbfc3",
+              "source": "McCook Gazette"
+            },
+            {
+              "title": "Commentary: John A. Tures: Planes, banks and automobiles: Getting hacked for the holidays",
+              "url": "https://www.myjournalcourier.com/opinion/article/john-a-tures-getting-hacked-holidays-22538349.php",
+              "source": "Jacksonville Journal-Courier"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=john+candy&geo=US",
+          "geo": "US"
+        }
+      ],
+      "name": "美国"
+    },
+    {
+      "ok": true,
+      "geo": "TW",
+      "url": "https://trends.google.com/trending/rss?geo=TW",
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "創意",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "",
+          "news": [],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%89%B5%E6%84%8F&geo=TW",
+          "geo": "TW"
+        },
+        {
+          "rank": 2,
+          "title": "創意股價",
+          "approx_traffic": "100+",
+          "traffic_score": 100,
+          "published": "Tue, 24 Nov 2026 17:50:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuk-qIDplI5fWUbTo2fYb9Jdq4iREhZVJjChfCgUqBl7P164adHDZH-O58Cso",
+          "news": [
+            {
+              "title": "創意：股價連跌6天直接腰斬 最快11/25「抓去關」",
+              "url": "https://stock.ltn.com.tw/article/0vy7xtmvqx98",
+              "source": "自由時報"
+            },
+            {
+              "title": "創意跌停一張賠54萬　川湖重奪股后寶座",
+              "url": "https://finance.ettoday.net/news/3276802",
+              "source": "ETtoday財經雲"
+            },
+            {
+              "title": "「ASIC大廠」連6天盤中亮綠燈！股價慘跌至4860元 網嘆坑殺：是要回3000嗎",
+              "url": "https://tw.stock.yahoo.com/news/asic%E5%A4%A7%E5%BB%A0-%E9%80%A36%E5%A4%A9%E7%9B%A4%E4%B8%AD%E4%BA%AE%E7%B6%A0%E7%87%88-%E8%82%A1%E5%83%B9%E6%85%98%E8%B7%8C%E8%87%B34860%E5%85%83-%E7%B6%B2%E5%98%86%E5%9D%91%E6%AE%BA-%E6%98%AF%E8%A6%81%E5%9B%9E3000%E5%97%8E-034000038.html",
+              "source": "Yahoo股市"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%89%B5%E6%84%8F%E8%82%A1%E5%83%B9&geo=TW",
+          "geo": "TW"
+        },
+        {
+          "rank": 3,
+          "title": "群聯股價",
+          "approx_traffic": "100+",
+          "traffic_score": 100,
+          "published": "Tue, 24 Nov 2026 17:50:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvrXROuvo5z4HOvbj3hMYg9k1eKUxyc61971jwkaAyi-3d7CKOZFU26C4kFcg",
+          "news": [
+            {
+              "title": "記憶體股王群聯漲停還有肉？老牌法人庫存天數、應收帳款全說了最新目標價、評等同步曝光- 上市櫃",
+              "url": "https://wantrich.chinatimes.com/news/20261125900002-420101",
+              "source": "旺得富理財網"
+            },
+            {
+              "title": "輝達後黃仁勳時代變數多？群聯潘健成強調：AI長期結構性需求未消失",
+              "url": "https://www.wealth.com.tw/articles/dc1903fe-9e29-4110-bcca-8f2eef62a93b",
+              "source": "財訊"
+            },
+            {
+              "title": "記憶體漲停還沒到頂？「這檔」法人升評喊1800元、今年EPS狂賺464元 千億庫存藏獲利密碼",
+              "url": "https://www.ftnn.com.tw/news/599298",
+              "source": "FTNN 新聞網"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E7%BE%A4%E8%81%AF%E8%82%A1%E5%83%B9&geo=TW",
+          "geo": "TW"
+        },
+        {
+          "rank": 4,
+          "title": "加權指數",
+          "approx_traffic": "2000+",
+          "traffic_score": 2000,
+          "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07RF_GWGz9ouG00f3xCommmQpNo72ZpVpKWjM2JLohsCyZuY5r1mq5Cp6irk",
+          "news": [
+            {
+              "title": "低軌衛星噴飛！「這權值股」收復4千大關挾32檔漲停 華通、群創、穩懋、昇達科都亮燈",
+              "url": "https://tw.stock.yahoo.com/news/%E4%BD%8E%E8%BB%8C%E8%A1%9B%E6%98%9F%E5%99%B4%E9%A3%9B-%E9%80%99%E6%AC%8A%E5%80%BC%E8%82%A1-%E6%94%B6%E5%BE%A94%E5%8D%83%E5%A4%A7%E9%97%9C%E6%8C%BE32%E6%AA%94%E6%BC%B2%E5%81%9C-%E8%8F%AF%E9%80%9A-%E7%BE%A4%E5%89%B5-090800178.html",
+              "source": "Yahoo股市"
+            },
+            {
+              "title": "【盤後焦點】低軌衛星資金轉強，「10檔概念股」強勢上攻！",
+              "url": "https://cmnews.com.tw/article/cmoney-8e94cfae-e70d-11f1-9e94-46771df272aa",
+              "source": "CMoney投資網誌"
+            },
+            {
+              "title": "低軌衛星跌深反攻！昇達科、華通4檔亮紅燈 事欣科飆9%",
+              "url": "https://news.wearn.com/c2152773.html",
+              "source": "聚財網"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%8A%A0%E6%AC%8A%E6%8C%87%E6%95%B8&geo=TW",
+          "geo": "TW"
+        },
+        {
+          "rank": 5,
+          "title": "川湖股價",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcREamWEcBkCgVdsiWFOJnFPB629l2OL5u7Ugvu4A_v2xOwFRu6lED2YQJqKU",
+          "news": [
+            {
+              "title": "【即時新聞】川湖受惠政府五大穩市利多發酵，盤中強勢大漲逾5%展現反彈企圖心",
+              "url": "https://www.cmoney.tw/forum/article/189553135",
+              "source": "CMoney"
+            },
+            {
+              "title": "〈熱門股〉川湖股價拉回修正仍獲外資承接 前3季狂賺逾23個股本",
+              "url": "https://tw.tradingview.com/news/cnyes:30a308b98acdf:0/",
+              "source": "TradingView"
+            },
+            {
+              "title": "【11/17 產業即時新聞】電子中游-金屬製品族群重挫8.66%，高價滑軌雙雄川湖、南俊國際遭逢強烈修正壓力",
+              "url": "https://cmnews.com.tw/article/cmoneyairesearcher-6ed1f7ab-e226-11f1-9acc-ea36215f7967",
+              "source": "CMoney投資網誌"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%B7%9D%E6%B9%96%E8%82%A1%E5%83%B9&geo=TW",
+          "geo": "TW"
+        },
+        {
+          "rank": 6,
+          "title": "中華電信股價",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGMN1mYxdt-ryibN_JSbrl8x1aXdGC1CyYaLkgvXqTJZ_df0FW8KI9dN2UL6c",
+          "news": [
+            {
+              "title": "不輸0050？他推薦「這檔防禦神股」：最強避震器",
+              "url": "https://tw.news.yahoo.com/0050%E6%8A%B1%E5%88%B0%E6%B2%92%E4%BF%A1%E5%BF%83-%E8%82%A1%E6%B0%91%E6%94%B9%E5%AD%98-%E9%80%99%E6%AA%94%E9%98%B2%E7%A6%A6%E7%A5%9E%E8%82%A1-%E6%9C%80%E5%BC%B7%E9%81%BF%E9%9C%87%E5%99%A8-010600757.html",
+              "source": "Yahoo新聞"
+            },
+            {
+              "title": "中華電、玉山金抗震權證靚- 日報",
+              "url": "https://www.ctee.com.tw/news/20261123700257-439901",
+              "source": "工商時報"
+            },
+            {
+              "title": "2352 佳世達 - 笑死 大盤大跌我大跌 大盤反彈我大跌 - 股市爆料同學會",
+              "url": "https://www.cmoney.tw/forum/article/189540841",
+              "source": "CMoney"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E8%82%A1%E5%83%B9&geo=TW",
+          "geo": "TW"
+        },
+        {
+          "rank": 7,
+          "title": "肯德基末日套餐",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOze5G8LjL0LAwOGOc4kx6zz3w3f2xkgMjAP7HEjiKVe-48YjI5w7HB5r3cog",
+          "news": [
+            {
+              "title": "肯德基x漫威！末日全餐11/24開賣，五款限定盲盒同步登場",
+              "url": "https://www.cardu.com.tw/epoint/detail.php?66752",
+              "source": "卡優新聞網"
+            },
+            {
+              "title": "Hot Toys「《復仇者聯盟：末日崛起》洛基Artisan 植髮版」1/6比例收藏級可動人偶故事之神換上TVA制服限量登場！",
+              "url": "https://www.toy-people.com/?p=116887",
+              "source": "玩具人 TOY PEOPLE"
+            },
+            {
+              "title": "史迪奇化身漫威最強反派！Hot Toys 推出「末日博士史迪奇」收藏模型全球限量首發400 組 | 上報",
+              "url": "https://today.line.me/tw/v3/article/MLBx8g0",
+              "source": "LINE TODAY"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E6%9C%AB%E6%97%A5%E5%A5%97%E9%A4%90&geo=TW",
+          "geo": "TW"
+        },
+        {
+          "rank": 8,
+          "title": "緯創股價",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH1nlCzpf8Sw50qmgAKD0pbdLbB60CbdNQJsWFFmDl3yXEb9pR2W7lAXZiTmY",
+          "news": [
+            {
+              "title": "同學會熱門 NO.31《緯創》11/24 怎麼走？盤後一次看懂",
+              "url": "https://www.cmoney.tw/forum/article/189772272",
+              "source": "CMoney"
+            },
+            {
+              "title": "緯創AI伺服器動能強- 日報",
+              "url": "https://www.ctee.com.tw/news/20261125700231-439901",
+              "source": "工商時報"
+            },
+            {
+              "title": "Factset 最新調查：緯創(3231-TW)EPS預估上修至18.24元，預估目標價為289.5元｜新聞快訊｜豐雲學堂",
+              "url": "https://www.sinotrade.com.tw/richclub/news/6af65b5471992d5745c78ac8",
+              "source": "永豐金證券"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E7%B7%AF%E5%89%B5%E8%82%A1%E5%83%B9&geo=TW",
+          "geo": "TW"
+        },
+        {
+          "rank": 9,
+          "title": "廣達股價",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "picture": "",
+          "news": [],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%BB%A3%E9%81%94%E8%82%A1%E5%83%B9&geo=TW",
+          "geo": "TW"
+        },
+        {
+          "rank": 10,
+          "title": "0050",
+          "approx_traffic": "20000+",
+          "traffic_score": 20000,
+          "published": "Tue, 24 Nov 2026 17:30:00 -0800",
+          "picture": "",
+          "news": [],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=0050&geo=TW",
+          "geo": "TW"
+        }
+      ],
+      "name": "台湾"
+    },
+    {
+      "ok": true,
+      "geo": "HK",
+      "url": "https://trends.google.com/trending/rss?geo=HK",
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "馬國明",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 16:50:00 -0800",
+          "picture": "",
+          "news": [],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E9%A6%AC%E5%9C%8B%E6%98%8E&geo=HK",
+          "geo": "HK"
+        },
+        {
+          "rank": 2,
+          "title": "李嘉欣",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 16:30:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaW_z5xHgnMnlsAbGgAS8dfDE-h1BHlb-HmLf-fND8DwewJ0RccFZ17YBqJHY",
+          "news": [
+            {
+              "title": "李嘉欣上海庆祝结婚18周年 高级餐厅甜蜜依偎许晋亨画面曝光 15岁儿子疑同行超靓仔",
+              "url": "https://www.stheadline.com/zh-hans/film-drama/3640645/%E6%9D%8E%E5%98%89%E6%AC%A3%E4%B8%8A%E6%B5%B7%E5%BA%86%E7%A5%9D%E7%BB%93%E5%A9%9A18%E5%91%A8%E5%B9%B4-%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E7%94%9C%E8%9C%9C%E4%BE%9D%E5%81%8E%E8%AE%B8%E6%99%8B%E4%BA%A8%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89-15%E5%B2%81%E5%84%BF%E5%AD%90%E7%96%91%E5%90%8C%E8%A1%8C%E8%B6%85%E9%9D%93%E4%BB%94",
+              "source": "星島頭條"
+            },
+            {
+              "title": "【今日当年】李嘉欣与许晋亨豪宅大婚 八卡巨钻一亿打造奢华婚宴",
+              "url": "https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%A8%B1%E4%B9%90/60413730/%E4%BB%8A%E6%97%A5%E5%BD%93%E5%B9%B4-%E6%9D%8E%E5%98%89%E6%AC%A3%E4%B8%8E%E8%AE%B8%E6%99%8B%E4%BA%A8%E8%B1%AA%E5%AE%85%E5%A4%A7%E5%A9%9A-%E5%85%AB%E5%8D%A1%E5%B7%A8%E9%92%BB%E4%B8%80%E4%BA%BF%E6%89%93%E9%80%A0%E5%A5%A2%E5%8D%8E%E5%A9%9A%E5%AE%B4",
+              "source": "香港01"
+            },
+            {
+              "title": "李嘉欣许晋亨恩爱晒合影 庆祝结婚18周年",
+              "url": "https://news.china.com/socialgd/10000169/20261124/49901751.html",
+              "source": "中华网"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E6%9D%8E%E5%98%89%E6%AC%A3&geo=HK",
+          "geo": "HK"
+        },
+        {
+          "rank": 3,
+          "title": "毯",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 16:30:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN3_8F8v5SMrlHlHxgeEVGdKNPUHePCuKBQaE8AihHAL4yWMd-CS55qNUGztE",
+          "news": [
+            {
+              "title": "柯煒林獨挑大樑主持台灣金馬獎！Will Or代表作、私下穿搭解構",
+              "url": "https://hk.news.yahoo.com/%E6%9F%AF%E7%85%92%E6%9E%97%E7%8D%A8%E6%8C%91%E5%A4%A7%E6%A8%91%E4%B8%BB%E6%8C%81%E5%8F%B0%E7%81%A3%E9%87%91%E9%A6%AC%E7%8D%8E-or%E4%BB%A3%E8%A1%A8%E4%BD%9C-%E7%A7%81%E4%B8%8B%E7%A9%BF%E6%90%AD%E8%A7%A3%E6%A7%8B-032154514.html",
+              "source": "Yahoo"
+            },
+            {
+              "title": "金馬獎2026｜柯煒林破天荒獨挑主持一職 抗癌逆境踏上最高殿堂",
+              "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413662/%E9%87%91%E9%A6%AC%E7%8D%8E2026-%E6%9F%AF%E7%85%92%E6%9E%97%E7%A0%B4%E5%A4%A9%E8%8D%92%E7%8D%A8%E6%8C%91%E4%B8%BB%E6%8C%81%E4%B8%80%E8%81%B7-%E6%8A%97%E7%99%8C%E9%80%86%E5%A2%83%E8%B8%8F%E4%B8%8A%E6%9C%80%E9%AB%98%E6%AE%BF%E5%A0%82",
+              "source": "香港01"
+            },
+            {
+              "title": "＃2026 金馬獎：阮經天、劉冠廷角逐影帝！第 63 屆完整入圍名單一次看",
+              "url": "https://popbee.com/celebrities/2026-golden-horse-awards-the-complete-nominees-list-and-how-to-watch",
+              "source": "Popbee"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E6%AF%AF&geo=HK",
+          "geo": "HK"
+        },
+        {
+          "rank": 4,
+          "title": "生肖",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 16:30:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_7b57reyS6E6k_T7UoZu7SB7YK_W3sp9atTjZYDjdHXGmDY8Opo2yoSUbcsA",
+          "news": [
+            {
+              "title": "迷霧散去大翻身？！12月星座總運出爐：順風王、最雷苦主揭曉",
+              "url": "https://ent.ltn.com.tw/news/breakingnews/5652287",
+              "source": "自由娛樂"
+            },
+            {
+              "title": "最懂得感恩的4生肖！重情重義很念舊情， 受到幫助必定加倍奉還",
+              "url": "https://www.storm.mg/lifestyle/11182285",
+              "source": "風傳媒"
+            },
+            {
+              "title": "12月否極泰來！「3生肖」霉運退散翻身 事業感情雙開花",
+              "url": "https://news.tvbs.com.tw/life/4052877",
+              "source": "TVBS新聞網"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E7%94%9F%E8%82%96&geo=HK",
+          "geo": "HK"
+        },
+        {
+          "rank": 5,
+          "title": "印尼",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTydzx2araFMvQdZEFZg3XdDYpiir55rdobeXrloVQf-AEq1VUxtiLeQTIJQFs",
+          "news": [
+            {
+              "title": "印尼與中國之間的橋樑：巴厘島「印尼-中國橋樑論壇」匯聚政府、投資者、開發商與未來科技",
+              "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section=index&category=mediaoutreach&newsid=503652",
+              "source": "etnet 經濟通"
+            },
+            {
+              "title": "(影) 印尼海軍攔截中國貨船 查獲數百噸火箭製造材料、上百萬手機SIM卡",
+              "url": "https://newtalk.tw/news/view/2026-11-23/1073282",
+              "source": "Newtalk新聞"
+            },
+            {
+              "title": "印尼海軍攔截孟加拉貨船 起獲405噸飛彈原料化學品",
+              "url": "https://n.yam.com/Article/20261124952010",
+              "source": "蕃新聞"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%8D%B0%E5%B0%BC&geo=HK",
+          "geo": "HK"
+        },
+        {
+          "rank": 6,
+          "title": "兩餸飯",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQota6vakSR_4PSlBZiyvNHpz8P9SlKhAxpXYLpGJFvr_C4qLI-JUYbpLyY7zI",
+          "news": [
+            {
+              "title": "兩餸飯名店權發小廚 聖誕到會不加價",
+              "url": "https://www.wenweipo.com/a/202611/24/AP6b04101ee4b028ec01954b31.html",
+              "source": "香港文匯報"
+            },
+            {
+              "title": "人氣兩餸飯「權發小廚」推聖誕到會！$200任選熱辣辣即炒椒鹽蝦/牛腩/生炒骨負責人豪言：人均$50已經好豐富",
+              "url": "https://www.stheadline.com/food/3640679/%E4%BA%BA%E6%B0%A3%E5%85%A9%E9%A4%B8%E9%A3%AF%E6%AC%8A%E7%99%BC%E5%B0%8F%E5%BB%9A%E6%8E%A8%E8%81%96%E8%AA%95%E5%88%B0%E6%9C%83200%E4%BB%BB%E9%81%B8%E7%86%B1%E8%BE%A3%E8%BE%A3%E5%8D%B3%E7%82%92%E6%A4%92%E9%B9%BD%E8%9D%A6%E7%89%9B%E8%85%A9%E7%94%9F%E7%82%92%E9%AA%A8-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E8%B1%AA%E8%A8%80%E4%BA%BA%E5%9D%8750%E5%B7%B2%E7%B6%93%E5%A5%BD%E8%B1%90%E5%AF%8C",
+              "source": "星島頭條"
+            },
+            {
+              "title": "人气两餸饭「权发小厨」推圣诞到会！$200任选热辣辣即炒椒盐虾/牛腩/生炒骨负责人豪言：人均$50已经好丰富",
+              "url": "https://www.stheadline.com/zh-hans/food/3640679/%E4%BA%BA%E6%B0%94%E4%B8%A4%E9%A4%B8%E9%A5%AD%E6%9D%83%E5%8F%91%E5%B0%8F%E5%8E%A8%E6%8E%A8%E5%9C%A3%E8%AF%9E%E5%88%B0%E4%BC%9A200%E4%BB%BB%E9%80%89%E7%83%AD%E8%BE%A3%E8%BE%A3%E5%8D%B3%E7%82%92%E6%A4%92%E7%9B%90%E8%99%BE%E7%89%9B%E8%85%A9%E7%94%9F%E7%82%92%E9%AA%A8-%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%B1%AA%E8%A8%80%E4%BA%BA%E5%9D%8750%E5%B7%B2%E7%BB%8F%E5%A5%BD%E4%B8%B0%E5%AF%8C",
+              "source": "星島頭條"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%85%A9%E9%A4%B8%E9%A3%AF&geo=HK",
+          "geo": "HK"
+        },
+        {
+          "rank": 7,
+          "title": "許晉亨",
+          "approx_traffic": "100+",
+          "traffic_score": 100,
+          "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+          "picture": "",
+          "news": [],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E8%A8%B1%E6%99%89%E4%BA%A8&geo=HK",
+          "geo": "HK"
+        },
+        {
+          "rank": 8,
+          "title": "sk海力士",
+          "approx_traffic": "100+",
+          "traffic_score": 100,
+          "published": "Tue, 24 Nov 2026 16:00:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREozqrHDv2FMVb99pNUtiiYwoTY5_bkgmjnbW6sTPJyktQLOWmOK1XCjn2xXo",
+          "news": [
+            {
+              "title": "韩股跌幅扩大至5% SK海力士和三星电子均跌约7%",
+              "url": "https://cj.sina.cn/articles/view/5115326071/130e5ae77020035388",
+              "source": "新浪财经"
+            },
+            {
+              "title": "周末救市难抵“黑色星期一”！韩国股市跌破4800点，AI交易是否终结？",
+              "url": "https://m.yicai.com/news/103450401.html",
+              "source": "第一财经"
+            },
+            {
+              "title": "韩国10万亿救市，为什么不灵了？ 韩国政府祭出10.76万亿韩元规模的股市稳定基金，仍未能阻止KOSPI持续下跌。外部冲击的量级、工具本身的局限，以及政策...",
+              "url": "https://www.xueqiu.com/1107854878/418171987",
+              "source": "雪球"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=sk%E6%B5%B7%E5%8A%9B%E5%A3%AB&geo=HK",
+          "geo": "HK"
+        },
+        {
+          "rank": 9,
+          "title": "神舟二十四號",
+          "approx_traffic": "100+",
+          "traffic_score": 100,
+          "published": "Tue, 24 Nov 2026 16:00:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVU-w3TXD6uFzVKOzcARDjpbOJI4aEpwKUUSBx2HvlWBf23lAUOS5tPaT57g",
+          "news": [
+            {
+              "title": "神舟二十四號載人飛船點火發射",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879157-20261125.htm",
+              "source": "RTHK News"
+            },
+            {
+              "title": "香港之光！黎家盈在軌逾半年締造紀錄- 香港",
+              "url": "https://www.wenweipo.com/a/202611/25/AP6b06361ce4b028ec019580ec.html",
+              "source": "香港文匯報"
+            },
+            {
+              "title": "巴籍太空人：最難是學中文 - 20261125 - 中國",
+              "url": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20261125/s00013/1795539857937/%E5%B7%B4%E7%B1%8D%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E6%9C%80%E9%9B%A3%E6%98%AF%E5%AD%B8%E4%B8%AD%E6%96%87",
+              "source": "明報新聞網"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F&geo=HK",
+          "geo": "HK"
+        },
+        {
+          "rank": 10,
+          "title": "诈骗",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 15:50:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgv9BvCP6UK_P_VZ3tNol00JFPOUQOjK-ec4MHqzL9Bldla77YIHM37sIjvvw",
+          "news": [
+            {
+              "title": "美司法部成立“超级智能特别工作组”，打击智能技术滥用活动",
+              "url": "https://www.secrss.com/articles/95573",
+              "source": "安全内参"
+            },
+            {
+              "title": "美史上最大反詐行動追回80億 起訴逾800人",
+              "url": "https://www.epochtimes.com/gb/26/11/24/n14894594.htm",
+              "source": "大紀元"
+            },
+            {
+              "title": "美国司法部宣布在诈骗网络中逮捕超800人——UPI",
+              "url": "https://ua.news/cn/dovkolo-svitu/miniust-ssha-ogolosiv-pro-ponad-800-areshtiv-u-shakhraiskikh-merezhakh-upi",
+              "source": "UA.NEWS"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E8%AF%88%E9%AA%97&geo=HK",
+          "geo": "HK"
+        }
+      ],
+      "name": "香港"
+    },
+    {
+      "ok": true,
+      "geo": "JP",
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "ちいかわ くら寿司",
+          "approx_traffic": "2000+",
+          "traffic_score": 2000,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL4sQf38ask0RqxAMzcZWYCrtpt1P4vHspYfMy5pAKxomRVFlcalFeIjlz3Bs",
+          "news": [
+            {
+              "title": "【本日11時から！】くら寿司「ちいかわ」オリジナル寿司皿のLINE抽選がいよいよ開始。全4種を合計100万人にプレゼント",
+              "url": "https://news.yahoo.co.jp/articles/6b60fd2465d158b6fdfa7f45b0f9ab974271ce58",
+              "source": "Yahoo!ニュース"
+            },
+            {
+              "title": "くら寿司「ちいかわ」皿がついに配布、広報が明かした“配布方法の変更”と「警察が捜査中」従業員の不正行為",
+              "url": "https://article.auone.jp/c4f0c25e-b80c-4653-bb4c-9a6694696953",
+              "source": "au Webポータル"
+            },
+            {
+              "title": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」が配布！合計100万名分を抽選形式でプレゼント 2枚目の写真・画像",
+              "url": "https://www.inside-games.jp/article/img/2026/11/24/191500/1809456.html",
+              "source": "インサイド"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F+%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8&geo=JP",
+          "geo": "JP"
+        },
+        {
+          "rank": 2,
+          "title": "人民日報",
+          "approx_traffic": "2000+",
+          "traffic_score": 2000,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuJj0Z-aCg8sbPDgMn_Ud8AJckZRpIXETp3orA7AZvy2KSHavkWSZUQHGRHQg",
+          "news": [
+            {
+              "title": "中国経済の不振は「海外メディアのせい」？ 人民日報の主張が国内外から冷淡な視線を送られる理由（ニューズウィーク日本版）",
+              "url": "https://news.yahoo.co.jp/articles/39b6496fae60920d384e31aa7c4e203041f89cc6",
+              "source": "Yahoo!ニュース"
+            },
+            {
+              "title": "「中国経済の不振は海外メディアのせい」？ 人民日報の主張が国内外から冷淡な視線を送られる理由",
+              "url": "https://www.newsweekjapan.jp/articles/-/341060?display=b",
+              "source": "ニューズウィーク日本版"
+            },
+            {
+              "title": "【市長の産休】休み方、支え方に正解ない",
+              "url": "https://www.chugoku-np.co.jp/articles/-/929557",
+              "source": "中国新聞デジタル"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1&geo=JP",
+          "geo": "JP"
+        },
+        {
+          "rank": 3,
+          "title": "明治神宮大会",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLpDHAmAck7M02Rp-5oDOzV87PbX73KyWm3p2-S60tmoX-4m5UEhJzdh7MGHk",
+          "news": [
+            {
+              "title": "【明治神宮大会】横浜・脇山魁音が大会タイ記録の10打点、巨人ドラ1・織田の女房役が快挙（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/1ea6c7ee5c1a692b04f2ef4e042ff19764d892f8",
+              "source": "Yahoo!ニュース"
+            },
+            {
+              "title": "横浜・川上慧が６回にソロホームラン 主将がチーム鼓舞「取れる点は全部」 高校野球 明治神宮野球大会",
+              "url": "https://www.kanaloco.jp/sports/baseball/hsbaseball/article-1322839.html",
+              "source": "カナロコ"
+            },
+            {
+              "title": "ピッチャー交代もなんのその！横浜が逆転",
+              "url": "https://vk.sportsbull.jp/koshien/video/abc/meijijingu/meijijingu_inning2026/meijijingu_inning2026_71.html",
+              "source": "バーチャル高校野球"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AE%E5%A4%A7%E4%BC%9A&geo=JP",
+          "geo": "JP"
+        },
+        {
+          "rank": 4,
+          "title": "kith",
+          "approx_traffic": "100+",
+          "traffic_score": 100,
+          "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyERqSoo8NM0EzEZavKwpuInnsCikVxbfnmPzOGlFfBsroObfueuKJonKK8XM",
+          "news": [
+            {
+              "title": "Ronnie Fieg and ASICS Channel Darth Vader in New Star Wars Collaboration",
+              "url": "https://hypebeast.com/2026/11/star-wars-ronnie-fieg-asics-gel-lyte-iii-remastered-darth-vader-1203b520-020-release-info",
+              "source": "Hypebeast"
+            },
+            {
+              "title": "How To Buy The Kith Asics Star Wars Trainers (And the Avirex jacket)",
+              "url": "https://www.esquire.com/uk/style/fashion/a74519476/kith-asics-star-wars-trainers/",
+              "source": "Esquire"
+            },
+            {
+              "title": "Kith's New 'Star Wars' Collection Launches Soon: Get a Closer Look",
+              "url": "https://shopping.yahoo.com/style/clothing/articles/kiths-star-wars-collection-launches-164958487.html",
+              "source": "Yahoo"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=kith&geo=JP",
+          "geo": "JP"
+        },
+        {
+          "rank": 5,
+          "title": "景気回復",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:50:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoBbFkdj0xOqa8HHs9BCZxJdLyuMwZY11TJ2nt7QtuhQitxNvnf6HDT57XGEc",
+          "news": [
+            {
+              "title": "日本の消費「コロナ前」下回る 四半世紀で1割増どまり、米欧と格差",
+              "url": "https://www.nikkei.com/article/DGXZQOUA1429C0U6A111C2000000/",
+              "source": "日本経済新聞"
+            },
+            {
+              "title": "米ショッピングモール、ネット買い物客の実店舗呼び戻しを期待",
+              "url": "https://www.newsweekjapan.jp/articles/-/341191",
+              "source": "ニューズウィーク日本版"
+            },
+            {
+              "title": "日銀は3月に「利上げ終了」か、27年の日本経済は景気回復基調もAI・半導体投資と消費低迷の“綱引き”続く",
+              "url": "https://diamond.jp/articles/-/404063",
+              "source": "ダイヤモンド・オンライン"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E6%99%AF%E6%B0%97%E5%9B%9E%E5%BE%A9&geo=JP",
+          "geo": "JP"
+        },
+        {
+          "rank": 6,
+          "title": "ダークウェブ",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:50:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxC9kXUwC6GnHRKDI4sIZ7Gst-_CNcQJHexSuGSB7qkT4oMZrrGGiU7KCLYQ",
+          "news": [
+            {
+              "title": "流出した免許証や自撮り写真が売買 ダークウェブで見た個人情報悪用 [情報漏洩・個人情報流出の最新ニュース]",
+              "url": "https://www.asahi.com/articles/ASVCN0PYNVCNUTIL028M.html",
+              "source": "朝日新聞"
+            },
+            {
+              "title": "「ダークウェブ」の現役ブローカーが漏れた個人情報の\"お値段\"を公開！（週プレNEWS）",
+              "url": "https://news.yahoo.co.jp/articles/96a9aab9f9999ef27b0f7df39182646077d737f1",
+              "source": "Yahoo!ニュース"
+            },
+            {
+              "title": "［ニッポンクライシス］ＦＸクラウド・免許証・クレカ…流出４・７億件 昨年の１４倍、盗んだ情報「公開」脅し",
+              "url": "https://www.yomiuri.co.jp/economy/20261122-GYT1T00135/",
+              "source": "読売新聞"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A7%E3%83%96&geo=JP",
+          "geo": "JP"
+        },
+        {
+          "rank": 7,
+          "title": "逮捕",
+          "approx_traffic": "1000+",
+          "traffic_score": 1000,
+          "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeshiBg0QWXOptnxQ1osxTKD58ORtyCz6_7hzyllWted0beFeqnW8FYAyb7VU",
+          "news": [
+            {
+              "title": "広島 庄原 高齢女性殺害事件で55歳会社員を逮捕",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261125de80916",
+              "source": "NHKニュース"
+            },
+            {
+              "title": "一人暮らし84歳の女性宅に侵入し頭など殴って4万円奪う…発生から1年5か月、強盗殺人容疑で55歳会社員を逮捕",
+              "url": "https://news.yahoo.co.jp/articles/7ff38e757fe0b349799e7fa8571a2b8885541da5",
+              "source": "Yahoo!ニュース"
+            },
+            {
+              "title": "親族「長かった」1年5カ月で急展開 男から事情聴く 広島・庄原殺人事件",
+              "url": "https://news.tv-asahi.co.jp/news_society/articles/900205143.html",
+              "source": "テレ朝NEWS"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E9%80%AE%E6%8D%95&geo=JP",
+          "geo": "JP"
+        },
+        {
+          "rank": 8,
+          "title": "テオスカー・ヘルナンデス",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwS-uy63MAxblSVgArqO4ZLJYgjXTGF_9tgLLEzRX6O8uhOnugSiVRRAFMd6E",
+          "news": [
+            {
+              "title": "T・ヘルナンデスをトレード放出→26歳右腕を獲得か「十分な理由がある」若返りに総年俸削減、米メディアは退団と先読み「噂が絶えない」（THE DIGEST）",
+              "url": "https://news.yahoo.co.jp/articles/d8baf4a39ff6dc54e9c3ef959250e1dd14730dda",
+              "source": "Yahoo!ニュース"
+            },
+            {
+              "title": "ドジャース、次はテオ放出の動きか、21歳有望株デパウラ台頭で外野再編の可能性…主力の大半が30代で”世代交代”急務、FA市場の大物外野手不足も影響",
+              "url": "https://www.chunichi.co.jp/article/1343468",
+              "source": "中日新聞Web"
+            },
+            {
+              "title": "【ドジャース】フィリーズと「二重トレード」急浮上 テオスカー放出と〝因縁右腕〟獲得の思惑",
+              "url": "https://www.tokyo-sports.co.jp/articles/-/410700",
+              "source": "東スポWEB"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E3%83%86%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%BB%E3%83%98%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9&geo=JP",
+          "geo": "JP"
+        },
+        {
+          "rank": 9,
+          "title": "ウクライナ ロシア",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6rihpcGqzuqxUHEV6Xt-wUtgq_zHNNQSsWf_Gyn9E3VoeCOkNbzEQgiQeJ8o",
+          "news": [
+            {
+              "title": "ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算",
+              "url": "https://www.yomiuri.co.jp/world/20261124-GYT1T00383/",
+              "source": "読売新聞"
+            },
+            {
+              "title": "4分に1人、ロシア兵72万人がウクライナ侵攻開始後に死亡か 流出データをもとに推計（CNN.co.jp）",
+              "url": "https://news.yahoo.co.jp/articles/f680c182c237c46c6c6267b02b6c608dd7d78921",
+              "source": "Yahoo!ニュース"
+            },
+            {
+              "title": "ロシア軍の戦死者49万人超か ロシア独立系メディアが分析",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261125de80935",
+              "source": "NHKニュース"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A+%E3%83%AD%E3%82%B7%E3%82%A2&geo=JP",
+          "geo": "JP"
+        },
+        {
+          "rank": 10,
+          "title": "楽天証券情報漏えい",
+          "approx_traffic": "2000+",
+          "traffic_score": 2000,
+          "published": "Tue, 24 Nov 2026 17:30:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlUmzToiud6R9WopmawA8HTW5gfcLsYV8H__hdxUiSy0gdXs1hKQOWJoZQIFM",
+          "news": [
+            {
+              "title": "楽天証券、顧客からの預かり資産残高168万件漏洩 性別や国籍も",
+              "url": "https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/",
+              "source": "日本経済新聞"
+            },
+            {
+              "title": "楽天証券、441万件の顧客情報漏えい確認 口座未開設者の情報も（アスキー）",
+              "url": "https://news.yahoo.co.jp/articles/2d7747575c7ee4d4382084f024df2f3aea08efa9",
+              "source": "Yahoo!ニュース"
+            },
+            {
+              "title": "楽天証券、資産情報271万件が漏えい 不正取引は確認されず",
+              "url": "https://mainichi.jp/articles/20261124/k00/00m/020/232000c",
+              "source": "毎日新聞"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=%E6%A5%BD%E5%A4%A9%E8%A8%BC%E5%88%B8%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84&geo=JP",
+          "geo": "JP"
+        }
+      ],
+      "name": "日本"
+    },
+    {
+      "ok": true,
+      "geo": "GB",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "wizards vs celtics",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:30:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA2vw9Com05r7TUyj5gL-EDOtSxx5Qc-hfE-oX67I1lPoPNiScN4QJKIw_o0c",
+          "news": [
+            {
+              "title": "Celtics have bigger issues, but can strengthen grasp on NBA Cup bid in DC",
+              "url": "https://www.nbcsportsboston.com/nba/boston-celtics/celtics-nba-cup-group-standings-schedule/815558/",
+              "source": "NBC Sports Boston"
+            },
+            {
+              "title": "New Polymarket promo code “CLEVE” extends $25 referral promo in time for Celtics-Wizards",
+              "url": "https://www.cleveland.com/betting/2026/11/new-polymarket-promo-code-cleve-extends-25-referral-promo-in-time-for-celtics-wizards.html",
+              "source": "Cleveland.com"
+            },
+            {
+              "title": "Grant Williams (hamstring) off injury report Wednesday",
+              "url": "https://www.fantasypros.com/nba/news/622401/grant-williams-hamstring-off-injury-report-wednesday.php",
+              "source": "FantasyPros"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=wizards+vs+celtics&geo=GB",
+          "geo": "GB"
+        },
+        {
+          "rank": 2,
+          "title": "critical incident royal derby hospital",
+          "approx_traffic": "10000+",
+          "traffic_score": 10000,
+          "published": "Tue, 24 Nov 2026 17:20:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ2FjlQUxZuoiE-EDZBS-46v2X776tOJzIB6MAvFMQpi9MzPktz_8wJ9_i5PI",
+          "news": [
+            {
+              "title": "Critical incident declared at Derby and Burton hospitals",
+              "url": "https://www.bbc.co.uk/news/articles/cqly48ld286do",
+              "source": "BBC"
+            },
+            {
+              "title": "Critical incident declared at Nottingham hospitals amid long waits at QMC A&E",
+              "url": "https://westbridgfordwire.com/critical-incident-declared-at-nottingham-hospitals-amid-long-waits-at-qmc-ae/",
+              "source": "West Bridgford Wire"
+            },
+            {
+              "title": "Flu and discharge waits cause hospital bed shortage",
+              "url": "https://www.aol.com/articles/flu-discharge-waits-cause-hospital-062711000.html",
+              "source": "AOL.com"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=critical+incident+royal+derby+hospital&geo=GB",
+          "geo": "GB"
+        },
+        {
+          "rank": 3,
+          "title": "cd projekt red",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 17:00:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl7vUj6u0dzkUMFn6bX1DrP7hxc_9s0U72q_xJU3Jmu6YMHxsoPRAbfs21bBI",
+          "news": [
+            {
+              "title": "CDPR has entered a marketing agreement with Sony for The Witcher 4",
+              "url": "https://www.videogameschronicle.com/news/cdpr-has-entered-a-marketing-agreement-with-sony-for-the-witcher-4/",
+              "source": "Video Games Chronicle"
+            },
+            {
+              "title": "The Witcher 4 Should Improve on Witcher 3 as Much as GTA 6 Did on GTA 5, Says CDPR",
+              "url": "https://www.techpowerup.com/355188/the-witcher-4-should-improve-on-witcher-3-as-much-as-gta-6-did-on-gta-5-says-cdpr",
+              "source": "TechPowerUp"
+            },
+            {
+              "title": "The Witcher 4 will be a GTA 6-like leap forward, CD Projekt Red says",
+              "url": "https://www.polygon.com/the-witcher-4-vs-gta-6-cyberpunk-2-cd-projekt-red/",
+              "source": "Polygon.com"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=cd+projekt+red&geo=GB",
+          "geo": "GB"
+        },
+        {
+          "rank": 4,
+          "title": "kayley stead",
+          "approx_traffic": "500+",
+          "traffic_score": 500,
+          "published": "Tue, 24 Nov 2026 16:40:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk37RmKBuORVvpgwavyprmoxy-zuVPcntz53_VEW2PdbeZ3NmhtRnLYLulwnI",
+          "news": [
+            {
+              "title": "Swansea bride who went ahead with wedding after being jilted gets married",
+              "url": "https://www.bbc.com/news/articles/cxp80yln85nyo",
+              "source": "BBC"
+            },
+            {
+              "title": "My fiance kissed me goodbye the night before our wedding - the next day he went missing, then his dad rang",
+              "url": "https://www.thesun.co.uk/fabulous/41084599/bride-marries-new-man/",
+              "source": "The Sun"
+            },
+            {
+              "title": "Kayley Stead Marries Richard Perrott After 2022 Wedding Heartbreak",
+              "url": "https://cwibc.co.id/en/kayley-stead-marries-richard-perrott",
+              "source": "cwibc.co.id"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=kayley+stead&geo=GB",
+          "geo": "GB"
+        },
+        {
+          "rank": 5,
+          "title": "red dead redemption",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 16:40:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi4N3GTgE-lN02mOIjOEbuTfzrYz95BUyuUWQeIpHu0oZzrsfLjakMqlZTIrI",
+          "news": [
+            {
+              "title": "Grand Theft Auto would be a huge TV series – here’s why it will never happen",
+              "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/grand-theft-auto-would-be-a-huge-tv-series-heres-why-it-will-never-happen",
+              "source": "The Guardian"
+            },
+            {
+              "title": "‘GTA 6’ Rejected Hollywood. ‘Red Dead Redemption’ Is in Play — for $100M+",
+              "url": "https://theankler.com/gta-6-rejected-hollywood-red-dead-redemption-is-in-play-for-100m/",
+              "source": "The Ankler"
+            },
+            {
+              "title": "Take-Two Open To \"Red Dead Redemption\" Film & TV?",
+              "url": "https://www.darkhorizons.com/take-two-open-to-red-dead-redemption-film-tv/",
+              "source": "Dark Horizons"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=red+dead+redemption&geo=GB",
+          "geo": "GB"
+        },
+        {
+          "rank": 6,
+          "title": "magic vs pistons",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 16:20:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGqEdEXbiza7u5Jaebz1GVjk6gT-GC9ABy2KygtfJbALDZWXOqJCG1--8OtY",
+          "news": [
+            {
+              "title": "Polymarket’s Pistons vs. Magic Market Sees Cade Cunningham Points Over 23.5 Odds Rise 26%",
+              "url": "https://www.tradingview.com/news/binance_news:d43367061094b:0-polymarket-s-pistons-vs-magic-market-sees-cade-cunningham-points-over-23-5-odds-rise-26/",
+              "source": "TradingView"
+            },
+            {
+              "title": "How Franz Wagner, Magic Can Secure NBA Cup Win Over Cade Cunningham, Pistons",
+              "url": "https://www.si.com/nba/magic/onsi/how-franz-wagner-magic-can-secure-nba-cup-win-over-cade-cunningham-pistons-01m86ygep8fd",
+              "source": "Sports Illustrated"
+            },
+            {
+              "title": "Orlando Magic vs. Detroit Pistons: Game Preview",
+              "url": "https://orlandomagic.com/news/orlando-magic-detroit-pistons-game-preview-injury-report-20261124",
+              "source": "NBA.com"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=magic+vs+pistons&geo=GB",
+          "geo": "GB"
+        },
+        {
+          "rank": 7,
+          "title": "tess daly",
+          "approx_traffic": "100+",
+          "traffic_score": 100,
+          "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTshOKu4LAvZAi6qPKJxkYbAlEqzYXG9sIyJ9xpcyfKDdJ2LxcM5RGYmcrIHdY",
+          "news": [
+            {
+              "title": "‘Dance like a madwoman’: Tess Daly, 57, shares her feel-good fitness method and 3-minute rebounding routine",
+              "url": "https://uk.style.yahoo.com/dance-madwoman-tess-daly-57-160900651.html",
+              "source": "Yahoo Life UK"
+            },
+            {
+              "title": "Vernon Kay admits painful ordeal with ex Tess Daly and their daughters 'killed me'",
+              "url": "https://www.walesonline.co.uk/lifestyle/showbiz/vernon-kay-admits-painful-ordeal-34955285",
+              "source": "Wales Online"
+            },
+            {
+              "title": "Tess Daly Shares Fitness Routine as Vernon Kay Recalls Horse Riding Injury",
+              "url": "https://demokratis.co.id/en/tess-daly-fitness-vernon-kay",
+              "source": "Demokratis.co.id"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=tess+daly&geo=GB",
+          "geo": "GB"
+        },
+        {
+          "rank": 8,
+          "title": "thomas markle",
+          "approx_traffic": "1000+",
+          "traffic_score": 1000,
+          "published": "Tue, 24 Nov 2026 15:40:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqDb-Gt7uXUnX2MrKI2Gy5pkiXlRIwJq12gZolDHGTXt8U7ayvUJvtfDfHmM0",
+          "news": [
+            {
+              "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+              "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
+              "source": "BBC"
+            },
+            {
+              "title": "Thomas Markle, father of Meghan, indicted over child sexual abuse material",
+              "url": "https://www.theguardian.com/uk-news/2026/nov/24/thomas-markle-indicted",
+              "source": "The Guardian"
+            },
+            {
+              "title": "Thomas Markle formally charged in US over possessing child sexual abuse material",
+              "url": "https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074",
+              "source": "Sky News"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=thomas+markle&geo=GB",
+          "geo": "GB"
+        },
+        {
+          "rank": 9,
+          "title": "amanda seyfried",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 15:40:00 -0800",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPEjiQFJ--OidhDhujJcbTtA-5lMFKPHu0u9ooq40Wj4n3A4B5Ol-VncMdZ6g",
+          "news": [
+            {
+              "title": "Elizabeth Holmes' Ex-Assistant Speaks Out on 'You Can See Everything'",
+              "url": "https://variety.com/2026/tv/news/elizabeth-holmes-ex-assistant-you-can-see-everything-1236957074/",
+              "source": "Variety"
+            },
+            {
+              "title": "Elizabeth Holmes’ Former Assistant Opens Up About ‘You Can See Everything,’ Praises Amanda Seyfried",
+              "url": "https://www.imdb.com/es/news/ni66126879/?ref_=nwc_art_perm",
+              "source": "IMDb"
+            },
+            {
+              "title": "Amanda Seyfried Criticizes Billy Evans After Documentary Encounter",
+              "url": "https://cwibc.co.id/en/amanda-seyfried-billy-evans-documentary",
+              "source": "cwibc.co.id"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=amanda+seyfried&geo=GB",
+          "geo": "GB"
+        },
+        {
+          "rank": 10,
+          "title": "travel",
+          "approx_traffic": "500+",
+          "traffic_score": 500,
+          "published": "Tue, 24 Nov 2026 15:30:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkQOxfWEKJJFmkxKx6KMLOarUr0fkBz5OdZnNRevGtUfAwoU5cDxh3swK8Wyo",
+          "news": [
+            {
+              "title": "Thanksgiving travel could be messy with storms coming after a week filled with airline glitches",
+              "url": "https://apnews.com/article/thanksgiving-travel-airlines-flight-delays-storms-c26a27fd648f766252b54724d8a897a3",
+              "source": "AP News"
+            },
+            {
+              "title": "When to get to the airport if you’re traveling for Thanksgiving",
+              "url": "https://www.washingtonpost.com/travel/2026/11/23/when-get-airport-if-youre-traveling-thanksgiving/",
+              "source": "The Washington Post"
+            },
+            {
+              "title": "Travelers prepare for potential delays at RDU ahead of holiday weekend",
+              "url": "https://www.wral.com/news/local/travelers-prepare-for-potential-delays-rdu-holiday-weekend-november-2026/",
+              "source": "WRAL"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=travel&geo=GB",
+          "geo": "GB"
+        }
+      ],
+      "name": "英国"
+    },
+    {
+      "ok": true,
+      "geo": "SG",
+      "url": "https://trends.google.com/trending/rss?geo=SG",
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "rebecca lim",
+          "approx_traffic": "100+",
+          "traffic_score": 100,
+          "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxwr87zlAlLu8bjbRVt2fgviYsQ0fpsqyzm7B4_zSTx0UeOY8X9D1MhWgvsAw",
+          "news": [
+            {
+              "title": "Back at work after second child, Rebecca Lim gets just two days off a month and wanted to quit new drama before filming",
+              "url": "https://www.zaobao.com.sg/en/entertainment/back-work-after-second-child-rebecca-lim-gets-just-two-days-month-and-wanted-quit-new-drama-filming",
+              "source": "联合早报"
+            },
+            {
+              "title": "Stars speak out: Rebecca Lim enjoys a little time to herself",
+              "url": "https://www.zaobao.com.sg/en/entertainment/stars-speak-out-rebecca-lim-enjoys-little-time-herself",
+              "source": "联合早报"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=rebecca+lim&geo=SG",
+          "geo": "SG"
+        },
+        {
+          "rank": 2,
+          "title": "warranty",
+          "approx_traffic": "500+",
+          "traffic_score": 500,
+          "published": "Tue, 24 Nov 2026 17:00:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs8j071XxfnZyAtVw-4DcKgaWmbP-Fo9NYjeCbg1Q9eeo1Kmcmonao0P6Uh0Q",
+          "news": [
+            {
+              "title": "CNA Explains: What happens to your car warranty if a dealer shuts down in Singapore?",
+              "url": "https://www.channelnewsasia.com/singapore/car-dealer-shut-down-warranty-service-6578616",
+              "source": "CNA"
+            },
+            {
+              "title": "askST: What car owners can do after a dealership goes out of business",
+              "url": "https://www.straitstimes.com/singapore/transport/askst-what-to-do-when-a-car-dealership-goes-out-of-business",
+              "source": "The Straits Times"
+            },
+            {
+              "title": "Chinese electric car brand JMEV shuts down S’pore showroom a year after opening",
+              "url": "https://www.businesstimes.com.sg/zh-hans/companies-markets/transport-logistics/chinese-electric-car-brand-jmev-shuts-down-spore-showroom-year-after-opening",
+              "source": "The Business Times"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=warranty&geo=SG",
+          "geo": "SG"
+        },
+        {
+          "rank": 3,
+          "title": "micron technology",
+          "approx_traffic": "100+",
+          "traffic_score": 100,
+          "published": "Tue, 24 Nov 2026 16:30:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOQ0YYgQF0g_XFtyXC5eNd51LuAKGJNDY40DBXi2wcjLdc-MDb7FqWiVF7oN0",
+          "news": [
+            {
+              "title": "This Analyst Just Downgraded Micron Stock. Here's Why.",
+              "url": "https://www.barchart.com/story/news/8991291/this-analyst-just-downgraded-micron-stock-here-s-why",
+              "source": "Barchart.com"
+            },
+            {
+              "title": "Why Did Micron Technology Stock Fall?",
+              "url": "https://www.trefis.com/stock/mu/articles/627777/why-is-micron-technology-stock-falling/2026-11-23",
+              "source": "Trefis"
+            },
+            {
+              "title": "Why Micron Stock Dove Today",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-dove-today-164752382.html",
+              "source": "Yahoo Finance"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=micron+technology&geo=SG",
+          "geo": "SG"
+        },
+        {
+          "rank": 4,
+          "title": "sanae takaichi",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 16:20:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTeV4m9ax0fyRfyd8PR-1OmidjLHjZZ37olP02oMcH4XCAGWOtoDdJNhfkKvs",
+          "news": [
+            {
+              "title": "Why did China choose a retired diplomat to welcome Sanae Takaichi to Apec?",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3375637/why-did-china-choose-retired-diplomat-welcome-sanae-takaichi-apec",
+              "source": "South China Morning Post"
+            },
+            {
+              "title": "Tongue-in-cheek moment between Malaysia PM Anwar and Japanese PM goes viral",
+              "url": "https://www.straitstimes.com/asia/tongue-in-cheek-moment-between-malaysia-pm-anwar-and-japanese-pm-goes-viral",
+              "source": "The Straits Times"
+            },
+            {
+              "title": "Why Xi’s brief APEC handshake with Takaichi reflects a frozen China-Japan relationship",
+              "url": "https://fortune.com/2026/11/24/takaichi-xi-apec-handshake-china-japan-tensions/",
+              "source": "Fortune"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=sanae+takaichi&geo=SG",
+          "geo": "SG"
+        },
+        {
+          "rank": 5,
+          "title": "scrap",
+          "approx_traffic": "2000+",
+          "traffic_score": 2000,
+          "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoABo7Tv7omcAp7vO3mnItCfS_7oBXgRF4mQo6TsSdoEPPIHcnJ-rywz2jYms",
+          "news": [
+            {
+              "title": "Singapore scrap cars going for a steal in JB but some are finding their way back onto roads illegally",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-jb-scrap-cars-resold-illegally-cloning-services-6577441",
+              "source": "CNA"
+            },
+            {
+              "title": "Govt eases automakers’ EPR burden under end-of-life vehicle rules",
+              "url": "https://auto.economictimes.indiatimes.com/news/industry/govt-eases-automakers-epr-burden-under-end-of-life-vehicle-rules/136134873",
+              "source": "ET Auto"
+            },
+            {
+              "title": "Vehicle scrapping rules eased, automakers spared ₹25,000 crore burden",
+              "url": "https://www.business-standard.com/industry/news/environment-ministry-amends-vehicle-scrapping-rules-automakers-financial-burden-126112400575_1.html",
+              "source": "Business Standard"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=scrap&geo=SG",
+          "geo": "SG"
+        },
+        {
+          "rank": 6,
+          "title": "singapore airlines airbus a350",
+          "approx_traffic": "100+",
+          "traffic_score": 100,
+          "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuXowY_E-DmBi4mA3V2PPFhPOMDqtm1mNSM4CcDm5nlV3QmMXLDzw6WcuuGlo",
+          "news": [
+            {
+              "title": "Singapore Airlines Cancels 9 Airbus A350 Routes: See Full List Now",
+              "url": "https://simpleflying.com/singapore-airlines-cancels-9-a350-routes/",
+              "source": "Simple Flying"
+            },
+            {
+              "title": "Airbus Resolves A350 Paint-Cracking Issue With Perforated Copper Foil and Targeted Repairs, Avoiding Fleet Grounding",
+              "url": "https://avi-go.com/news/articles/2e0361473ef0a551ee2f15c769ce90ed",
+              "source": "Avi-Go"
+            },
+            {
+              "title": "Why The Airbus A350 Is Considered One Of The Best Jets For Long Flights",
+              "url": "https://travel.yahoo.com/flights/articles/why-airbus-a350-considered-one-024500722.html",
+              "source": "Yahoo"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=singapore+airlines+airbus+a350&geo=SG",
+          "geo": "SG"
+        },
+        {
+          "rank": 7,
+          "title": "michael burry",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 15:50:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq_7Oos4ct4munWWvpj0zHiCqZZk4dgZ6WM_wPGZIEwzFUBkpehVdqUgUf-7Q",
+          "news": [
+            {
+              "title": "Michael Burry says he 'tried to warn' investors that Nvidia, CoreWeave, and Nebius were headed for trouble",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-tried-warn-145909971.html",
+              "source": "Yahoo Finance"
+            },
+            {
+              "title": "Michael Burry Says Nvidia's ‘Precarious Normal’ Returns With Jensen Huang Back At The Helm: Loads Up On JD, Tencent, BYD Stocks",
+              "url": "https://www.tradingview.com/news/stocktwits:d0ffd2d32094b:0-michael-burry-says-nvidia-s-precarious-normal-returns-with-jensen-huang-back-at-the-helm-loads-up-on-jd-tencent-byd-stocks/",
+              "source": "TradingView"
+            },
+            {
+              "title": "AM Markets Need to Know: Burry trims NVDA puts, China warns over Huang's return, and more",
+              "url": "https://seekingalpha.com/news/4676045-am-markets-need-to-know-burry-trims-nvda-puts-china-warns-over-huangs-return-and-more",
+              "source": "Seeking Alpha"
+            }
+          ],
+          "is_ai_related": true,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=michael+burry&geo=SG",
+          "geo": "SG"
+        },
+        {
+          "rank": 8,
+          "title": "leny yoro",
+          "approx_traffic": "500+",
+          "traffic_score": 500,
+          "published": "Tue, 24 Nov 2026 15:40:00 -0800",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4s6bUOSELdUvw6lFueP1zwhSESzbToy9DpUt7JtmGmBO3aKCwijbLtwZ56xg",
+          "news": [
+            {
+              "title": "Leny Yoro red card: Mauricio Pochettino leads Manchester United fury at VAR ruling",
+              "url": "https://www.bbc.com/sport/football/articles/cqzr5ylmeerlo",
+              "source": "BBC"
+            },
+            {
+              "title": "Sources: Man United to raise concerns after refs' chief backs Yoro red card",
+              "url": "https://www.espn.com/soccer/story/_/id/50585934/man-united-leny-yoro-red-card-howard-webb-premier-league",
+              "source": "ESPN"
+            },
+            {
+              "title": "Man United's Yoro has red card against Liverpool overturned",
+              "url": "https://www.channelnewsasia.com/sport/man-uniteds-yoro-has-red-card-against-liverpool-overturned-6579066",
+              "source": "CNA"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=leny+yoro&geo=SG",
+          "geo": "SG"
+        },
+        {
+          "rank": 9,
+          "title": "cathie wood",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 15:30:00 -0800",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThz-fNL3U8cKw-x8zIbqLxULsSe9KcjLV1qCwBMBfq4lhX2l3p000z731zERk",
+          "news": [
+            {
+              "title": "Cathie Wood’s Nvidia bet misses the 31% rally on Jensen Huang’s return",
+              "url": "https://www.scmp.com/business/china-business/article/3375569/cathie-woods-nvidia-bet-misses-32-rally-jensen-huangs-return",
+              "source": "South China Morning Post"
+            },
+            {
+              "title": "Nvidia’s Comeback Exposes the Trap Gripping Stock Investors",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
+              "source": "Bloomberg.com"
+            },
+            {
+              "title": "Nvidia bears face $12.2 billion hit on Huang's surprise return",
+              "url": "https://www.channelnewsasia.com/business/nvidia-bears-face-122-billion-hit-huangs-surprise-return-6575646",
+              "source": "CNA"
+            }
+          ],
+          "is_ai_related": true,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=cathie+wood&geo=SG",
+          "geo": "SG"
+        },
+        {
+          "rank": 10,
+          "title": "miss universe 2026",
+          "approx_traffic": "200+",
+          "traffic_score": 200,
+          "published": "Tue, 24 Nov 2026 15:10:00 -0800",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcnKzypYpdGh109rjwWiba_vEl3KDS9KOaQaE4pZCOSa_Ty3_8s8qjH0Z-iGU",
+          "news": [
+            {
+              "title": "Miss Universe is embroiled in chaos. Again",
+              "url": "https://www.cnn.com/2026/11/23/style/miss-universe-is-embroiled-in-chaos-again-hnk-intl",
+              "source": "CNN"
+            },
+            {
+              "title": "Who Controls the Miss Universe Pageant? It’s Surprisingly Hard to Tell.",
+              "url": "https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Miss Universe 2026 Controversies Explained: Israel's Costume Row, Visa Delays, Franchise Disputes",
+              "url": "https://www.ndtv.com/lifestyle/miss-universe-2026-controversies-explained-israels-costume-row-visa-delays-franchise-disputes-12369475",
+              "source": "NDTV"
+            }
+          ],
+          "is_ai_related": false,
+          "google_trends_url": "https://trends.google.com/trends/explore?q=miss+universe+2026&geo=SG",
+          "geo": "SG"
+        }
+      ],
+      "name": "新加坡"
+    }
+  ],
+  "combined": [
+    {
+      "rank": 10,
+      "title": "0050",
+      "approx_traffic": "20000+",
+      "traffic_score": 20000,
+      "published": "Tue, 24 Nov 2026 17:30:00 -0800",
+      "picture": "",
+      "news": [],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=0050&geo=TW",
+      "geo": "TW",
+      "region_name": "台湾"
+    },
+    {
+      "rank": 2,
+      "title": "critical incident royal derby hospital",
+      "approx_traffic": "10000+",
+      "traffic_score": 10000,
+      "published": "Tue, 24 Nov 2026 17:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ2FjlQUxZuoiE-EDZBS-46v2X776tOJzIB6MAvFMQpi9MzPktz_8wJ9_i5PI",
+      "news": [
+        {
+          "title": "Critical incident declared at Derby and Burton hospitals",
+          "url": "https://www.bbc.co.uk/news/articles/cqly48ld286do",
+          "source": "BBC"
+        },
+        {
+          "title": "Critical incident declared at Nottingham hospitals amid long waits at QMC A&E",
+          "url": "https://westbridgfordwire.com/critical-incident-declared-at-nottingham-hospitals-amid-long-waits-at-qmc-ae/",
+          "source": "West Bridgford Wire"
+        },
+        {
+          "title": "Flu and discharge waits cause hospital bed shortage",
+          "url": "https://www.aol.com/articles/flu-discharge-waits-cause-hospital-062711000.html",
+          "source": "AOL.com"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=critical+incident+royal+derby+hospital&geo=GB",
+      "geo": "GB",
+      "region_name": "英国"
+    },
+    {
+      "rank": 1,
+      "title": "trae young",
+      "approx_traffic": "2000+",
+      "traffic_score": 2000,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsfYBdzwuawmoc2UVSviwa6mCAwI4w3sf1aWknqwgwkQn78lyw8L_a9jrvQ2Q",
+      "news": [
+        {
+          "title": "As Trae Young struggles, Wizards work on how to get him and their offense going",
+          "url": "https://www.nytimes.com/athletic/7807430/2026/11/24/trae-young-struggle-offense-wizards/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Trae Young Slams Critics amid Career-Low Stat, 'Don't Really Care What Other People's Opinion Is'",
+          "url": "https://bleacherreport.com/articles/25537217-trae-young-slams-critics-amid-career-low-stat-dont-really-care-what-other-peoples-opinion",
+          "source": "Bleacher Report"
+        },
+        {
+          "title": "‘This Is the Only Way He Stays in the League,’ ‘This Don’t Make Sense’ — NBA Fans React as Wizards Reportedly Ask Trae Young to Pass More",
+          "url": "https://sports.yahoo.com/nba/articles/only-way-stays-league-don-201650183.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=trae+young&geo=US",
+      "geo": "US",
+      "region_name": "美国"
+    },
+    {
+      "rank": 1,
+      "title": "ちいかわ くら寿司",
+      "approx_traffic": "2000+",
+      "traffic_score": 2000,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL4sQf38ask0RqxAMzcZWYCrtpt1P4vHspYfMy5pAKxomRVFlcalFeIjlz3Bs",
+      "news": [
+        {
+          "title": "【本日11時から！】くら寿司「ちいかわ」オリジナル寿司皿のLINE抽選がいよいよ開始。全4種を合計100万人にプレゼント",
+          "url": "https://news.yahoo.co.jp/articles/6b60fd2465d158b6fdfa7f45b0f9ab974271ce58",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "くら寿司「ちいかわ」皿がついに配布、広報が明かした“配布方法の変更”と「警察が捜査中」従業員の不正行為",
+          "url": "https://article.auone.jp/c4f0c25e-b80c-4653-bb4c-9a6694696953",
+          "source": "au Webポータル"
+        },
+        {
+          "title": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」が配布！合計100万名分を抽選形式でプレゼント 2枚目の写真・画像",
+          "url": "https://www.inside-games.jp/article/img/2026/11/24/191500/1809456.html",
+          "source": "インサイド"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F+%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8&geo=JP",
+      "geo": "JP",
+      "region_name": "日本"
+    },
+    {
+      "rank": 2,
+      "title": "人民日報",
+      "approx_traffic": "2000+",
+      "traffic_score": 2000,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuJj0Z-aCg8sbPDgMn_Ud8AJckZRpIXETp3orA7AZvy2KSHavkWSZUQHGRHQg",
+      "news": [
+        {
+          "title": "中国経済の不振は「海外メディアのせい」？ 人民日報の主張が国内外から冷淡な視線を送られる理由（ニューズウィーク日本版）",
+          "url": "https://news.yahoo.co.jp/articles/39b6496fae60920d384e31aa7c4e203041f89cc6",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "「中国経済の不振は海外メディアのせい」？ 人民日報の主張が国内外から冷淡な視線を送られる理由",
+          "url": "https://www.newsweekjapan.jp/articles/-/341060?display=b",
+          "source": "ニューズウィーク日本版"
+        },
+        {
+          "title": "【市長の産休】休み方、支え方に正解ない",
+          "url": "https://www.chugoku-np.co.jp/articles/-/929557",
+          "source": "中国新聞デジタル"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1&geo=JP",
+      "geo": "JP",
+      "region_name": "日本"
+    },
+    {
+      "rank": 4,
+      "title": "加權指數",
+      "approx_traffic": "2000+",
+      "traffic_score": 2000,
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07RF_GWGz9ouG00f3xCommmQpNo72ZpVpKWjM2JLohsCyZuY5r1mq5Cp6irk",
+      "news": [
+        {
+          "title": "低軌衛星噴飛！「這權值股」收復4千大關挾32檔漲停 華通、群創、穩懋、昇達科都亮燈",
+          "url": "https://tw.stock.yahoo.com/news/%E4%BD%8E%E8%BB%8C%E8%A1%9B%E6%98%9F%E5%99%B4%E9%A3%9B-%E9%80%99%E6%AC%8A%E5%80%BC%E8%82%A1-%E6%94%B6%E5%BE%A94%E5%8D%83%E5%A4%A7%E9%97%9C%E6%8C%BE32%E6%AA%94%E6%BC%B2%E5%81%9C-%E8%8F%AF%E9%80%9A-%E7%BE%A4%E5%89%B5-090800178.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "【盤後焦點】低軌衛星資金轉強，「10檔概念股」強勢上攻！",
+          "url": "https://cmnews.com.tw/article/cmoney-8e94cfae-e70d-11f1-9e94-46771df272aa",
+          "source": "CMoney投資網誌"
+        },
+        {
+          "title": "低軌衛星跌深反攻！昇達科、華通4檔亮紅燈 事欣科飆9%",
+          "url": "https://news.wearn.com/c2152773.html",
+          "source": "聚財網"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%8A%A0%E6%AC%8A%E6%8C%87%E6%95%B8&geo=TW",
+      "geo": "TW",
+      "region_name": "台湾"
+    },
+    {
+      "rank": 5,
+      "title": "scrap",
+      "approx_traffic": "2000+",
+      "traffic_score": 2000,
+      "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoABo7Tv7omcAp7vO3mnItCfS_7oBXgRF4mQo6TsSdoEPPIHcnJ-rywz2jYms",
+      "news": [
+        {
+          "title": "Singapore scrap cars going for a steal in JB but some are finding their way back onto roads illegally",
+          "url": "https://www.channelnewsasia.com/asia/malaysia-jb-scrap-cars-resold-illegally-cloning-services-6577441",
+          "source": "CNA"
+        },
+        {
+          "title": "Govt eases automakers’ EPR burden under end-of-life vehicle rules",
+          "url": "https://auto.economictimes.indiatimes.com/news/industry/govt-eases-automakers-epr-burden-under-end-of-life-vehicle-rules/136134873",
+          "source": "ET Auto"
+        },
+        {
+          "title": "Vehicle scrapping rules eased, automakers spared ₹25,000 crore burden",
+          "url": "https://www.business-standard.com/industry/news/environment-ministry-amends-vehicle-scrapping-rules-automakers-financial-burden-126112400575_1.html",
+          "source": "Business Standard"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=scrap&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 10,
+      "title": "楽天証券情報漏えい",
+      "approx_traffic": "2000+",
+      "traffic_score": 2000,
+      "published": "Tue, 24 Nov 2026 17:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlUmzToiud6R9WopmawA8HTW5gfcLsYV8H__hdxUiSy0gdXs1hKQOWJoZQIFM",
+      "news": [
+        {
+          "title": "楽天証券、顧客からの預かり資産残高168万件漏洩 性別や国籍も",
+          "url": "https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/",
+          "source": "日本経済新聞"
+        },
+        {
+          "title": "楽天証券、441万件の顧客情報漏えい確認 口座未開設者の情報も（アスキー）",
+          "url": "https://news.yahoo.co.jp/articles/2d7747575c7ee4d4382084f024df2f3aea08efa9",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "楽天証券、資産情報271万件が漏えい 不正取引は確認されず",
+          "url": "https://mainichi.jp/articles/20261124/k00/00m/020/232000c",
+          "source": "毎日新聞"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E6%A5%BD%E5%A4%A9%E8%A8%BC%E5%88%B8%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84&geo=JP",
+      "geo": "JP",
+      "region_name": "日本"
+    },
+    {
+      "rank": 2,
+      "title": "anthony davis",
+      "approx_traffic": "1000+",
+      "traffic_score": 1000,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTU1QGtaeXKR6FhUa0njTTX6kX2CwS8tc1ctNMXARra1mzbKrAWDjEUNfiQ0jA",
+      "news": [
+        {
+          "title": "‘All is quiet’ on trade talks for AD for now",
+          "url": "https://sports.yahoo.com/general/videos/quiet-trade-talks-ad-now-003952384.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "This Anthony Davis Trade Idea Could Really Save Golden State Warriors",
+          "url": "https://bleacherreport.com/articles/25535609-anthony-davis-trade-idea-could-really-save-golden-state-warriors",
+          "source": "Bleacher Report"
+        },
+        {
+          "title": "New mock trade proposal breaks up Stephen Curry and Draymond Green",
+          "url": "https://warriorswire.usatoday.com/story/sports/nba/warriors/2026/11/24/warriors-mock-trade-idea-breaks-up-stephen-curry-draymond-green/92949044007/",
+          "source": "Warriors Wire"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=anthony+davis&geo=US",
+      "geo": "US",
+      "region_name": "美国"
+    },
+    {
+      "rank": 3,
+      "title": "kalshi",
+      "approx_traffic": "1000+",
+      "traffic_score": 1000,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrbkM6Tw5WkGUJpU1JnSXMdaIJ3Xcs0RzPLk36Mq8UYnmMV9Jyz5KDE7gw-PU",
+      "news": [
+        {
+          "title": "Utah scores win against Kalshi as company halts operations in state",
+          "url": "https://www.cnn.com/2026/11/24/politics/utah-criminal-charges-kalshi-dropped",
+          "source": "CNN"
+        },
+        {
+          "title": "Utah asks to drop charges against Kalshi and its founders after Kalshi halts trading there",
+          "url": "https://abcnews.com/Business/wireStory/utah-asks-drop-charges-kalshi-founders-after-kalshi-138416910",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+          "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+          "source": "Ars Technica"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=kalshi&geo=US",
+      "geo": "US",
+      "region_name": "美国"
+    },
+    {
+      "rank": 5,
+      "title": "mavericks vs nuggets",
+      "approx_traffic": "1000+",
+      "traffic_score": 1000,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3NJu_5aTquS9Grnfwy-PUDFAQTAatRZ0RW86qs_fR8ayCtVoetZrRf5lMlDA",
+      "news": [
+        {
+          "title": "MMBets Game of the Week: Mavs and Nuggets battle for Group A supremacy",
+          "url": "https://sports.yahoo.com/betting/articles/mmbets-game-week-mavs-nuggets-205705032.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Nuggets vs. Mavericks prediction, odds, time: 2026 NBA Cup picks for Tuesday, Nov. 24 from proven model",
+          "url": "https://www.cbssports.com/betting/news/nuggets-mavericks-prediction-odds-time-2026-nba-cup-picks-best-bets-tuesday-november-24/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Preview: Denver Nuggets face Dallas Mavericks at home in third NBA Cup game",
+          "url": "https://www.denverstiffs.com/preview-denver-nuggets-face-dallas-mavericks-at-home-in-third-nba-cup-game/",
+          "source": "Denver Stiffs"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=mavericks+vs+nuggets&geo=US",
+      "geo": "US",
+      "region_name": "美国"
+    },
+    {
+      "rank": 7,
+      "title": "逮捕",
+      "approx_traffic": "1000+",
+      "traffic_score": 1000,
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeshiBg0QWXOptnxQ1osxTKD58ORtyCz6_7hzyllWted0beFeqnW8FYAyb7VU",
+      "news": [
+        {
+          "title": "広島 庄原 高齢女性殺害事件で55歳会社員を逮捕",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80916",
+          "source": "NHKニュース"
+        },
+        {
+          "title": "一人暮らし84歳の女性宅に侵入し頭など殴って4万円奪う…発生から1年5か月、強盗殺人容疑で55歳会社員を逮捕",
+          "url": "https://news.yahoo.co.jp/articles/7ff38e757fe0b349799e7fa8571a2b8885541da5",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "親族「長かった」1年5カ月で急展開 男から事情聴く 広島・庄原殺人事件",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/900205143.html",
+          "source": "テレ朝NEWS"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E9%80%AE%E6%8D%95&geo=JP",
+      "geo": "JP",
+      "region_name": "日本"
+    },
+    {
+      "rank": 8,
+      "title": "thomas markle",
+      "approx_traffic": "1000+",
+      "traffic_score": 1000,
+      "published": "Tue, 24 Nov 2026 15:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqDb-Gt7uXUnX2MrKI2Gy5pkiXlRIwJq12gZolDHGTXt8U7ayvUJvtfDfHmM0",
+      "news": [
+        {
+          "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+          "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
+          "source": "BBC"
+        },
+        {
+          "title": "Thomas Markle, father of Meghan, indicted over child sexual abuse material",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/24/thomas-markle-indicted",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Thomas Markle formally charged in US over possessing child sexual abuse material",
+          "url": "https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074",
+          "source": "Sky News"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=thomas+markle&geo=GB",
+      "geo": "GB",
+      "region_name": "英国"
+    },
+    {
+      "rank": 2,
+      "title": "warranty",
+      "approx_traffic": "500+",
+      "traffic_score": 500,
+      "published": "Tue, 24 Nov 2026 17:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs8j071XxfnZyAtVw-4DcKgaWmbP-Fo9NYjeCbg1Q9eeo1Kmcmonao0P6Uh0Q",
+      "news": [
+        {
+          "title": "CNA Explains: What happens to your car warranty if a dealer shuts down in Singapore?",
+          "url": "https://www.channelnewsasia.com/singapore/car-dealer-shut-down-warranty-service-6578616",
+          "source": "CNA"
+        },
+        {
+          "title": "askST: What car owners can do after a dealership goes out of business",
+          "url": "https://www.straitstimes.com/singapore/transport/askst-what-to-do-when-a-car-dealership-goes-out-of-business",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "Chinese electric car brand JMEV shuts down S’pore showroom a year after opening",
+          "url": "https://www.businesstimes.com.sg/zh-hans/companies-markets/transport-logistics/chinese-electric-car-brand-jmev-shuts-down-spore-showroom-year-after-opening",
+          "source": "The Business Times"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=warranty&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 4,
+      "title": "hayden panettiere",
+      "approx_traffic": "500+",
+      "traffic_score": 500,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfSJa0UZN4LKyRZPQFTEEPYGiyK45PXOZYJcs5ILZBqFyqlVWQVPXYYpqyoyg",
+      "news": [
+        {
+          "title": "Hayden Panettiere Left Behind at Least $6.25 Million",
+          "url": "https://www.tmz.com/2026/11/24/hayden-panettiere-left-behind-millions/",
+          "source": "TMZ"
+        },
+        {
+          "title": "Hayden Panettiere’s Estate Valued at Over $6 Million, Ex Wladimir Klitschko Claims",
+          "url": "https://people.com/hayden-panettiere-estate-valued-at-over-usd6-million-ex-wladimir-klitschko-claims-12278551",
+          "source": "People.com"
+        },
+        {
+          "title": "Hayden Panettiere left behind a massive fortune for her 11-year-old daughter, new court docs reveal",
+          "url": "https://pagesix.com/2026/11/24/celebrity-news/hayden-panettiere-left-behind-6m-fortune-for-11-year-old-daughter-kaya/",
+          "source": "Page Six"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=hayden+panettiere&geo=US",
+      "geo": "US",
+      "region_name": "美国"
+    },
+    {
+      "rank": 4,
+      "title": "kayley stead",
+      "approx_traffic": "500+",
+      "traffic_score": 500,
+      "published": "Tue, 24 Nov 2026 16:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk37RmKBuORVvpgwavyprmoxy-zuVPcntz53_VEW2PdbeZ3NmhtRnLYLulwnI",
+      "news": [
+        {
+          "title": "Swansea bride who went ahead with wedding after being jilted gets married",
+          "url": "https://www.bbc.com/news/articles/cxp80yln85nyo",
+          "source": "BBC"
+        },
+        {
+          "title": "My fiance kissed me goodbye the night before our wedding - the next day he went missing, then his dad rang",
+          "url": "https://www.thesun.co.uk/fabulous/41084599/bride-marries-new-man/",
+          "source": "The Sun"
+        },
+        {
+          "title": "Kayley Stead Marries Richard Perrott After 2022 Wedding Heartbreak",
+          "url": "https://cwibc.co.id/en/kayley-stead-marries-richard-perrott",
+          "source": "cwibc.co.id"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=kayley+stead&geo=GB",
+      "geo": "GB",
+      "region_name": "英国"
+    },
+    {
+      "rank": 6,
+      "title": "mizzou basketball",
+      "approx_traffic": "500+",
+      "traffic_score": 500,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRRVbA_G6qaLdVmt4_ykzQlmAZtoHzvBuv6y-sDHF7m0PAYVeR60SwoXK3W28",
+      "news": [
+        {
+          "title": "Tiger Tip-Off Preview: Evansville",
+          "url": "https://247sports.com/college/missouri/article/mizzou-basketball-tiger-tip-off-preview-evansville-293212675/",
+          "source": "247Sports"
+        },
+        {
+          "title": "MBB Preview: Mizzou Looks to Extend Win Streak to 5 Against Evansville",
+          "url": "https://www.rockmnation.com/missouri-tigers-basketball/164796/mbb-preview-mizzou-looks-to-extend-win-streak-to-5-against-evansville",
+          "source": "Rock M Nation"
+        },
+        {
+          "title": "Live updates as Mizzou basketball takes on Evansville at home",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/live-updates-mizzou-basketball-takes-230107941.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=mizzou+basketball&geo=US",
+      "geo": "US",
+      "region_name": "美国"
+    },
+    {
+      "rank": 8,
+      "title": "dig tv show",
+      "approx_traffic": "500+",
+      "traffic_score": 500,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjKujTC8xocWBLiVkv-2RHuObalPeKLfb6cppNpmVlEGSo2If8fpSyu4uFfuM",
+      "news": [
+        {
+          "title": "‘Dig’ Review: Amy Poehler’s Archeology Comedy Is Shockingly Unfunny",
+          "url": "https://variety.com/2026/tv/reviews/dig-review-amy-poehler-peacock-1236952005/",
+          "source": "Variety"
+        },
+        {
+          "title": "'Dig' pulls off a perfect 'Parks and Rec' reunion",
+          "url": "https://mashable.com/entertainment/dig-rashida-jones-cameo",
+          "source": "Mashable"
+        },
+        {
+          "title": "A Penn grad thought archaeology was boring. Now Amy Poehler is starring in a comedy inspired by her experience.",
+          "url": "https://www.inquirer.com/arts/kate-myers-excavations-dig-amy-poehler-20261123.html",
+          "source": "Inquirer.com"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=dig+tv+show&geo=US",
+      "geo": "US",
+      "region_name": "美国"
+    },
+    {
+      "rank": 8,
+      "title": "leny yoro",
+      "approx_traffic": "500+",
+      "traffic_score": 500,
+      "published": "Tue, 24 Nov 2026 15:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4s6bUOSELdUvw6lFueP1zwhSESzbToy9DpUt7JtmGmBO3aKCwijbLtwZ56xg",
+      "news": [
+        {
+          "title": "Leny Yoro red card: Mauricio Pochettino leads Manchester United fury at VAR ruling",
+          "url": "https://www.bbc.com/sport/football/articles/cqzr5ylmeerlo",
+          "source": "BBC"
+        },
+        {
+          "title": "Sources: Man United to raise concerns after refs' chief backs Yoro red card",
+          "url": "https://www.espn.com/soccer/story/_/id/50585934/man-united-leny-yoro-red-card-howard-webb-premier-league",
+          "source": "ESPN"
+        },
+        {
+          "title": "Man United's Yoro has red card against Liverpool overturned",
+          "url": "https://www.channelnewsasia.com/sport/man-uniteds-yoro-has-red-card-against-liverpool-overturned-6579066",
+          "source": "CNA"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=leny+yoro&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 10,
+      "title": "travel",
+      "approx_traffic": "500+",
+      "traffic_score": 500,
+      "published": "Tue, 24 Nov 2026 15:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkQOxfWEKJJFmkxKx6KMLOarUr0fkBz5OdZnNRevGtUfAwoU5cDxh3swK8Wyo",
+      "news": [
+        {
+          "title": "Thanksgiving travel could be messy with storms coming after a week filled with airline glitches",
+          "url": "https://apnews.com/article/thanksgiving-travel-airlines-flight-delays-storms-c26a27fd648f766252b54724d8a897a3",
+          "source": "AP News"
+        },
+        {
+          "title": "When to get to the airport if you’re traveling for Thanksgiving",
+          "url": "https://www.washingtonpost.com/travel/2026/11/23/when-get-airport-if-youre-traveling-thanksgiving/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Travelers prepare for potential delays at RDU ahead of holiday weekend",
+          "url": "https://www.wral.com/news/local/travelers-prepare-for-potential-delays-rdu-holiday-weekend-november-2026/",
+          "source": "WRAL"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=travel&geo=GB",
+      "geo": "GB",
+      "region_name": "英国"
+    },
+    {
+      "rank": 1,
+      "title": "創意",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "",
+      "news": [],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%89%B5%E6%84%8F&geo=TW",
+      "geo": "TW",
+      "region_name": "台湾"
+    },
+    {
+      "rank": 1,
+      "title": "馬國明",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 16:50:00 -0800",
+      "picture": "",
+      "news": [],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E9%A6%AC%E5%9C%8B%E6%98%8E&geo=HK",
+      "geo": "HK",
+      "region_name": "香港"
+    },
+    {
+      "rank": 1,
+      "title": "wizards vs celtics",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA2vw9Com05r7TUyj5gL-EDOtSxx5Qc-hfE-oX67I1lPoPNiScN4QJKIw_o0c",
+      "news": [
+        {
+          "title": "Celtics have bigger issues, but can strengthen grasp on NBA Cup bid in DC",
+          "url": "https://www.nbcsportsboston.com/nba/boston-celtics/celtics-nba-cup-group-standings-schedule/815558/",
+          "source": "NBC Sports Boston"
+        },
+        {
+          "title": "New Polymarket promo code “CLEVE” extends $25 referral promo in time for Celtics-Wizards",
+          "url": "https://www.cleveland.com/betting/2026/11/new-polymarket-promo-code-cleve-extends-25-referral-promo-in-time-for-celtics-wizards.html",
+          "source": "Cleveland.com"
+        },
+        {
+          "title": "Grant Williams (hamstring) off injury report Wednesday",
+          "url": "https://www.fantasypros.com/nba/news/622401/grant-williams-hamstring-off-injury-report-wednesday.php",
+          "source": "FantasyPros"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=wizards+vs+celtics&geo=GB",
+      "geo": "GB",
+      "region_name": "英国"
+    },
+    {
+      "rank": 2,
+      "title": "李嘉欣",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 16:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaW_z5xHgnMnlsAbGgAS8dfDE-h1BHlb-HmLf-fND8DwewJ0RccFZ17YBqJHY",
+      "news": [
+        {
+          "title": "李嘉欣上海庆祝结婚18周年 高级餐厅甜蜜依偎许晋亨画面曝光 15岁儿子疑同行超靓仔",
+          "url": "https://www.stheadline.com/zh-hans/film-drama/3640645/%E6%9D%8E%E5%98%89%E6%AC%A3%E4%B8%8A%E6%B5%B7%E5%BA%86%E7%A5%9D%E7%BB%93%E5%A9%9A18%E5%91%A8%E5%B9%B4-%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E7%94%9C%E8%9C%9C%E4%BE%9D%E5%81%8E%E8%AE%B8%E6%99%8B%E4%BA%A8%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89-15%E5%B2%81%E5%84%BF%E5%AD%90%E7%96%91%E5%90%8C%E8%A1%8C%E8%B6%85%E9%9D%93%E4%BB%94",
+          "source": "星島頭條"
+        },
+        {
+          "title": "【今日当年】李嘉欣与许晋亨豪宅大婚 八卡巨钻一亿打造奢华婚宴",
+          "url": "https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%A8%B1%E4%B9%90/60413730/%E4%BB%8A%E6%97%A5%E5%BD%93%E5%B9%B4-%E6%9D%8E%E5%98%89%E6%AC%A3%E4%B8%8E%E8%AE%B8%E6%99%8B%E4%BA%A8%E8%B1%AA%E5%AE%85%E5%A4%A7%E5%A9%9A-%E5%85%AB%E5%8D%A1%E5%B7%A8%E9%92%BB%E4%B8%80%E4%BA%BF%E6%89%93%E9%80%A0%E5%A5%A2%E5%8D%8E%E5%A9%9A%E5%AE%B4",
+          "source": "香港01"
+        },
+        {
+          "title": "李嘉欣许晋亨恩爱晒合影 庆祝结婚18周年",
+          "url": "https://news.china.com/socialgd/10000169/20261124/49901751.html",
+          "source": "中华网"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E6%9D%8E%E5%98%89%E6%AC%A3&geo=HK",
+      "geo": "HK",
+      "region_name": "香港"
+    },
+    {
+      "rank": 3,
+      "title": "毯",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 16:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN3_8F8v5SMrlHlHxgeEVGdKNPUHePCuKBQaE8AihHAL4yWMd-CS55qNUGztE",
+      "news": [
+        {
+          "title": "柯煒林獨挑大樑主持台灣金馬獎！Will Or代表作、私下穿搭解構",
+          "url": "https://hk.news.yahoo.com/%E6%9F%AF%E7%85%92%E6%9E%97%E7%8D%A8%E6%8C%91%E5%A4%A7%E6%A8%91%E4%B8%BB%E6%8C%81%E5%8F%B0%E7%81%A3%E9%87%91%E9%A6%AC%E7%8D%8E-or%E4%BB%A3%E8%A1%A8%E4%BD%9C-%E7%A7%81%E4%B8%8B%E7%A9%BF%E6%90%AD%E8%A7%A3%E6%A7%8B-032154514.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "金馬獎2026｜柯煒林破天荒獨挑主持一職 抗癌逆境踏上最高殿堂",
+          "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413662/%E9%87%91%E9%A6%AC%E7%8D%8E2026-%E6%9F%AF%E7%85%92%E6%9E%97%E7%A0%B4%E5%A4%A9%E8%8D%92%E7%8D%A8%E6%8C%91%E4%B8%BB%E6%8C%81%E4%B8%80%E8%81%B7-%E6%8A%97%E7%99%8C%E9%80%86%E5%A2%83%E8%B8%8F%E4%B8%8A%E6%9C%80%E9%AB%98%E6%AE%BF%E5%A0%82",
+          "source": "香港01"
+        },
+        {
+          "title": "＃2026 金馬獎：阮經天、劉冠廷角逐影帝！第 63 屆完整入圍名單一次看",
+          "url": "https://popbee.com/celebrities/2026-golden-horse-awards-the-complete-nominees-list-and-how-to-watch",
+          "source": "Popbee"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E6%AF%AF&geo=HK",
+      "geo": "HK",
+      "region_name": "香港"
+    },
+    {
+      "rank": 3,
+      "title": "明治神宮大会",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLpDHAmAck7M02Rp-5oDOzV87PbX73KyWm3p2-S60tmoX-4m5UEhJzdh7MGHk",
+      "news": [
+        {
+          "title": "【明治神宮大会】横浜・脇山魁音が大会タイ記録の10打点、巨人ドラ1・織田の女房役が快挙（日刊スポーツ）",
+          "url": "https://news.yahoo.co.jp/articles/1ea6c7ee5c1a692b04f2ef4e042ff19764d892f8",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "横浜・川上慧が６回にソロホームラン 主将がチーム鼓舞「取れる点は全部」 高校野球 明治神宮野球大会",
+          "url": "https://www.kanaloco.jp/sports/baseball/hsbaseball/article-1322839.html",
+          "source": "カナロコ"
+        },
+        {
+          "title": "ピッチャー交代もなんのその！横浜が逆転",
+          "url": "https://vk.sportsbull.jp/koshien/video/abc/meijijingu/meijijingu_inning2026/meijijingu_inning2026_71.html",
+          "source": "バーチャル高校野球"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AE%E5%A4%A7%E4%BC%9A&geo=JP",
+      "geo": "JP",
+      "region_name": "日本"
+    },
+    {
+      "rank": 3,
+      "title": "cd projekt red",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl7vUj6u0dzkUMFn6bX1DrP7hxc_9s0U72q_xJU3Jmu6YMHxsoPRAbfs21bBI",
+      "news": [
+        {
+          "title": "CDPR has entered a marketing agreement with Sony for The Witcher 4",
+          "url": "https://www.videogameschronicle.com/news/cdpr-has-entered-a-marketing-agreement-with-sony-for-the-witcher-4/",
+          "source": "Video Games Chronicle"
+        },
+        {
+          "title": "The Witcher 4 Should Improve on Witcher 3 as Much as GTA 6 Did on GTA 5, Says CDPR",
+          "url": "https://www.techpowerup.com/355188/the-witcher-4-should-improve-on-witcher-3-as-much-as-gta-6-did-on-gta-5-says-cdpr",
+          "source": "TechPowerUp"
+        },
+        {
+          "title": "The Witcher 4 will be a GTA 6-like leap forward, CD Projekt Red says",
+          "url": "https://www.polygon.com/the-witcher-4-vs-gta-6-cyberpunk-2-cd-projekt-red/",
+          "source": "Polygon.com"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=cd+projekt+red&geo=GB",
+      "geo": "GB",
+      "region_name": "英国"
+    },
+    {
+      "rank": 4,
+      "title": "生肖",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 16:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_7b57reyS6E6k_T7UoZu7SB7YK_W3sp9atTjZYDjdHXGmDY8Opo2yoSUbcsA",
+      "news": [
+        {
+          "title": "迷霧散去大翻身？！12月星座總運出爐：順風王、最雷苦主揭曉",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5652287",
+          "source": "自由娛樂"
+        },
+        {
+          "title": "最懂得感恩的4生肖！重情重義很念舊情， 受到幫助必定加倍奉還",
+          "url": "https://www.storm.mg/lifestyle/11182285",
+          "source": "風傳媒"
+        },
+        {
+          "title": "12月否極泰來！「3生肖」霉運退散翻身 事業感情雙開花",
+          "url": "https://news.tvbs.com.tw/life/4052877",
+          "source": "TVBS新聞網"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E7%94%9F%E8%82%96&geo=HK",
+      "geo": "HK",
+      "region_name": "香港"
+    },
+    {
+      "rank": 4,
+      "title": "sanae takaichi",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 16:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTeV4m9ax0fyRfyd8PR-1OmidjLHjZZ37olP02oMcH4XCAGWOtoDdJNhfkKvs",
+      "news": [
+        {
+          "title": "Why did China choose a retired diplomat to welcome Sanae Takaichi to Apec?",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375637/why-did-china-choose-retired-diplomat-welcome-sanae-takaichi-apec",
+          "source": "South China Morning Post"
+        },
+        {
+          "title": "Tongue-in-cheek moment between Malaysia PM Anwar and Japanese PM goes viral",
+          "url": "https://www.straitstimes.com/asia/tongue-in-cheek-moment-between-malaysia-pm-anwar-and-japanese-pm-goes-viral",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "Why Xi’s brief APEC handshake with Takaichi reflects a frozen China-Japan relationship",
+          "url": "https://fortune.com/2026/11/24/takaichi-xi-apec-handshake-china-japan-tensions/",
+          "source": "Fortune"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=sanae+takaichi&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 5,
+      "title": "川湖股價",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcREamWEcBkCgVdsiWFOJnFPB629l2OL5u7Ugvu4A_v2xOwFRu6lED2YQJqKU",
+      "news": [
+        {
+          "title": "【即時新聞】川湖受惠政府五大穩市利多發酵，盤中強勢大漲逾5%展現反彈企圖心",
+          "url": "https://www.cmoney.tw/forum/article/189553135",
+          "source": "CMoney"
+        },
+        {
+          "title": "〈熱門股〉川湖股價拉回修正仍獲外資承接 前3季狂賺逾23個股本",
+          "url": "https://tw.tradingview.com/news/cnyes:30a308b98acdf:0/",
+          "source": "TradingView"
+        },
+        {
+          "title": "【11/17 產業即時新聞】電子中游-金屬製品族群重挫8.66%，高價滑軌雙雄川湖、南俊國際遭逢強烈修正壓力",
+          "url": "https://cmnews.com.tw/article/cmoneyairesearcher-6ed1f7ab-e226-11f1-9acc-ea36215f7967",
+          "source": "CMoney投資網誌"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%B7%9D%E6%B9%96%E8%82%A1%E5%83%B9&geo=TW",
+      "geo": "TW",
+      "region_name": "台湾"
+    },
+    {
+      "rank": 5,
+      "title": "印尼",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTydzx2araFMvQdZEFZg3XdDYpiir55rdobeXrloVQf-AEq1VUxtiLeQTIJQFs",
+      "news": [
+        {
+          "title": "印尼與中國之間的橋樑：巴厘島「印尼-中國橋樑論壇」匯聚政府、投資者、開發商與未來科技",
+          "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section=index&category=mediaoutreach&newsid=503652",
+          "source": "etnet 經濟通"
+        },
+        {
+          "title": "(影) 印尼海軍攔截中國貨船 查獲數百噸火箭製造材料、上百萬手機SIM卡",
+          "url": "https://newtalk.tw/news/view/2026-11-23/1073282",
+          "source": "Newtalk新聞"
+        },
+        {
+          "title": "印尼海軍攔截孟加拉貨船 起獲405噸飛彈原料化學品",
+          "url": "https://n.yam.com/Article/20261124952010",
+          "source": "蕃新聞"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%8D%B0%E5%B0%BC&geo=HK",
+      "geo": "HK",
+      "region_name": "香港"
+    },
+    {
+      "rank": 5,
+      "title": "景気回復",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoBbFkdj0xOqa8HHs9BCZxJdLyuMwZY11TJ2nt7QtuhQitxNvnf6HDT57XGEc",
+      "news": [
+        {
+          "title": "日本の消費「コロナ前」下回る 四半世紀で1割増どまり、米欧と格差",
+          "url": "https://www.nikkei.com/article/DGXZQOUA1429C0U6A111C2000000/",
+          "source": "日本経済新聞"
+        },
+        {
+          "title": "米ショッピングモール、ネット買い物客の実店舗呼び戻しを期待",
+          "url": "https://www.newsweekjapan.jp/articles/-/341191",
+          "source": "ニューズウィーク日本版"
+        },
+        {
+          "title": "日銀は3月に「利上げ終了」か、27年の日本経済は景気回復基調もAI・半導体投資と消費低迷の“綱引き”続く",
+          "url": "https://diamond.jp/articles/-/404063",
+          "source": "ダイヤモンド・オンライン"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E6%99%AF%E6%B0%97%E5%9B%9E%E5%BE%A9&geo=JP",
+      "geo": "JP",
+      "region_name": "日本"
+    },
+    {
+      "rank": 5,
+      "title": "red dead redemption",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 16:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi4N3GTgE-lN02mOIjOEbuTfzrYz95BUyuUWQeIpHu0oZzrsfLjakMqlZTIrI",
+      "news": [
+        {
+          "title": "Grand Theft Auto would be a huge TV series – here’s why it will never happen",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/grand-theft-auto-would-be-a-huge-tv-series-heres-why-it-will-never-happen",
+          "source": "The Guardian"
+        },
+        {
+          "title": "‘GTA 6’ Rejected Hollywood. ‘Red Dead Redemption’ Is in Play — for $100M+",
+          "url": "https://theankler.com/gta-6-rejected-hollywood-red-dead-redemption-is-in-play-for-100m/",
+          "source": "The Ankler"
+        },
+        {
+          "title": "Take-Two Open To \"Red Dead Redemption\" Film & TV?",
+          "url": "https://www.darkhorizons.com/take-two-open-to-red-dead-redemption-film-tv/",
+          "source": "Dark Horizons"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=red+dead+redemption&geo=GB",
+      "geo": "GB",
+      "region_name": "英国"
+    },
+    {
+      "rank": 6,
+      "title": "中華電信股價",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGMN1mYxdt-ryibN_JSbrl8x1aXdGC1CyYaLkgvXqTJZ_df0FW8KI9dN2UL6c",
+      "news": [
+        {
+          "title": "不輸0050？他推薦「這檔防禦神股」：最強避震器",
+          "url": "https://tw.news.yahoo.com/0050%E6%8A%B1%E5%88%B0%E6%B2%92%E4%BF%A1%E5%BF%83-%E8%82%A1%E6%B0%91%E6%94%B9%E5%AD%98-%E9%80%99%E6%AA%94%E9%98%B2%E7%A6%A6%E7%A5%9E%E8%82%A1-%E6%9C%80%E5%BC%B7%E9%81%BF%E9%9C%87%E5%99%A8-010600757.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "中華電、玉山金抗震權證靚- 日報",
+          "url": "https://www.ctee.com.tw/news/20261123700257-439901",
+          "source": "工商時報"
+        },
+        {
+          "title": "2352 佳世達 - 笑死 大盤大跌我大跌 大盤反彈我大跌 - 股市爆料同學會",
+          "url": "https://www.cmoney.tw/forum/article/189540841",
+          "source": "CMoney"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E8%82%A1%E5%83%B9&geo=TW",
+      "geo": "TW",
+      "region_name": "台湾"
+    },
+    {
+      "rank": 6,
+      "title": "兩餸飯",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQota6vakSR_4PSlBZiyvNHpz8P9SlKhAxpXYLpGJFvr_C4qLI-JUYbpLyY7zI",
+      "news": [
+        {
+          "title": "兩餸飯名店權發小廚 聖誕到會不加價",
+          "url": "https://www.wenweipo.com/a/202611/24/AP6b04101ee4b028ec01954b31.html",
+          "source": "香港文匯報"
+        },
+        {
+          "title": "人氣兩餸飯「權發小廚」推聖誕到會！$200任選熱辣辣即炒椒鹽蝦/牛腩/生炒骨負責人豪言：人均$50已經好豐富",
+          "url": "https://www.stheadline.com/food/3640679/%E4%BA%BA%E6%B0%A3%E5%85%A9%E9%A4%B8%E9%A3%AF%E6%AC%8A%E7%99%BC%E5%B0%8F%E5%BB%9A%E6%8E%A8%E8%81%96%E8%AA%95%E5%88%B0%E6%9C%83200%E4%BB%BB%E9%81%B8%E7%86%B1%E8%BE%A3%E8%BE%A3%E5%8D%B3%E7%82%92%E6%A4%92%E9%B9%BD%E8%9D%A6%E7%89%9B%E8%85%A9%E7%94%9F%E7%82%92%E9%AA%A8-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E8%B1%AA%E8%A8%80%E4%BA%BA%E5%9D%8750%E5%B7%B2%E7%B6%93%E5%A5%BD%E8%B1%90%E5%AF%8C",
+          "source": "星島頭條"
+        },
+        {
+          "title": "人气两餸饭「权发小厨」推圣诞到会！$200任选热辣辣即炒椒盐虾/牛腩/生炒骨负责人豪言：人均$50已经好丰富",
+          "url": "https://www.stheadline.com/zh-hans/food/3640679/%E4%BA%BA%E6%B0%94%E4%B8%A4%E9%A4%B8%E9%A5%AD%E6%9D%83%E5%8F%91%E5%B0%8F%E5%8E%A8%E6%8E%A8%E5%9C%A3%E8%AF%9E%E5%88%B0%E4%BC%9A200%E4%BB%BB%E9%80%89%E7%83%AD%E8%BE%A3%E8%BE%A3%E5%8D%B3%E7%82%92%E6%A4%92%E7%9B%90%E8%99%BE%E7%89%9B%E8%85%A9%E7%94%9F%E7%82%92%E9%AA%A8-%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%B1%AA%E8%A8%80%E4%BA%BA%E5%9D%8750%E5%B7%B2%E7%BB%8F%E5%A5%BD%E4%B8%B0%E5%AF%8C",
+          "source": "星島頭條"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%85%A9%E9%A4%B8%E9%A3%AF&geo=HK",
+      "geo": "HK",
+      "region_name": "香港"
+    },
+    {
+      "rank": 6,
+      "title": "ダークウェブ",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxC9kXUwC6GnHRKDI4sIZ7Gst-_CNcQJHexSuGSB7qkT4oMZrrGGiU7KCLYQ",
+      "news": [
+        {
+          "title": "流出した免許証や自撮り写真が売買 ダークウェブで見た個人情報悪用 [情報漏洩・個人情報流出の最新ニュース]",
+          "url": "https://www.asahi.com/articles/ASVCN0PYNVCNUTIL028M.html",
+          "source": "朝日新聞"
+        },
+        {
+          "title": "「ダークウェブ」の現役ブローカーが漏れた個人情報の\"お値段\"を公開！（週プレNEWS）",
+          "url": "https://news.yahoo.co.jp/articles/96a9aab9f9999ef27b0f7df39182646077d737f1",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "［ニッポンクライシス］ＦＸクラウド・免許証・クレカ…流出４・７億件 昨年の１４倍、盗んだ情報「公開」脅し",
+          "url": "https://www.yomiuri.co.jp/economy/20261122-GYT1T00135/",
+          "source": "読売新聞"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A7%E3%83%96&geo=JP",
+      "geo": "JP",
+      "region_name": "日本"
+    },
+    {
+      "rank": 6,
+      "title": "magic vs pistons",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 16:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGqEdEXbiza7u5Jaebz1GVjk6gT-GC9ABy2KygtfJbALDZWXOqJCG1--8OtY",
+      "news": [
+        {
+          "title": "Polymarket’s Pistons vs. Magic Market Sees Cade Cunningham Points Over 23.5 Odds Rise 26%",
+          "url": "https://www.tradingview.com/news/binance_news:d43367061094b:0-polymarket-s-pistons-vs-magic-market-sees-cade-cunningham-points-over-23-5-odds-rise-26/",
+          "source": "TradingView"
+        },
+        {
+          "title": "How Franz Wagner, Magic Can Secure NBA Cup Win Over Cade Cunningham, Pistons",
+          "url": "https://www.si.com/nba/magic/onsi/how-franz-wagner-magic-can-secure-nba-cup-win-over-cade-cunningham-pistons-01m86ygep8fd",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Orlando Magic vs. Detroit Pistons: Game Preview",
+          "url": "https://orlandomagic.com/news/orlando-magic-detroit-pistons-game-preview-injury-report-20261124",
+          "source": "NBA.com"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=magic+vs+pistons&geo=GB",
+      "geo": "GB",
+      "region_name": "英国"
+    },
+    {
+      "rank": 7,
+      "title": "mario kart world",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTQtsOLyIB9zStjPSG5jg8iP8pm828Lz6QXQxHwPGgzxfXPsMsXbJIny3mk4U",
+      "news": [
+        {
+          "title": "Mario Kart World update adds 8 courses and more",
+          "url": "https://www.nintendo.com/us/whatsnew/mario-kart-world-update-adds-eight-courses-and-more/",
+          "source": "Nintendo"
+        },
+        {
+          "title": "Mario Kart World 1.9.0 update out now, patch notes",
+          "url": "https://nintendoeverything.com/mario-kart-world-1-9-0-update-out-now-patch-notes/",
+          "source": "Nintendo Everything"
+        },
+        {
+          "title": "Nintendo says Mario Kart World’s free update remixes eight familiar courses",
+          "url": "https://digg.com/gaming/ekcy9zwh",
+          "source": "Digg"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=mario+kart+world&geo=US",
+      "geo": "US",
+      "region_name": "美国"
+    },
+    {
+      "rank": 7,
+      "title": "肯德基末日套餐",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOze5G8LjL0LAwOGOc4kx6zz3w3f2xkgMjAP7HEjiKVe-48YjI5w7HB5r3cog",
+      "news": [
+        {
+          "title": "肯德基x漫威！末日全餐11/24開賣，五款限定盲盒同步登場",
+          "url": "https://www.cardu.com.tw/epoint/detail.php?66752",
+          "source": "卡優新聞網"
+        },
+        {
+          "title": "Hot Toys「《復仇者聯盟：末日崛起》洛基Artisan 植髮版」1/6比例收藏級可動人偶故事之神換上TVA制服限量登場！",
+          "url": "https://www.toy-people.com/?p=116887",
+          "source": "玩具人 TOY PEOPLE"
+        },
+        {
+          "title": "史迪奇化身漫威最強反派！Hot Toys 推出「末日博士史迪奇」收藏模型全球限量首發400 組 | 上報",
+          "url": "https://today.line.me/tw/v3/article/MLBx8g0",
+          "source": "LINE TODAY"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E6%9C%AB%E6%97%A5%E5%A5%97%E9%A4%90&geo=TW",
+      "geo": "TW",
+      "region_name": "台湾"
+    },
+    {
+      "rank": 7,
+      "title": "michael burry",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 15:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq_7Oos4ct4munWWvpj0zHiCqZZk4dgZ6WM_wPGZIEwzFUBkpehVdqUgUf-7Q",
+      "news": [
+        {
+          "title": "Michael Burry says he 'tried to warn' investors that Nvidia, CoreWeave, and Nebius were headed for trouble",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-tried-warn-145909971.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Michael Burry Says Nvidia's ‘Precarious Normal’ Returns With Jensen Huang Back At The Helm: Loads Up On JD, Tencent, BYD Stocks",
+          "url": "https://www.tradingview.com/news/stocktwits:d0ffd2d32094b:0-michael-burry-says-nvidia-s-precarious-normal-returns-with-jensen-huang-back-at-the-helm-loads-up-on-jd-tencent-byd-stocks/",
+          "source": "TradingView"
+        },
+        {
+          "title": "AM Markets Need to Know: Burry trims NVDA puts, China warns over Huang's return, and more",
+          "url": "https://seekingalpha.com/news/4676045-am-markets-need-to-know-burry-trims-nvda-puts-china-warns-over-huangs-return-and-more",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_ai_related": true,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=michael+burry&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 8,
+      "title": "緯創股價",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH1nlCzpf8Sw50qmgAKD0pbdLbB60CbdNQJsWFFmDl3yXEb9pR2W7lAXZiTmY",
+      "news": [
+        {
+          "title": "同學會熱門 NO.31《緯創》11/24 怎麼走？盤後一次看懂",
+          "url": "https://www.cmoney.tw/forum/article/189772272",
+          "source": "CMoney"
+        },
+        {
+          "title": "緯創AI伺服器動能強- 日報",
+          "url": "https://www.ctee.com.tw/news/20261125700231-439901",
+          "source": "工商時報"
+        },
+        {
+          "title": "Factset 最新調查：緯創(3231-TW)EPS預估上修至18.24元，預估目標價為289.5元｜新聞快訊｜豐雲學堂",
+          "url": "https://www.sinotrade.com.tw/richclub/news/6af65b5471992d5745c78ac8",
+          "source": "永豐金證券"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E7%B7%AF%E5%89%B5%E8%82%A1%E5%83%B9&geo=TW",
+      "geo": "TW",
+      "region_name": "台湾"
+    },
+    {
+      "rank": 8,
+      "title": "テオスカー・ヘルナンデス",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwS-uy63MAxblSVgArqO4ZLJYgjXTGF_9tgLLEzRX6O8uhOnugSiVRRAFMd6E",
+      "news": [
+        {
+          "title": "T・ヘルナンデスをトレード放出→26歳右腕を獲得か「十分な理由がある」若返りに総年俸削減、米メディアは退団と先読み「噂が絶えない」（THE DIGEST）",
+          "url": "https://news.yahoo.co.jp/articles/d8baf4a39ff6dc54e9c3ef959250e1dd14730dda",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "ドジャース、次はテオ放出の動きか、21歳有望株デパウラ台頭で外野再編の可能性…主力の大半が30代で”世代交代”急務、FA市場の大物外野手不足も影響",
+          "url": "https://www.chunichi.co.jp/article/1343468",
+          "source": "中日新聞Web"
+        },
+        {
+          "title": "【ドジャース】フィリーズと「二重トレード」急浮上 テオスカー放出と〝因縁右腕〟獲得の思惑",
+          "url": "https://www.tokyo-sports.co.jp/articles/-/410700",
+          "source": "東スポWEB"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E3%83%86%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%BB%E3%83%98%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9&geo=JP",
+      "geo": "JP",
+      "region_name": "日本"
+    },
+    {
+      "rank": 9,
+      "title": "heather dinich",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRis8h3yTOq7uWkMkBguQjhy2a93oUeJFXstfoYLT5-a52KFD-I3nEXC8SNm_U",
+      "news": [
+        {
+          "title": "‘The Downfall of (Kirk) Herbstreit Is Tragic,’ ‘He Just Ruined It’ — CFB Fans React As ESPN Star Denies Involvement in Viral Ad Mocking CFP Committee",
+          "url": "https://sports.yahoo.com/college-football/articles/downfall-kirk-herbstreit-tragic-just-202629707.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Kirk Herbstreit Distances Himself From Viral Video Mocking ESPN, CFP",
+          "url": "https://frontofficesports.com/article/kirk-herbstreit-espn-sec-shorts-video/",
+          "source": "Front Office Sports"
+        },
+        {
+          "title": "Herbstreit says he’s ‘not involved’ in SEC Shorts production after latest video mocks CFP, ESPN",
+          "url": "https://www.al.com/sports/2026/11/herbstreit-says-hes-not-involved-in-sec-shorts-production-after-latest-video-mocks-cfp-espn.html",
+          "source": "AL.com"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=heather+dinich&geo=US",
+      "geo": "US",
+      "region_name": "美国"
+    },
+    {
+      "rank": 9,
+      "title": "廣達股價",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "picture": "",
+      "news": [],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%BB%A3%E9%81%94%E8%82%A1%E5%83%B9&geo=TW",
+      "geo": "TW",
+      "region_name": "台湾"
+    },
+    {
+      "rank": 9,
+      "title": "ウクライナ ロシア",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6rihpcGqzuqxUHEV6Xt-wUtgq_zHNNQSsWf_Gyn9E3VoeCOkNbzEQgiQeJ8o",
+      "news": [
+        {
+          "title": "ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算",
+          "url": "https://www.yomiuri.co.jp/world/20261124-GYT1T00383/",
+          "source": "読売新聞"
+        },
+        {
+          "title": "4分に1人、ロシア兵72万人がウクライナ侵攻開始後に死亡か 流出データをもとに推計（CNN.co.jp）",
+          "url": "https://news.yahoo.co.jp/articles/f680c182c237c46c6c6267b02b6c608dd7d78921",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "ロシア軍の戦死者49万人超か ロシア独立系メディアが分析",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80935",
+          "source": "NHKニュース"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A+%E3%83%AD%E3%82%B7%E3%82%A2&geo=JP",
+      "geo": "JP",
+      "region_name": "日本"
+    },
+    {
+      "rank": 9,
+      "title": "amanda seyfried",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 15:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPEjiQFJ--OidhDhujJcbTtA-5lMFKPHu0u9ooq40Wj4n3A4B5Ol-VncMdZ6g",
+      "news": [
+        {
+          "title": "Elizabeth Holmes' Ex-Assistant Speaks Out on 'You Can See Everything'",
+          "url": "https://variety.com/2026/tv/news/elizabeth-holmes-ex-assistant-you-can-see-everything-1236957074/",
+          "source": "Variety"
+        },
+        {
+          "title": "Elizabeth Holmes’ Former Assistant Opens Up About ‘You Can See Everything,’ Praises Amanda Seyfried",
+          "url": "https://www.imdb.com/es/news/ni66126879/?ref_=nwc_art_perm",
+          "source": "IMDb"
+        },
+        {
+          "title": "Amanda Seyfried Criticizes Billy Evans After Documentary Encounter",
+          "url": "https://cwibc.co.id/en/amanda-seyfried-billy-evans-documentary",
+          "source": "cwibc.co.id"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=amanda+seyfried&geo=GB",
+      "geo": "GB",
+      "region_name": "英国"
+    },
+    {
+      "rank": 9,
+      "title": "cathie wood",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 15:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThz-fNL3U8cKw-x8zIbqLxULsSe9KcjLV1qCwBMBfq4lhX2l3p000z731zERk",
+      "news": [
+        {
+          "title": "Cathie Wood’s Nvidia bet misses the 31% rally on Jensen Huang’s return",
+          "url": "https://www.scmp.com/business/china-business/article/3375569/cathie-woods-nvidia-bet-misses-32-rally-jensen-huangs-return",
+          "source": "South China Morning Post"
+        },
+        {
+          "title": "Nvidia’s Comeback Exposes the Trap Gripping Stock Investors",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Nvidia bears face $12.2 billion hit on Huang's surprise return",
+          "url": "https://www.channelnewsasia.com/business/nvidia-bears-face-122-billion-hit-huangs-surprise-return-6575646",
+          "source": "CNA"
+        }
+      ],
+      "is_ai_related": true,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=cathie+wood&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 10,
+      "title": "john candy",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtekzVxLBUVvqdjzNwQzGMoP4cR5ouC-CQokrSRFHTIIjkoxcvEOchhTARG3Q",
+      "news": [
+        {
+          "title": "Steve Martin’s 1987 Comedy Whose Cast ‘Lived the Plot’ Named Best Thanksgiving Movie",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/steve-martin-1987-comedy-whose-171000128.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "The Holy Fool in ‘Planes, Trains and Automobiles’",
+          "url": "https://www.mccookgazette.com/opinion/the-holy-fool-in-planes-trains-and-automobiles-c5cfbfc3",
+          "source": "McCook Gazette"
+        },
+        {
+          "title": "Commentary: John A. Tures: Planes, banks and automobiles: Getting hacked for the holidays",
+          "url": "https://www.myjournalcourier.com/opinion/article/john-a-tures-getting-hacked-holidays-22538349.php",
+          "source": "Jacksonville Journal-Courier"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=john+candy&geo=US",
+      "geo": "US",
+      "region_name": "美国"
+    },
+    {
+      "rank": 10,
+      "title": "诈骗",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 15:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgv9BvCP6UK_P_VZ3tNol00JFPOUQOjK-ec4MHqzL9Bldla77YIHM37sIjvvw",
+      "news": [
+        {
+          "title": "美司法部成立“超级智能特别工作组”，打击智能技术滥用活动",
+          "url": "https://www.secrss.com/articles/95573",
+          "source": "安全内参"
+        },
+        {
+          "title": "美史上最大反詐行動追回80億 起訴逾800人",
+          "url": "https://www.epochtimes.com/gb/26/11/24/n14894594.htm",
+          "source": "大紀元"
+        },
+        {
+          "title": "美国司法部宣布在诈骗网络中逮捕超800人——UPI",
+          "url": "https://ua.news/cn/dovkolo-svitu/miniust-ssha-ogolosiv-pro-ponad-800-areshtiv-u-shakhraiskikh-merezhakh-upi",
+          "source": "UA.NEWS"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E8%AF%88%E9%AA%97&geo=HK",
+      "geo": "HK",
+      "region_name": "香港"
+    },
+    {
+      "rank": 10,
+      "title": "miss universe 2026",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 15:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcnKzypYpdGh109rjwWiba_vEl3KDS9KOaQaE4pZCOSa_Ty3_8s8qjH0Z-iGU",
+      "news": [
+        {
+          "title": "Miss Universe is embroiled in chaos. Again",
+          "url": "https://www.cnn.com/2026/11/23/style/miss-universe-is-embroiled-in-chaos-again-hnk-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "Who Controls the Miss Universe Pageant? It’s Surprisingly Hard to Tell.",
+          "url": "https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Miss Universe 2026 Controversies Explained: Israel's Costume Row, Visa Delays, Franchise Disputes",
+          "url": "https://www.ndtv.com/lifestyle/miss-universe-2026-controversies-explained-israels-costume-row-visa-delays-franchise-disputes-12369475",
+          "source": "NDTV"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=miss+universe+2026&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 1,
+      "title": "rebecca lim",
+      "approx_traffic": "100+",
+      "traffic_score": 100,
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxwr87zlAlLu8bjbRVt2fgviYsQ0fpsqyzm7B4_zSTx0UeOY8X9D1MhWgvsAw",
+      "news": [
+        {
+          "title": "Back at work after second child, Rebecca Lim gets just two days off a month and wanted to quit new drama before filming",
+          "url": "https://www.zaobao.com.sg/en/entertainment/back-work-after-second-child-rebecca-lim-gets-just-two-days-month-and-wanted-quit-new-drama-filming",
+          "source": "联合早报"
+        },
+        {
+          "title": "Stars speak out: Rebecca Lim enjoys a little time to herself",
+          "url": "https://www.zaobao.com.sg/en/entertainment/stars-speak-out-rebecca-lim-enjoys-little-time-herself",
+          "source": "联合早报"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=rebecca+lim&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 2,
+      "title": "創意股價",
+      "approx_traffic": "100+",
+      "traffic_score": 100,
+      "published": "Tue, 24 Nov 2026 17:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuk-qIDplI5fWUbTo2fYb9Jdq4iREhZVJjChfCgUqBl7P164adHDZH-O58Cso",
+      "news": [
+        {
+          "title": "創意：股價連跌6天直接腰斬 最快11/25「抓去關」",
+          "url": "https://stock.ltn.com.tw/article/0vy7xtmvqx98",
+          "source": "自由時報"
+        },
+        {
+          "title": "創意跌停一張賠54萬　川湖重奪股后寶座",
+          "url": "https://finance.ettoday.net/news/3276802",
+          "source": "ETtoday財經雲"
+        },
+        {
+          "title": "「ASIC大廠」連6天盤中亮綠燈！股價慘跌至4860元 網嘆坑殺：是要回3000嗎",
+          "url": "https://tw.stock.yahoo.com/news/asic%E5%A4%A7%E5%BB%A0-%E9%80%A36%E5%A4%A9%E7%9B%A4%E4%B8%AD%E4%BA%AE%E7%B6%A0%E7%87%88-%E8%82%A1%E5%83%B9%E6%85%98%E8%B7%8C%E8%87%B34860%E5%85%83-%E7%B6%B2%E5%98%86%E5%9D%91%E6%AE%BA-%E6%98%AF%E8%A6%81%E5%9B%9E3000%E5%97%8E-034000038.html",
+          "source": "Yahoo股市"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E5%89%B5%E6%84%8F%E8%82%A1%E5%83%B9&geo=TW",
+      "geo": "TW",
+      "region_name": "台湾"
+    },
+    {
+      "rank": 3,
+      "title": "群聯股價",
+      "approx_traffic": "100+",
+      "traffic_score": 100,
+      "published": "Tue, 24 Nov 2026 17:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvrXROuvo5z4HOvbj3hMYg9k1eKUxyc61971jwkaAyi-3d7CKOZFU26C4kFcg",
+      "news": [
+        {
+          "title": "記憶體股王群聯漲停還有肉？老牌法人庫存天數、應收帳款全說了最新目標價、評等同步曝光- 上市櫃",
+          "url": "https://wantrich.chinatimes.com/news/20261125900002-420101",
+          "source": "旺得富理財網"
+        },
+        {
+          "title": "輝達後黃仁勳時代變數多？群聯潘健成強調：AI長期結構性需求未消失",
+          "url": "https://www.wealth.com.tw/articles/dc1903fe-9e29-4110-bcca-8f2eef62a93b",
+          "source": "財訊"
+        },
+        {
+          "title": "記憶體漲停還沒到頂？「這檔」法人升評喊1800元、今年EPS狂賺464元 千億庫存藏獲利密碼",
+          "url": "https://www.ftnn.com.tw/news/599298",
+          "source": "FTNN 新聞網"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E7%BE%A4%E8%81%AF%E8%82%A1%E5%83%B9&geo=TW",
+      "geo": "TW",
+      "region_name": "台湾"
+    },
+    {
+      "rank": 3,
+      "title": "micron technology",
+      "approx_traffic": "100+",
+      "traffic_score": 100,
+      "published": "Tue, 24 Nov 2026 16:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOQ0YYgQF0g_XFtyXC5eNd51LuAKGJNDY40DBXi2wcjLdc-MDb7FqWiVF7oN0",
+      "news": [
+        {
+          "title": "This Analyst Just Downgraded Micron Stock. Here's Why.",
+          "url": "https://www.barchart.com/story/news/8991291/this-analyst-just-downgraded-micron-stock-here-s-why",
+          "source": "Barchart.com"
+        },
+        {
+          "title": "Why Did Micron Technology Stock Fall?",
+          "url": "https://www.trefis.com/stock/mu/articles/627777/why-is-micron-technology-stock-falling/2026-11-23",
+          "source": "Trefis"
+        },
+        {
+          "title": "Why Micron Stock Dove Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-dove-today-164752382.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=micron+technology&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 4,
+      "title": "kith",
+      "approx_traffic": "100+",
+      "traffic_score": 100,
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyERqSoo8NM0EzEZavKwpuInnsCikVxbfnmPzOGlFfBsroObfueuKJonKK8XM",
+      "news": [
+        {
+          "title": "Ronnie Fieg and ASICS Channel Darth Vader in New Star Wars Collaboration",
+          "url": "https://hypebeast.com/2026/11/star-wars-ronnie-fieg-asics-gel-lyte-iii-remastered-darth-vader-1203b520-020-release-info",
+          "source": "Hypebeast"
+        },
+        {
+          "title": "How To Buy The Kith Asics Star Wars Trainers (And the Avirex jacket)",
+          "url": "https://www.esquire.com/uk/style/fashion/a74519476/kith-asics-star-wars-trainers/",
+          "source": "Esquire"
+        },
+        {
+          "title": "Kith's New 'Star Wars' Collection Launches Soon: Get a Closer Look",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/kiths-star-wars-collection-launches-164958487.html",
+          "source": "Yahoo"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=kith&geo=JP",
+      "geo": "JP",
+      "region_name": "日本"
+    },
+    {
+      "rank": 6,
+      "title": "singapore airlines airbus a350",
+      "approx_traffic": "100+",
+      "traffic_score": 100,
+      "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuXowY_E-DmBi4mA3V2PPFhPOMDqtm1mNSM4CcDm5nlV3QmMXLDzw6WcuuGlo",
+      "news": [
+        {
+          "title": "Singapore Airlines Cancels 9 Airbus A350 Routes: See Full List Now",
+          "url": "https://simpleflying.com/singapore-airlines-cancels-9-a350-routes/",
+          "source": "Simple Flying"
+        },
+        {
+          "title": "Airbus Resolves A350 Paint-Cracking Issue With Perforated Copper Foil and Targeted Repairs, Avoiding Fleet Grounding",
+          "url": "https://avi-go.com/news/articles/2e0361473ef0a551ee2f15c769ce90ed",
+          "source": "Avi-Go"
+        },
+        {
+          "title": "Why The Airbus A350 Is Considered One Of The Best Jets For Long Flights",
+          "url": "https://travel.yahoo.com/flights/articles/why-airbus-a350-considered-one-024500722.html",
+          "source": "Yahoo"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=singapore+airlines+airbus+a350&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 7,
+      "title": "許晉亨",
+      "approx_traffic": "100+",
+      "traffic_score": 100,
+      "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+      "picture": "",
+      "news": [],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E8%A8%B1%E6%99%89%E4%BA%A8&geo=HK",
+      "geo": "HK",
+      "region_name": "香港"
+    },
+    {
+      "rank": 7,
+      "title": "tess daly",
+      "approx_traffic": "100+",
+      "traffic_score": 100,
+      "published": "Tue, 24 Nov 2026 16:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTshOKu4LAvZAi6qPKJxkYbAlEqzYXG9sIyJ9xpcyfKDdJ2LxcM5RGYmcrIHdY",
+      "news": [
+        {
+          "title": "‘Dance like a madwoman’: Tess Daly, 57, shares her feel-good fitness method and 3-minute rebounding routine",
+          "url": "https://uk.style.yahoo.com/dance-madwoman-tess-daly-57-160900651.html",
+          "source": "Yahoo Life UK"
+        },
+        {
+          "title": "Vernon Kay admits painful ordeal with ex Tess Daly and their daughters 'killed me'",
+          "url": "https://www.walesonline.co.uk/lifestyle/showbiz/vernon-kay-admits-painful-ordeal-34955285",
+          "source": "Wales Online"
+        },
+        {
+          "title": "Tess Daly Shares Fitness Routine as Vernon Kay Recalls Horse Riding Injury",
+          "url": "https://demokratis.co.id/en/tess-daly-fitness-vernon-kay",
+          "source": "Demokratis.co.id"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=tess+daly&geo=GB",
+      "geo": "GB",
+      "region_name": "英国"
+    },
+    {
+      "rank": 8,
+      "title": "sk海力士",
+      "approx_traffic": "100+",
+      "traffic_score": 100,
+      "published": "Tue, 24 Nov 2026 16:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREozqrHDv2FMVb99pNUtiiYwoTY5_bkgmjnbW6sTPJyktQLOWmOK1XCjn2xXo",
+      "news": [
+        {
+          "title": "韩股跌幅扩大至5% SK海力士和三星电子均跌约7%",
+          "url": "https://cj.sina.cn/articles/view/5115326071/130e5ae77020035388",
+          "source": "新浪财经"
+        },
+        {
+          "title": "周末救市难抵“黑色星期一”！韩国股市跌破4800点，AI交易是否终结？",
+          "url": "https://m.yicai.com/news/103450401.html",
+          "source": "第一财经"
+        },
+        {
+          "title": "韩国10万亿救市，为什么不灵了？ 韩国政府祭出10.76万亿韩元规模的股市稳定基金，仍未能阻止KOSPI持续下跌。外部冲击的量级、工具本身的局限，以及政策...",
+          "url": "https://www.xueqiu.com/1107854878/418171987",
+          "source": "雪球"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=sk%E6%B5%B7%E5%8A%9B%E5%A3%AB&geo=HK",
+      "geo": "HK",
+      "region_name": "香港"
+    },
+    {
+      "rank": 9,
+      "title": "神舟二十四號",
+      "approx_traffic": "100+",
+      "traffic_score": 100,
+      "published": "Tue, 24 Nov 2026 16:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVU-w3TXD6uFzVKOzcARDjpbOJI4aEpwKUUSBx2HvlWBf23lAUOS5tPaT57g",
+      "news": [
+        {
+          "title": "神舟二十四號載人飛船點火發射",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1879157-20261125.htm",
+          "source": "RTHK News"
+        },
+        {
+          "title": "香港之光！黎家盈在軌逾半年締造紀錄- 香港",
+          "url": "https://www.wenweipo.com/a/202611/25/AP6b06361ce4b028ec019580ec.html",
+          "source": "香港文匯報"
+        },
+        {
+          "title": "巴籍太空人：最難是學中文 - 20261125 - 中國",
+          "url": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20261125/s00013/1795539857937/%E5%B7%B4%E7%B1%8D%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E6%9C%80%E9%9B%A3%E6%98%AF%E5%AD%B8%E4%B8%AD%E6%96%87",
+          "source": "明報新聞網"
+        }
+      ],
+      "is_ai_related": false,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F&geo=HK",
+      "geo": "HK",
+      "region_name": "香港"
+    }
+  ],
+  "ai_related": [
+    {
+      "rank": 7,
+      "title": "michael burry",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 15:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq_7Oos4ct4munWWvpj0zHiCqZZk4dgZ6WM_wPGZIEwzFUBkpehVdqUgUf-7Q",
+      "news": [
+        {
+          "title": "Michael Burry says he 'tried to warn' investors that Nvidia, CoreWeave, and Nebius were headed for trouble",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-tried-warn-145909971.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Michael Burry Says Nvidia's ‘Precarious Normal’ Returns With Jensen Huang Back At The Helm: Loads Up On JD, Tencent, BYD Stocks",
+          "url": "https://www.tradingview.com/news/stocktwits:d0ffd2d32094b:0-michael-burry-says-nvidia-s-precarious-normal-returns-with-jensen-huang-back-at-the-helm-loads-up-on-jd-tencent-byd-stocks/",
+          "source": "TradingView"
+        },
+        {
+          "title": "AM Markets Need to Know: Burry trims NVDA puts, China warns over Huang's return, and more",
+          "url": "https://seekingalpha.com/news/4676045-am-markets-need-to-know-burry-trims-nvda-puts-china-warns-over-huangs-return-and-more",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_ai_related": true,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=michael+burry&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    },
+    {
+      "rank": 9,
+      "title": "cathie wood",
+      "approx_traffic": "200+",
+      "traffic_score": 200,
+      "published": "Tue, 24 Nov 2026 15:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThz-fNL3U8cKw-x8zIbqLxULsSe9KcjLV1qCwBMBfq4lhX2l3p000z731zERk",
+      "news": [
+        {
+          "title": "Cathie Wood’s Nvidia bet misses the 31% rally on Jensen Huang’s return",
+          "url": "https://www.scmp.com/business/china-business/article/3375569/cathie-woods-nvidia-bet-misses-32-rally-jensen-huangs-return",
+          "source": "South China Morning Post"
+        },
+        {
+          "title": "Nvidia’s Comeback Exposes the Trap Gripping Stock Investors",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Nvidia bears face $12.2 billion hit on Huang's surprise return",
+          "url": "https://www.channelnewsasia.com/business/nvidia-bears-face-122-billion-hit-huangs-surprise-return-6575646",
+          "source": "CNA"
+        }
+      ],
+      "is_ai_related": true,
+      "google_trends_url": "https://trends.google.com/trends/explore?q=cathie+wood&geo=SG",
+      "geo": "SG",
+      "region_name": "新加坡"
+    }
+  ],
+  "note": "数据来自 Google Trends 公开 RSS（各地区实时热搜词）。"
+}

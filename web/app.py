@@ -1,4 +1,4 @@
-"""模型新词雷达 + TikTok 热词 — 本地网页服务。"""
+"""模型新词雷达 + TikTok + Google Trends — 本地网页服务。"""
 
 from __future__ import annotations
 
@@ -18,10 +18,12 @@ STATIC = Path(__file__).resolve().parent / "static"
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
+from src.google_trends_scanner import load_latest as load_trends_latest  # noqa: E402
+from src.google_trends_scanner import run_trends_scan  # noqa: E402
 from src.tiktok_scanner import load_latest as load_tiktok_latest  # noqa: E402
 from src.tiktok_scanner import run_tiktok_scan  # noqa: E402
 
-app = FastAPI(title="模型新词雷达", version="0.2.0")
+app = FastAPI(title="模型新词雷达", version="0.3.0")
 app.mount("/assets", StaticFiles(directory=STATIC), name="assets")
 
 
@@ -49,6 +51,11 @@ def index() -> FileResponse:
 @app.get("/tiktok")
 def tiktok_page() -> FileResponse:
     return FileResponse(STATIC / "tiktok.html")
+
+
+@app.get("/trends")
+def trends_page() -> FileResponse:
+    return FileResponse(STATIC / "trends.html")
 
 
 @app.get("/api/latest")
@@ -89,12 +96,31 @@ def api_tiktok_scan() -> dict:
         raise HTTPException(500, f"扫描失败: {exc}") from exc
 
 
+@app.get("/api/trends/latest")
+def api_trends_latest() -> dict:
+    data = load_trends_latest()
+    if not data:
+        raise HTTPException(404, "尚无 Google Trends 数据，请 POST /api/trends/scan")
+    return data
+
+
+@app.post("/api/trends/scan")
+def api_trends_scan() -> dict:
+    try:
+        return run_trends_scan()
+    except Exception as exc:  # noqa: BLE001
+        raise HTTPException(500, f"扫描失败: {exc}") from exc
+
+
 @app.get("/api/health")
 def health() -> dict:
     tt = load_tiktok_latest()
+    tr = load_trends_latest()
     return {
         "ok": True,
         "reports": _list_report_dates()[:5],
         "tiktok": bool(tt),
         "tiktok_scanned_at": (tt or {}).get("scanned_at"),
+        "trends": bool(tr),
+        "trends_scanned_at": (tr or {}).get("scanned_at"),
     }

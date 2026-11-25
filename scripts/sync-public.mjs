@@ -11,28 +11,42 @@ if (existsSync(publicDir)) {
 mkdirSync(publicDir, { recursive: true });
 
 const staticDir = join(root, "web", "static");
-cpSync(join(staticDir, "styles.css"), join(publicDir, "assets", "styles.css"));
-cpSync(join(staticDir, "app.js"), join(publicDir, "assets", "app.js"));
-cpSync(join(staticDir, "tiktok.css"), join(publicDir, "assets", "tiktok.css"));
-cpSync(join(staticDir, "tiktok.js"), join(publicDir, "assets", "tiktok.js"));
+const assetFiles = [
+  "styles.css",
+  "app.js",
+  "tiktok.css",
+  "tiktok.js",
+  "trends.css",
+  "trends.js",
+];
+mkdirSync(join(publicDir, "assets"), { recursive: true });
+for (const f of assetFiles) {
+  cpSync(join(staticDir, f), join(publicDir, "assets", f));
+}
 cpSync(join(staticDir, "index.html"), join(publicDir, "index.html"));
 
 mkdirSync(join(publicDir, "tiktok"), { recursive: true });
 cpSync(join(staticDir, "tiktok.html"), join(publicDir, "tiktok", "index.html"));
 
-const reportsSrc = join(root, "data", "reports", "latest.json");
-const tiktokSrc = join(root, "data", "tiktok", "latest.json");
-mkdirSync(join(publicDir, "data", "reports"), { recursive: true });
-mkdirSync(join(publicDir, "data", "tiktok"), { recursive: true });
-if (existsSync(reportsSrc)) {
-  cpSync(reportsSrc, join(publicDir, "data", "reports", "latest.json"));
-}
-if (existsSync(tiktokSrc)) {
-  cpSync(tiktokSrc, join(publicDir, "data", "tiktok", "latest.json"));
+mkdirSync(join(publicDir, "trends"), { recursive: true });
+cpSync(join(staticDir, "trends.html"), join(publicDir, "trends", "index.html"));
+
+const dataPairs = [
+  ["reports", "latest.json"],
+  ["tiktok", "latest.json"],
+  ["trends", "latest.json"],
+];
+for (const [dir, file] of dataPairs) {
+  const src = join(root, "data", dir, file);
+  const destDir = join(publicDir, "data", dir);
+  mkdirSync(destDir, { recursive: true });
+  if (existsSync(src)) cpSync(src, join(destDir, file));
 }
 
-// 确保 /tiktok HTML 仍引用 /assets/*
-const tiktokHtml = readFileSync(join(publicDir, "tiktok", "index.html"), "utf8");
-writeFileSync(join(publicDir, "tiktok", "index.html"), tiktokHtml, "utf8");
+// touch to keep encoding
+for (const page of ["tiktok", "trends"]) {
+  const p = join(publicDir, page, "index.html");
+  writeFileSync(p, readFileSync(p, "utf8"), "utf8");
+}
 
 console.log("synced public/ from web/static + data/");

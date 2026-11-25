@@ -2,13 +2,58 @@
   min-height: 100vh;
   display: grid;
   place-items: center;
+  padding: 2rem 0 3rem;
 }
 .login-wrap {
   position: relative;
   z-index: 1;
-  width: min(420px, calc(100% - 2rem));
-  padding: 2rem 0;
+  width: min(560px, calc(100% - 2rem));
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
 }
+.login-lede {
+  margin: -0.35rem 0 1rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+.login-lede strong { color: var(--ink); font-weight: 650; }
+.login-seo {
+  padding: 1.25rem 1.3rem 1.35rem;
+  border-radius: 18px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.65;
+  animation: rise 0.7s 0.08s ease both;
+}
+.login-seo h2 {
+  margin: 0 0 0.75rem;
+  font-family: var(--display);
+  font-size: 1.15rem;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+.login-seo h3 {
+  margin: 1.1rem 0 0.45rem;
+  font-size: 0.98rem;
+  color: var(--ink);
+}
+.login-seo p { margin: 0 0 0.75rem; }
+.login-seo ul {
+  margin: 0 0 0.75rem;
+  padding-left: 1.15rem;
+}
+.login-seo li { margin: 0.3rem 0; }
+.login-seo strong { color: var(--ink); font-weight: 650; }
+.login-seo a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(61, 255, 168, 0.35);
+}
+.login-seo a:hover { border-bottom-color: var(--accent); }
 .login-card {
   padding: 1.6rem 1.4rem 1.5rem;
   border-radius: 22px;

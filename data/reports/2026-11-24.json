@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-24",
+  "meta": {
+    "scanned_at": "2026-11-24T23:37:10Z",
+    "source": "seed_baseline_only",
+    "account_count": 37,
+    "tweet_count": 0,
+    "lookback_days": 2
+  },
+  "new_terms": [],
+  "all_extracted": [],
+  "baseline_snapshot": [
+    {
+      "name": "Genie 4",
+      "category": "world",
+      "vendor": "Google DeepMind",
+      "first_seen": "2026-11-18",
+      "note": "宣布 2026-10-27；Project Genie 上线 11-18；Gemini API GA 11-19"
+    },
+    {
+      "name": "MiniMax H3-Image",
+      "category": "image",
+      "vendor": "MiniMax",
+      "first_seen": "2026-11-11",
+      "note": null
+    },
+    {
+      "name": "Seedream 5.5",
+      "category": "image",
+      "vendor": "ByteDance Seed",
+      "first_seen": "2026-11-09",
+      "note": null
+    },
+    {
+      "name": "Gemini Omni 1.2 Flash",
+      "category": "video",
+      "vendor": "Google DeepMind",
+      "first_seen": "2026-11-05",
+      "note": null
+    },
+    {
+      "name": "GPT Image 2.6",
+      "category": "image",
+      "vendor": "OpenAI",
+      "first_seen": "2026-11-04",
+      "note": null
+    },
+    {
+      "name": "GPT Image 2.6 Flare",
+      "category": "image",
+      "vendor": "OpenAI",
+      "first_seen": "2026-11-04",
+      "note": null
+    },
+    {
+      "name": "GPT Image 2.6 Sunburst",
+      "category": "image",
+      "vendor": "OpenAI",
+      "first_seen": "2026-11-04",
+      "note": null
+    },
+    {
+      "name": "Pika H3 Flex",
+      "category": "video",
+      "vendor": "Pika",
+      "first_seen": "2026-10-29",
+      "note": null
+    },
+    {
+      "name": "FLUX 3 Max",
+      "category": "video",
+      "vendor": "fal / Black Forest Labs",
+      "first_seen": "2026-10-19",
+      "note": null
+    },
+    {
+      "name": "Kling 4.0",
+      "category": "video",
+      "vendor": "Kuaishou",
+      "first_seen": "2026-10-15",
+      "note": null
+    },
+    {
+      "name": "Kling 4.0 Flash",
+      "category": "video",
+      "vendor": "Kuaishou",
+      "first_seen": "2026-10-15",
+      "note": null
+    },
+    {
+      "name": "Gemini Omni 1.1 Flash",
+      "category": "video",
+      "vendor": "Google DeepMind",
+      "first_seen": "2026-09-01",
+      "note": null
+    },
+    {
+      "name": "MiniMax H3 MAX",
+      "category": "video",
+      "vendor": "MiniMax",
+      "first_seen": "2026-09-01",
+      "note": null
+    },
+    {
+      "name": "Nano Banana 2.1",
+      "category": "image",
+      "vendor": "Google",
+      "first_seen": "2026-09-01",
+      "note": null
+    },
+    {
+      "name": "FLUX 3 Klein",
+      "category": "image",
+      "vendor": "Black Forest Labs",
+      "first_seen": "2026-09-01",
+      "note": null
+    },
+    {
+      "name": "Wan 3.0 Prime",
+      "category": "video",
+      "vendor": "Alibaba",
+      "first_seen": "2026-08-01",
+      "note": null
+    },
+    {
+      "name": "GPT Image 2.5",
+      "category": "image",
+      "vendor": "OpenAI",
+      "first_seen": "2026-08-01",
+      "note": null
+    },
+    {
+      "name": "FLUX 3",
+      "category": "image",
+      "vendor": "Black Forest Labs",
+      "first_seen": "2026-08-01",
+      "note": null
+    },
+    {
+      "name": "Grok Imagine",
+      "category": "video",
+      "vendor": "xAI",
+      "first_seen": "2026-01-01",
+      "note": null
+    },
+    {
+      "name": "Seedance",
+      "category": "video",
+      "vendor": "ByteDance",
+      "first_seen": "2026-01-01",
+      "note": null
+    },
+    {
+      "name": "Runway Gen-4.5",
+      "category": "video",
+      "vendor": "Runway",
+      "first_seen": "2025-12-01",
+      "note": null
+    },
+    {
+      "name": "Genie 3",
+      "category": "world",
+      "vendor": "Google DeepMind",
+      "first_seen": "2025-08-01",
+      "note": null
+    },
+    {
+      "name": "Runway Gen-4 Turbo",
+      "category": "video",
+      "vendor": "Runway",
+      "first_seen": "2025-06-01",
+      "note": null
+    },
+    {
+      "name": "Veo 3",
+      "category": "video",
+      "vendor": "Google",
+      "first_seen": "2025-05-01",
+      "note": null
+    },
+    {
+      "name": "Midjourney V7",
+      "category": "image",
+      "vendor": "Midjourney",
+      "first_seen": "2025-04-01",
+      "note": null
+    },
+    {
+      "name": "Ideogram 3.0",
+      "category": "image",
+      "vendor": "Ideogram",
+      "first_seen": "2025-03-01",
+      "note": null
+    },
+    {
+      "name": "Sora",
+      "category": "video",
+      "vendor": "OpenAI",
+      "first_seen": "2024-02-01",
+      "note": "API retired 2026-09-24"
+    },
+    {
+      "name": "Firefly",
+      "category": "image",
+      "vendor": "Adobe",
+      "first_seen": "2023-03-01",
+      "note": null
+    }
+  ]
+}

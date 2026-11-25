@@ -1,0 +1,123 @@
+# 已知模型词基线（扫描时会与推文提取结果对比，只报「新词」）
+# category: video | image | world | hybrid
+# 最近一轮（截至 2026-11-25）公开信源汇总
+
+video:
+  - name: Kling 4.0
+    aliases: [Kling4.0, Kling-4.0, "Kling 4"]
+    vendor: Kuaishou
+    first_seen: "2026-10-15"
+  - name: Kling 4.0 Flash
+    aliases: [Kling4.0 Flash, "Kling 4 Flash"]
+    vendor: Kuaishou
+    first_seen: "2026-10-15"
+  - name: Gemini Omni 1.2 Flash
+    aliases: [gemini-omni-1.2-flash, Omni 1.2 Flash, "Gemini Omni 1.2"]
+    vendor: Google DeepMind
+    first_seen: "2026-11-05"
+  - name: Gemini Omni 1.1 Flash
+    aliases: [gemini-omni-1.1-flash, Omni 1.1 Flash]
+    vendor: Google DeepMind
+    first_seen: "2026-09-01"
+  - name: FLUX 3 Max
+    aliases: [FLUX3 Max, "Flux 3 Max"]
+    vendor: fal / Black Forest Labs
+    first_seen: "2026-10-19"
+  - name: Pika H3 Flex
+    aliases: [H3 Flex, "Pika H3"]
+    vendor: Pika
+    first_seen: "2026-10-29"
+  - name: MiniMax H3 MAX
+    aliases: [H3 MAX, MiniMax H3]
+    vendor: MiniMax
+    first_seen: "2026-09-01"
+  - name: Wan 3.0 Prime
+    aliases: [Wan3.0 Prime, "Wan 3.0"]
+    vendor: Alibaba
+    first_seen: "2026-08-01"
+  - name: Runway Gen-4.5
+    aliases: [Gen-4.5, Gen4.5, "Runway Gen 4.5"]
+    vendor: Runway
+    first_seen: "2025-12-01"
+  - name: Runway Gen-4 Turbo
+    aliases: [Gen-4 Turbo, Gen4 Turbo]
+    vendor: Runway
+    first_seen: "2025-06-01"
+  - name: Grok Imagine
+    aliases: [GrokImagine]
+    vendor: xAI
+    first_seen: "2026-01-01"
+  - name: Seedance
+    aliases: [Seedance 1.0]
+    vendor: ByteDance
+    first_seen: "2026-01-01"
+  - name: Veo 3
+    aliases: [Veo3, "Google Veo 3"]
+    vendor: Google
+    first_seen: "2025-05-01"
+  - name: Sora
+    aliases: [Sora 2, Sora2]
+    vendor: OpenAI
+    first_seen: "2024-02-01"
+    note: API retired 2026-09-24
+
+world:
+  - name: Genie 4
+    aliases: [genie-4, Genie4, "Project Genie 4"]
+    vendor: Google DeepMind
+    first_seen: "2026-11-18"
+    note: 宣布 2026-10-27；Project Genie 上线 11-18；Gemini API GA 11-19
+  - name: Genie 3
+    aliases: [Genie3, genie-3]
+    vendor: Google DeepMind
+    first_seen: "2025-08-01"
+
+image:
+  - name: GPT Image 2.6
+    aliases: [GPT-Image-2.6, Images 2.6, "gpt-image-2.6"]
+    vendor: OpenAI
+    first_seen: "2026-11-04"
+  - name: GPT Image 2.6 Flare
+    aliases: [GPT-Image-2.6 Flare, Flare]
+    vendor: OpenAI
+    first_seen: "2026-11-04"
+  - name: GPT Image 2.6 Sunburst
+    aliases: [GPT-Image-2.6 Sunburst, Sunburst]
+    vendor: OpenAI
+    first_seen: "2026-11-04"
+  - name: GPT Image 2.5
+    aliases: [GPT-Image-2.5, Images 2.5]
+    vendor: OpenAI
+    first_seen: "2026-08-01"
+  - name: Seedream 5.5
+    aliases: [Seedream5.5, "Seedream 5"]
+    vendor: ByteDance Seed
+    first_seen: "2026-11-09"
+  - name: MiniMax H3-Image
+    aliases: [H3-Image, H3 Image]
+    vendor: MiniMax
+    first_seen: "2026-11-11"
+  - name: Nano Banana 2.1
+    aliases: [NanoBanana 2.1, "Nano Banana"]
+    vendor: Google
+    first_seen: "2026-09-01"
+  - name: FLUX 3
+    aliases: [FLUX3, "Flux 3"]
+    vendor: Black Forest Labs
+    first_seen: "2026-08-01"
+  - name: FLUX 3 Klein
+    aliases: [FLUX3 Klein, Klein]
+    vendor: Black Forest Labs
+    first_seen: "2026-09-01"
+  - name: Midjourney V7
+    aliases: [MJ V7, Midjourney 7]
+    vendor: Midjourney
+    first_seen: "2025-04-01"
+  - name: Ideogram 3.0
+    aliases: [Ideogram3, Ideogram 3]
+    vendor: Ideogram
+    first_seen: "2025-03-01"
+  - name: Firefly
+    aliases: [Adobe Firefly]
+    vendor: Adobe
+    first_seen: "2023-03-01"

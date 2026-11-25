@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>模型新词雷达 · Model Radar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+  <div class="orb orb-a" aria-hidden="true"></div>
+  <div class="orb orb-b" aria-hidden="true"></div>
+
+  <header class="top">
+    <div class="brand">
+      <span class="mark" aria-hidden="true"></span>
+      <div>
+        <p class="brand-name">模型新词雷达</p>
+        <p class="brand-sub">Model Radar · X / 厂商 / SaaS 大 V</p>
+      </div>
+    </div>
+    <nav class="nav">
+      <a class="active" href="/">模型新词</a>
+      <a href="/tiktok">TikTok 热词</a>
+    </nav>
+    <div class="meta" id="metaBar">
+      <span class="pill" id="scanDate">—</span>
+      <span class="pill muted" id="scanSource">—</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>今天扫到什么<br /><em>新模型词</em></h1>
+      <p class="lede">
+        每天一次，盯住视频模型、图片模型与世界模型的发布词。
+        数据来自监控账号时间线 + 已知基线。
+      </p>
+      <div class="stats" id="stats">
+        <div class="stat">
+          <strong id="statNew">0</strong>
+          <span>本日新词</span>
+        </div>
+        <div class="stat">
+          <strong id="statHot">0</strong>
+          <span>近月热词</span>
+        </div>
+        <div class="stat">
+          <strong id="statAccounts">0</strong>
+          <span>监控账号</span>
+        </div>
+        <div class="stat">
+          <strong id="statTweets">0</strong>
+          <span>抓取推文</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="newBlock">
+      <div class="block-head">
+        <h2>本日新词</h2>
+        <p>相对基线首次出现的模型词</p>
+      </div>
+      <div class="grid" id="newGrid"></div>
+    </section>
+
+    <section class="tabs-wrap">
+      <div class="tabs" role="tablist">
+        <button class="tab active" data-cat="video" role="tab">视频模型</button>
+        <button class="tab" data-cat="image" role="tab">图片模型</button>
+        <button class="tab" data-cat="world" role="tab">世界模型</button>
+        <button class="tab" data-cat="all" role="tab">全部基线</button>
+      </div>
+      <div class="block-head tight">
+        <h2 id="catTitle">视频模型</h2>
+        <p id="catDesc">近月发布与在役主流视频生成模型</p>
+      </div>
+      <div class="list" id="modelList"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <span>本地日报 · <code>data/reports/latest.json</code></span>
+    <span id="serverTime"></span>
+  </footer>
+
+  <script src="/assets/app.js"></script>
+</body>
+</html>

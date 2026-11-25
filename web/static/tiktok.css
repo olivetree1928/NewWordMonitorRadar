@@ -1,0 +1,181 @@
+.page-tiktok .tt-orb {
+  background: radial-gradient(circle, rgba(255, 92, 138, 0.18), transparent 70%);
+}
+.page-tiktok .tt-mark {
+  background:
+    linear-gradient(135deg, #ff5c8a, transparent 55%),
+    linear-gradient(315deg, #25f4ee, transparent 50%),
+    #1a1418;
+}
+
+.nav {
+  display: flex;
+  gap: 0.35rem;
+  padding: 0.3rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255,255,255,0.02);
+}
+.nav a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.86rem;
+  font-weight: 600;
+  padding: 0.45rem 0.85rem;
+  border-radius: 999px;
+}
+.nav a:hover { color: var(--ink); }
+.nav a.active {
+  color: var(--ink);
+  background: linear-gradient(120deg, rgba(255,92,138,0.2), rgba(37,244,238,0.12));
+}
+
+.btn {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,0.04);
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 0.4rem 0.85rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+.btn:hover {
+  border-color: rgba(255, 92, 138, 0.45);
+  background: rgba(255, 92, 138, 0.08);
+}
+.btn:disabled { opacity: 0.5; cursor: wait; }
+
+.cap-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 1.6rem;
+}
+.cap {
+  padding: 1rem 1.05rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  background: var(--card);
+  backdrop-filter: blur(10px);
+}
+.cap .label {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+.cap .status {
+  margin: 0.35rem 0 0;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+.cap.ok .status { color: var(--accent); }
+.cap.no .status { color: #ff8fab; }
+.cap .detail {
+  margin: 0.4rem 0 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.panel { display: none; margin-bottom: 2.5rem; animation: rise 0.55s ease both; }
+.panel.active { display: block; }
+
+.rank {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.8rem;
+  height: 1.8rem;
+  border-radius: 0.55rem;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid var(--line);
+  font-weight: 700;
+  font-size: 0.85rem;
+  margin-right: 0.75rem;
+}
+.rank.top {
+  background: linear-gradient(135deg, rgba(255,92,138,0.25), rgba(37,244,238,0.15));
+  border-color: transparent;
+}
+
+.row-item.tt {
+  grid-template-columns: auto 1fr auto;
+  align-items: start;
+}
+.row-item.tt .metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.55rem;
+}
+.row-item.tt .actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  align-items: flex-end;
+}
+.row-item.tt .actions a {
+  color: #25f4ee;
+  text-decoration: none;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+.row-item.tt .actions a:hover { text-decoration: underline; }
+
+.badge-new {
+  display: inline-block;
+  margin-left: 0.35rem;
+  padding: 0.1rem 0.4rem;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: #0c1210;
+  background: #25f4ee;
+  vertical-align: middle;
+}
+
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+.tag-chip {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,0.02);
+  text-decoration: none;
+  color: var(--ink);
+  transition: transform 0.2s ease, border-color 0.2s ease;
+  animation: rise 0.45s ease both;
+}
+.tag-chip:hover {
+  transform: translateY(-2px);
+  border-color: rgba(37, 244, 238, 0.4);
+}
+.tag-chip strong { font-size: 0.95rem; }
+.tag-chip span { font-size: 0.72rem; color: var(--muted); }
+.tag-chip.kind-creative_center { border-color: rgba(61,255,168,0.35); }
+.tag-chip.kind-ai_trend { border-color: rgba(255,92,138,0.35); }
+.tag-chip.kind-meme { border-color: rgba(255,184,77,0.35); }
+.tag-chip.kind-ai_pool { border-color: rgba(165,180,252,0.3); }
+
+@media (max-width: 860px) {
+  .top { align-items: flex-start; }
+  .cap-grid { grid-template-columns: 1fr; }
+  .row-item.tt {
+    grid-template-columns: auto 1fr;
+  }
+  .row-item.tt .actions {
+    grid-column: 2;
+    flex-direction: row;
+    align-items: center;
+  }
+}

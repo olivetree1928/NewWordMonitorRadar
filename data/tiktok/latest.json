@@ -1,0 +1,841 @@
+{
+  "scanned_at": "2026-11-24T23:47:46Z",
+  "capabilities": {
+    "ai_video_trends": true,
+    "meme_chart": true,
+    "creative_center_hashtags": false,
+    "summary": "能扫到：AI 视频热点、热梗日榜、派生/常青标签。扫不全：TikTok 官方完整热标榜需登录 Creative Center / TikTok One。"
+  },
+  "creative_center": {
+    "ok": false,
+    "status": 200,
+    "code": 40101,
+    "msg": "no permission",
+    "hashtags": [],
+    "note": "匿名无权限（需 TikTok One 登录）；完整热标榜暂不可用"
+  },
+  "ai_video_trends": {
+    "ok": true,
+    "url": "https://trendtemplate.com/tiktok-ai-trends",
+    "checked": null,
+    "count": 24,
+    "items": [
+      {
+        "rank": 1,
+        "name": "365 Elevator",
+        "is_new": false,
+        "ai_accounts_24h": 34,
+        "ai_views_24h": "94.9K",
+        "ai_share_7d": "98 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-24",
+        "hashtag": "#365elevator",
+        "tiktok_search": "https://www.tiktok.com/search?q=365+Elevator",
+        "tiktok_tag": "https://www.tiktok.com/tag/365elevator",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 2,
+        "name": "Singing Birthday Cat",
+        "is_new": true,
+        "ai_accounts_24h": 30,
+        "ai_views_24h": "38.3K",
+        "ai_share_7d": "96 %",
+        "stage": "New",
+        "first_seen": "2026-11-24",
+        "hashtag": "#singingbirthdaycat",
+        "tiktok_search": "https://www.tiktok.com/search?q=Singing+Birthday+Cat",
+        "tiktok_tag": "https://www.tiktok.com/tag/singingbirthdaycat",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 3,
+        "name": "Christmas Pajama Dance",
+        "is_new": true,
+        "ai_accounts_24h": 30,
+        "ai_views_24h": "17.3K",
+        "ai_share_7d": "100 %",
+        "stage": "New",
+        "first_seen": "2026-11-24",
+        "hashtag": "#christmaspajamadance",
+        "tiktok_search": "https://www.tiktok.com/search?q=Christmas+Pajama+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/christmaspajamadance",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 4,
+        "name": "Hotel Lobby",
+        "is_new": false,
+        "ai_accounts_24h": 29,
+        "ai_views_24h": "26.2K",
+        "ai_share_7d": "95 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-22",
+        "hashtag": "#hotellobby",
+        "tiktok_search": "https://www.tiktok.com/search?q=Hotel+Lobby",
+        "tiktok_tag": "https://www.tiktok.com/tag/hotellobby",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 5,
+        "name": "Waiting On My Fries your coworker forgot the fries, so",
+        "is_new": false,
+        "ai_accounts_24h": 28,
+        "ai_views_24h": "97.8K",
+        "ai_share_7d": "96 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-22",
+        "hashtag": "#waitingonmyfriesyourcoworkerforgotthefriesso",
+        "tiktok_search": "https://www.tiktok.com/search?q=Waiting+On+My+Fries+your+coworker+forgot+the+fries%2C+so",
+        "tiktok_tag": "https://www.tiktok.com/tag/waitingonmyfriesyourcoworkerforgotthefriesso",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 6,
+        "name": "Wassup In A Minute",
+        "is_new": false,
+        "ai_accounts_24h": 27,
+        "ai_views_24h": "97.1K",
+        "ai_share_7d": "97 %",
+        "stage": "Rising",
+        "first_seen": "2026-11-07",
+        "hashtag": "#wassupinaminute",
+        "tiktok_search": "https://www.tiktok.com/search?q=Wassup+In+A+Minute",
+        "tiktok_tag": "https://www.tiktok.com/tag/wassupinaminute",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 7,
+        "name": "Bandit Juice Wrld",
+        "is_new": false,
+        "ai_accounts_24h": 27,
+        "ai_views_24h": "14.1K",
+        "ai_share_7d": "97 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-20",
+        "hashtag": "#banditjuicewrld",
+        "tiktok_search": "https://www.tiktok.com/search?q=Bandit+Juice+Wrld",
+        "tiktok_tag": "https://www.tiktok.com/tag/banditjuicewrld",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 8,
+        "name": "Migos Dance",
+        "is_new": false,
+        "ai_accounts_24h": 27,
+        "ai_views_24h": "8.3K",
+        "ai_share_7d": "98 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-21",
+        "hashtag": "#migosdance",
+        "tiktok_search": "https://www.tiktok.com/search?q=Migos+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/migosdance",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 9,
+        "name": "Hero Funk Dance",
+        "is_new": true,
+        "ai_accounts_24h": 25,
+        "ai_views_24h": "12.3K",
+        "ai_share_7d": "98 %",
+        "stage": "New",
+        "first_seen": "2026-11-24",
+        "hashtag": "#herofunkdance",
+        "tiktok_search": "https://www.tiktok.com/search?q=Hero+Funk+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/herofunkdance",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 10,
+        "name": "C Is For Cherry",
+        "is_new": false,
+        "ai_accounts_24h": 22,
+        "ai_views_24h": "34.5K",
+        "ai_share_7d": "58 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-24",
+        "hashtag": "#cisforcherry",
+        "tiktok_search": "https://www.tiktok.com/search?q=C+Is+For+Cherry",
+        "tiktok_tag": "https://www.tiktok.com/tag/cisforcherry",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 11,
+        "name": "Sheru Bhai",
+        "is_new": false,
+        "ai_accounts_24h": 20,
+        "ai_views_24h": "1M",
+        "ai_share_7d": "86 %",
+        "stage": "Rising",
+        "first_seen": "2026-11-16",
+        "hashtag": "#sherubhai",
+        "tiktok_search": "https://www.tiktok.com/search?q=Sheru+Bhai",
+        "tiktok_tag": "https://www.tiktok.com/tag/sherubhai",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 12,
+        "name": "Boom Clap Confetti Vibe",
+        "is_new": false,
+        "ai_accounts_24h": 20,
+        "ai_views_24h": "81.2K",
+        "ai_share_7d": "54 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-20",
+        "hashtag": "#boomclapconfettivibe",
+        "tiktok_search": "https://www.tiktok.com/search?q=Boom+Clap+Confetti+Vibe",
+        "tiktok_tag": "https://www.tiktok.com/tag/boomclapconfettivibe",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 13,
+        "name": "The Box",
+        "is_new": true,
+        "ai_accounts_24h": 20,
+        "ai_views_24h": "29.6K",
+        "ai_share_7d": "76 %",
+        "stage": "New",
+        "first_seen": "2026-11-23",
+        "hashtag": "#thebox",
+        "tiktok_search": "https://www.tiktok.com/search?q=The+Box",
+        "tiktok_tag": "https://www.tiktok.com/tag/thebox",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 14,
+        "name": "Hibidi Skibidi",
+        "is_new": false,
+        "ai_accounts_24h": 18,
+        "ai_views_24h": "8.5K",
+        "ai_share_7d": "84 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-14",
+        "hashtag": "#hibidiskibidi",
+        "tiktok_search": "https://www.tiktok.com/search?q=Hibidi+Skibidi",
+        "tiktok_tag": "https://www.tiktok.com/tag/hibidiskibidi",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 15,
+        "name": "I'm Not Worried About Lucia",
+        "is_new": true,
+        "ai_accounts_24h": 17,
+        "ai_views_24h": "42K",
+        "ai_share_7d": "36 %",
+        "stage": "New",
+        "first_seen": "2026-11-23",
+        "hashtag": "#imnotworriedaboutlucia",
+        "tiktok_search": "https://www.tiktok.com/search?q=I%27m+Not+Worried+About+Lucia",
+        "tiktok_tag": "https://www.tiktok.com/tag/imnotworriedaboutlucia",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 16,
+        "name": "Boom Clap Cannon",
+        "is_new": false,
+        "ai_accounts_24h": 16,
+        "ai_views_24h": "81.6K",
+        "ai_share_7d": "45 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-19",
+        "hashtag": "#boomclapcannon",
+        "tiktok_search": "https://www.tiktok.com/search?q=Boom+Clap+Cannon",
+        "tiktok_tag": "https://www.tiktok.com/tag/boomclapcannon",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 17,
+        "name": "Im Not Worried About Lucia",
+        "is_new": false,
+        "ai_accounts_24h": 16,
+        "ai_views_24h": "43.3K",
+        "ai_share_7d": "39 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-22",
+        "hashtag": "#imnotworriedaboutlucia",
+        "tiktok_search": "https://www.tiktok.com/search?q=Im+Not+Worried+About+Lucia",
+        "tiktok_tag": "https://www.tiktok.com/tag/imnotworriedaboutlucia",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 18,
+        "name": "Jake Gyllenhaal Police Locker Scene",
+        "is_new": false,
+        "ai_accounts_24h": 14,
+        "ai_views_24h": "36.6K",
+        "ai_share_7d": "100 %",
+        "stage": "Rising",
+        "first_seen": "2026-11-04",
+        "hashtag": "#jakegyllenhaalpolicelockerscene",
+        "tiktok_search": "https://www.tiktok.com/search?q=Jake+Gyllenhaal+Police+Locker+Scene",
+        "tiktok_tag": "https://www.tiktok.com/tag/jakegyllenhaalpolicelockerscene",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 19,
+        "name": "GTA 6 Loading Screen",
+        "is_new": false,
+        "ai_accounts_24h": 13,
+        "ai_views_24h": "7.5K",
+        "ai_share_7d": "52 %",
+        "stage": "Rising",
+        "first_seen": "2026-11-14",
+        "hashtag": "#gta6loadingscreen",
+        "tiktok_search": "https://www.tiktok.com/search?q=GTA+6+Loading+Screen",
+        "tiktok_tag": "https://www.tiktok.com/tag/gta6loadingscreen",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 20,
+        "name": "No Scrubs Dance",
+        "is_new": false,
+        "ai_accounts_24h": 9,
+        "ai_views_24h": "6.4K",
+        "ai_share_7d": "76 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-15",
+        "hashtag": "#noscrubsdance",
+        "tiktok_search": "https://www.tiktok.com/search?q=No+Scrubs+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/noscrubsdance",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 21,
+        "name": "Dancing With Santa",
+        "is_new": false,
+        "ai_accounts_24h": 8,
+        "ai_views_24h": "19.9K",
+        "ai_share_7d": "97 %",
+        "stage": "Cooling",
+        "first_seen": "2026-11-14",
+        "hashtag": "#dancingwithsanta",
+        "tiktok_search": "https://www.tiktok.com/search?q=Dancing+With+Santa",
+        "tiktok_tag": "https://www.tiktok.com/tag/dancingwithsanta",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 22,
+        "name": "Mourinho Interview Filter",
+        "is_new": false,
+        "ai_accounts_24h": 6,
+        "ai_views_24h": "5.4K",
+        "ai_share_7d": "89 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-19",
+        "hashtag": "#mourinhointerviewfilter",
+        "tiktok_search": "https://www.tiktok.com/search?q=Mourinho+Interview+Filter",
+        "tiktok_tag": "https://www.tiktok.com/tag/mourinhointerviewfilter",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 23,
+        "name": "Lion Ride",
+        "is_new": false,
+        "ai_accounts_24h": 4,
+        "ai_views_24h": "51.1K",
+        "ai_share_7d": "74 %",
+        "stage": "Peaking",
+        "first_seen": "2026-11-18",
+        "hashtag": "#lionride",
+        "tiktok_search": "https://www.tiktok.com/search?q=Lion+Ride",
+        "tiktok_tag": "https://www.tiktok.com/tag/lionride",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      },
+      {
+        "rank": 24,
+        "name": "Pixar Snow Globe",
+        "is_new": true,
+        "ai_accounts_24h": 4,
+        "ai_views_24h": "16.9K",
+        "ai_share_7d": "97 %",
+        "stage": "Cooling",
+        "first_seen": "2026-11-24",
+        "hashtag": "#pixarsnowglobe",
+        "tiktok_search": "https://www.tiktok.com/search?q=Pixar+Snow+Globe",
+        "tiktok_tag": "https://www.tiktok.com/tag/pixarsnowglobe",
+        "category": "ai_video",
+        "source": "trendtemplate"
+      }
+    ],
+    "note": "公开 AI 视频热点榜（按 24h AI 发帖账号数）"
+  },
+  "meme_chart": {
+    "ok": true,
+    "url": "https://viralremix.org/tiktok-trends/2026-11-24",
+    "chart_date": "2026-11-24",
+    "count": 12,
+    "items": [
+      {
+        "rank": 1,
+        "name": "Ba Ba Ba Dance",
+        "blurb": "You and your friend dancing the ba ba ba duo routine in sync.",
+        "growth_per_day": "14.8K",
+        "hashtag": "#bababadance",
+        "tiktok_search": "https://www.tiktok.com/search?q=Ba+Ba+Ba+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/bababadance",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 5,
+        "name": "Baby Doll Dance",
+        "blurb": "You, your mom or your whole crew doing the Babydoll line dance.",
+        "growth_per_day": "13K",
+        "hashtag": "#babydolldance",
+        "tiktok_search": "https://www.tiktok.com/search?q=Baby+Doll+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/babydolldance",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 2,
+        "name": "Can I Ride Dance",
+        "blurb": "You, the AI guys or your dog doing the SIDEPIECE Can I Ride dance.",
+        "growth_per_day": "5.7K",
+        "hashtag": "#caniridedance",
+        "tiktok_search": "https://www.tiktok.com/search?q=Can+I+Ride+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/caniridedance",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 2,
+        "name": "Under Arrest Dance",
+        "blurb": "You, your squad or your cat doing the ILLIT police-cap dance.",
+        "growth_per_day": "3.4K",
+        "hashtag": "#underarrestdance",
+        "tiktok_search": "https://www.tiktok.com/search?q=Under+Arrest+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/underarrestdance",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 4,
+        "name": "Love Handstand Trend",
+        "blurb": "One photo puts you upside down between “LO” and “E”, legs opening into the V to spell LOVE, with the original sound.",
+        "growth_per_day": "3.1K",
+        "hashtag": "#lovehandstandtrend",
+        "tiktok_search": "https://www.tiktok.com/search?q=Love+Handstand+Trend",
+        "tiktok_tag": "https://www.tiktok.com/tag/lovehandstandtrend",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 1,
+        "name": "Jisoo Addicted Dance",
+        "blurb": "One photo, or two, puts you in the hallway where Jisoo and Rosé do the paw hands to ADDICTED — with the song on it.",
+        "growth_per_day": "1.3K",
+        "hashtag": "#jisooaddicteddance",
+        "tiktok_search": "https://www.tiktok.com/search?q=Jisoo+Addicted+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/jisooaddicteddance",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 2,
+        "name": "Alors On Danse AI",
+        "blurb": "Two photos, one at the mini keyboard and one dancing beside it in the white-studio sketch.",
+        "growth_per_day": "966",
+        "hashtag": "#alorsondanseai",
+        "tiktok_search": "https://www.tiktok.com/search?q=Alors+On+Danse+AI",
+        "tiktok_tag": "https://www.tiktok.com/tag/alorsondanseai",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 5,
+        "name": "Pixar Snow Globe",
+        "blurb": "Your photo, then a snow globe rises over it and you, your partner or the dog are tiny Pixar figures in the falling snow.",
+        "growth_per_day": "786",
+        "hashtag": "#pixarsnowglobe",
+        "tiktok_search": "https://www.tiktok.com/search?q=Pixar+Snow+Globe",
+        "tiktok_tag": "https://www.tiktok.com/tag/pixarsnowglobe",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 7,
+        "name": "Housewife Dance",
+        "blurb": "You, your mom or your partner doing the Tate McRae Housewife dance.",
+        "growth_per_day": "746",
+        "hashtag": "#housewifedance",
+        "tiktok_search": "https://www.tiktok.com/search?q=Housewife+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/housewifedance",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 4,
+        "name": "Angel Of My Dreams",
+        "blurb": "The angel costume reveal or the family beat-drop dance on JADE’s song, with your photo in it.",
+        "growth_per_day": "744",
+        "hashtag": "#angelofmydreams",
+        "tiktok_search": "https://www.tiktok.com/search?q=Angel+Of+My+Dreams",
+        "tiktok_tag": "https://www.tiktok.com/tag/angelofmydreams",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 41,
+        "name": "NEON A2O LITE Dance",
+        "blurb": "You and your friend dancing the A2O LITE NEON intro as a duo.",
+        "growth_per_day": "567",
+        "hashtag": "#neona2olitedance",
+        "tiktok_search": "https://www.tiktok.com/search?q=NEON+A2O+LITE+Dance",
+        "tiktok_tag": "https://www.tiktok.com/tag/neona2olitedance",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      },
+      {
+        "rank": 21,
+        "name": "Hop Hop Hop Dance Trend",
+        "blurb": "Two photos, one hard cut: you point back, your friend hops, then you swap.",
+        "growth_per_day": "415",
+        "hashtag": "#hophophopdancetrend",
+        "tiktok_search": "https://www.tiktok.com/search?q=Hop+Hop+Hop+Dance+Trend",
+        "tiktok_tag": "https://www.tiktok.com/tag/hophophopdancetrend",
+        "category": "meme",
+        "source": "viralremix",
+        "chart_date": "2026-11-24"
+      }
+    ],
+    "note": "热梗日榜 2026-11-24（按标签/声音日新增视频数）"
+  },
+  "hashtags": [
+    {
+      "name": "#365elevator",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/365elevator"
+    },
+    {
+      "name": "#singingbirthdaycat",
+      "kind": "ai_trend",
+      "hint": "AI热点 · New",
+      "url": "https://www.tiktok.com/tag/singingbirthdaycat"
+    },
+    {
+      "name": "#christmaspajamadance",
+      "kind": "ai_trend",
+      "hint": "AI热点 · New",
+      "url": "https://www.tiktok.com/tag/christmaspajamadance"
+    },
+    {
+      "name": "#hotellobby",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/hotellobby"
+    },
+    {
+      "name": "#waitingonmyfriesyourcoworkerforgotthefriesso",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/waitingonmyfriesyourcoworkerforgotthefriesso"
+    },
+    {
+      "name": "#wassupinaminute",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Rising",
+      "url": "https://www.tiktok.com/tag/wassupinaminute"
+    },
+    {
+      "name": "#banditjuicewrld",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/banditjuicewrld"
+    },
+    {
+      "name": "#migosdance",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/migosdance"
+    },
+    {
+      "name": "#herofunkdance",
+      "kind": "ai_trend",
+      "hint": "AI热点 · New",
+      "url": "https://www.tiktok.com/tag/herofunkdance"
+    },
+    {
+      "name": "#cisforcherry",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/cisforcherry"
+    },
+    {
+      "name": "#sherubhai",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Rising",
+      "url": "https://www.tiktok.com/tag/sherubhai"
+    },
+    {
+      "name": "#boomclapconfettivibe",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/boomclapconfettivibe"
+    },
+    {
+      "name": "#thebox",
+      "kind": "ai_trend",
+      "hint": "AI热点 · New",
+      "url": "https://www.tiktok.com/tag/thebox"
+    },
+    {
+      "name": "#hibidiskibidi",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/hibidiskibidi"
+    },
+    {
+      "name": "#imnotworriedaboutlucia",
+      "kind": "ai_trend",
+      "hint": "AI热点 · New",
+      "url": "https://www.tiktok.com/tag/imnotworriedaboutlucia"
+    },
+    {
+      "name": "#boomclapcannon",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/boomclapcannon"
+    },
+    {
+      "name": "#jakegyllenhaalpolicelockerscene",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Rising",
+      "url": "https://www.tiktok.com/tag/jakegyllenhaalpolicelockerscene"
+    },
+    {
+      "name": "#gta6loadingscreen",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Rising",
+      "url": "https://www.tiktok.com/tag/gta6loadingscreen"
+    },
+    {
+      "name": "#noscrubsdance",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/noscrubsdance"
+    },
+    {
+      "name": "#dancingwithsanta",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Cooling",
+      "url": "https://www.tiktok.com/tag/dancingwithsanta"
+    },
+    {
+      "name": "#mourinhointerviewfilter",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/mourinhointerviewfilter"
+    },
+    {
+      "name": "#lionride",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Peaking",
+      "url": "https://www.tiktok.com/tag/lionride"
+    },
+    {
+      "name": "#pixarsnowglobe",
+      "kind": "ai_trend",
+      "hint": "AI热点 · Cooling",
+      "url": "https://www.tiktok.com/tag/pixarsnowglobe"
+    },
+    {
+      "name": "#bababadance",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/bababadance"
+    },
+    {
+      "name": "#babydolldance",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/babydolldance"
+    },
+    {
+      "name": "#caniridedance",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/caniridedance"
+    },
+    {
+      "name": "#underarrestdance",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/underarrestdance"
+    },
+    {
+      "name": "#lovehandstandtrend",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/lovehandstandtrend"
+    },
+    {
+      "name": "#jisooaddicteddance",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/jisooaddicteddance"
+    },
+    {
+      "name": "#alorsondanseai",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/alorsondanseai"
+    },
+    {
+      "name": "#housewifedance",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/housewifedance"
+    },
+    {
+      "name": "#angelofmydreams",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/angelofmydreams"
+    },
+    {
+      "name": "#neona2olitedance",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/neona2olitedance"
+    },
+    {
+      "name": "#hophophopdancetrend",
+      "kind": "meme",
+      "hint": "热梗派生标签",
+      "url": "https://www.tiktok.com/tag/hophophopdancetrend"
+    },
+    {
+      "name": "#aivideo",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/aivideo"
+    },
+    {
+      "name": "#aiart",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/aiart"
+    },
+    {
+      "name": "#aianimation",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/aianimation"
+    },
+    {
+      "name": "#capcut",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/capcut"
+    },
+    {
+      "name": "#higgsfield",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/higgsfield"
+    },
+    {
+      "name": "#seedance",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/seedance"
+    },
+    {
+      "name": "#klingai",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/klingai"
+    },
+    {
+      "name": "#runwayml",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/runwayml"
+    },
+    {
+      "name": "#sora",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/sora"
+    },
+    {
+      "name": "#veo",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/veo"
+    },
+    {
+      "name": "#grokimagine",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/grokimagine"
+    },
+    {
+      "name": "#midjourney",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/midjourney"
+    },
+    {
+      "name": "#aifilter",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/aifilter"
+    },
+    {
+      "name": "#facemorph",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/facemorph"
+    },
+    {
+      "name": "#aiavatar",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/aiavatar"
+    },
+    {
+      "name": "#texttovideo",
+      "kind": "ai_pool",
+      "hint": "常青 AI 标签池",
+      "url": "https://www.tiktok.com/tag/texttovideo"
+    }
+  ]
+}

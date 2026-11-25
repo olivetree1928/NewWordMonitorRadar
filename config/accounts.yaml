@@ -1,0 +1,125 @@
+# 监控账号：模型厂商 / SaaS 出海大 V / AI 资讯博主
+# handle 不含 @
+
+vendors:
+  - handle: OpenAI
+    name: OpenAI
+    tags: [vendor, image, video]
+  - handle: GoogleDeepMind
+    name: Google DeepMind
+    tags: [vendor, video, world]
+  - handle: GoogleAIStudio
+    name: Google AI Studio
+    tags: [vendor]
+  - handle: xai
+    name: xAI
+    tags: [vendor, image, video]
+  - handle: AnthropicAI
+    name: Anthropic
+    tags: [vendor]
+  - handle: StabilityAI
+    name: Stability AI
+    tags: [vendor, image]
+  - handle: midjourney
+    name: Midjourney
+    tags: [vendor, image]
+  - handle: runwayml
+    name: Runway
+    tags: [vendor, video]
+  - handle: Kling_ai
+    name: Kling AI
+    tags: [vendor, video]
+  - handle: LumaLabsAI
+    name: Luma AI
+    tags: [vendor, video]
+  - handle: Pika_Labs
+    name: Pika
+    tags: [vendor, video]
+  - handle: BlackForestLabs
+    name: Black Forest Labs
+    tags: [vendor, image, video]
+  - handle: SeedreamAI
+    name: ByteDance Seedream
+    tags: [vendor, image]
+  - handle: MiniMax_AI
+    name: MiniMax
+    tags: [vendor, image, video]
+  - handle: AdobeFirefly
+    name: Adobe Firefly
+    tags: [vendor, image, video]
+  - handle: fal
+    name: fal.ai
+    tags: [vendor, platform]
+  - handle: huggingface
+    name: Hugging Face
+    tags: [vendor, platform]
+
+saas_influencers:
+  - handle: levelsio
+    name: Pieter Levels
+    tags: [saas, indie]
+  - handle: tibo_maker
+    name: Tibo
+    tags: [saas, indie]
+  - handle: dannypostma
+    name: Danny Postma
+    tags: [saas, ai]
+  - handle: zjorth
+    name: Zach
+    tags: [saas]
+  - handle: mackenziechild
+    name: Mackenzie Child
+    tags: [saas]
+  - handle: MarcLou
+    name: Marc Lou
+    tags: [saas, indie]
+  - handle: tonyduan
+    name: Tony Duan
+    tags: [saas]
+  - handle: patrickc
+    name: Patrick Collison
+    tags: [saas]
+
+ai_big_accounts:
+  - handle: sama
+    name: Sam Altman
+    tags: [leader]
+  - handle: demishassabis
+    name: Demis Hassabis
+    tags: [leader]
+  - handle: OfficialLoganK
+    name: Logan Kilpatrick
+    tags: [leader, google]
+  - handle: rowancheung
+    name: Rowan Cheung
+    tags: [news]
+  - handle: mattshumer_
+    name: Matt Shumer
+    tags: [news, builder]
+  - handle: minchoi
+    name: Min Choi
+    tags: [news]
+  - handle: kimmonismus
+    name: Chubby
+    tags: [news]
+  - handle: _akhaliq
+    name: AK
+    tags: [research]
+  - handle: simonw
+    name: Simon Willison
+    tags: [builder]
+  - handle: LinusEkenstam
+    name: Linus Ekenstam
+    tags: [news, video]
+  - handle: heyBarsee
+    name: Barsee
+    tags: [news]
+  - handle: Scobleizer
+    name: Robert Scoble
+    tags: [news]
+
+# 关键词检索（补充账号时间线之外的公开讨论）
+search_queries:
+  - '"new model" (video OR image OR image-to-video OR text-to-video) (AI OR genAI)'
+  - '(released OR launching OR announcing) (Kling OR Veo OR Sora OR Flux OR Seedream OR Omni OR Genie OR Wan OR Seedance)'
+  - '("image model" OR "video model" OR "world model") (released OR launch OR available)'

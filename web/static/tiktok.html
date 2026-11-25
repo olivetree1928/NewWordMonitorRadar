@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TikTok 热词雷达</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/styles.css" />
+  <link rel="stylesheet" href="/assets/tiktok.css" />
+</head>
+<body class="page-tiktok">
+  <div class="noise" aria-hidden="true"></div>
+  <div class="orb orb-a" aria-hidden="true"></div>
+  <div class="orb orb-b tt-orb" aria-hidden="true"></div>
+
+  <header class="top">
+    <div class="brand">
+      <span class="mark tt-mark" aria-hidden="true"></span>
+      <div>
+        <p class="brand-name">TikTok 热词雷达</p>
+        <p class="brand-sub">标签 · AI 视频热点 · 热梗</p>
+      </div>
+    </div>
+    <nav class="nav">
+      <a href="/">模型新词</a>
+      <a class="active" href="/tiktok">TikTok 热词</a>
+    </nav>
+    <div class="meta">
+      <span class="pill" id="scanAt">—</span>
+      <button type="button" class="btn" id="btnScan">重新扫描</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>TikTok 上<br /><em>正在热什么</em></h1>
+      <p class="lede" id="capSummary">
+        能扫到 AI 视频热点与热梗日榜；官方完整热标榜需登录，匿名通常拿不全。
+      </p>
+      <div class="cap-grid" id="capGrid"></div>
+    </section>
+
+    <section class="tabs-wrap">
+      <div class="tabs" role="tablist">
+        <button class="tab active" data-panel="ai" role="tab">AI 视频热点</button>
+        <button class="tab" data-panel="meme" role="tab">最热梗</button>
+        <button class="tab" data-panel="tags" role="tab">热门标签</button>
+      </div>
+    </section>
+
+    <section class="panel active" id="panel-ai">
+      <div class="block-head">
+        <h2>AI 视频热点</h2>
+        <p id="aiNote">按 24h 发布 AI 版本的账号数排序</p>
+      </div>
+      <div class="list" id="aiList"></div>
+    </section>
+
+    <section class="panel" id="panel-meme">
+      <div class="block-head">
+        <h2>最热梗</h2>
+        <p id="memeNote">按标签/声音日新增视频数</p>
+      </div>
+      <div class="list" id="memeList"></div>
+    </section>
+
+    <section class="panel" id="panel-tags">
+      <div class="block-head">
+        <h2>热门 / 相关标签</h2>
+        <p id="tagNote">Creative Center（若可用）+ 热点派生 + AI 常青标签池</p>
+      </div>
+      <div class="tag-cloud" id="tagCloud"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <span>数据缓存 · <code>data/tiktok/latest.json</code></span>
+    <span id="sources"></span>
+  </footer>
+
+  <script src="/assets/tiktok.js"></script>
+</body>
+</html>

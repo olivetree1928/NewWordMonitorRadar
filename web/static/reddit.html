@@ -31,6 +31,8 @@
       <a class="active" href="/reddit">Reddit</a>
       <a href="/toolify">Toolify</a>
     </nav>
+    <button type="button" class="btn" id="btnLogout">退出</button>
+
     <div class="meta">
       <span class="pill" id="scanAt">—</span>
       <button type="button" class="btn" id="btnScan">重新扫描</button>
@@ -90,5 +92,6 @@
   </footer>
 
   <script src="/assets/reddit.js"></script>
+<script>document.getElementById("btnLogout")?.addEventListener("click",async()=>{await fetch("/api/logout");location.href="/login";});</script>
 </body>
 </html>

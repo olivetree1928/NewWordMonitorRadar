@@ -65,6 +65,25 @@ npx wrangler secret put REDDIT_CLIENT_ID
 npx wrangler secret put REDDIT_CLIENT_SECRET
 ```
 
+## 登录
+
+默认账号通过环境变量配置（勿把真实密码提交到公开仓库）：
+
+```env
+AUTH_USERNAME=admin
+AUTH_PASSWORD=你的密码
+AUTH_SECRET=随机签名密钥
+```
+
+Cloudflare：
+
+```powershell
+npx wrangler secret put AUTH_PASSWORD
+npx wrangler secret put AUTH_SECRET
+```
+
+登录页：`/login`
+
 ## Cloudflare Workers 部署
 
 ```powershell

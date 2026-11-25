@@ -7,6 +7,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
@@ -27,7 +28,11 @@ from src.tiktok_scanner import run_tiktok_scan  # noqa: E402
 from src.toolify_scanner import load_latest as load_toolify_latest  # noqa: E402
 from src.toolify_scanner import run_toolify_scan  # noqa: E402
 
-app = FastAPI(title="模型新词雷达", version="0.5.0")
+from web.auth_middleware import AuthMiddleware  # noqa: E402
+
+load_dotenv(ROOT / ".env")
+app = FastAPI(title="模型新词雷达", version="0.6.0")
+app.add_middleware(AuthMiddleware)
 app.mount("/assets", StaticFiles(directory=STATIC), name="assets")
 
 
@@ -47,6 +52,11 @@ def _list_report_dates() -> list[str]:
 @app.get("/")
 def index() -> FileResponse:
     return FileResponse(STATIC / "index.html")
+
+
+@app.get("/login")
+def login_page() -> FileResponse:
+    return FileResponse(STATIC / "login.html")
 
 
 @app.get("/tiktok")

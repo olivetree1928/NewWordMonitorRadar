@@ -1,3 +1,11 @@
+import {
+  checkPassword,
+  clearSessionCookie,
+  createSessionCookie,
+  isPublicPath,
+  unauthorizedResponse,
+  verifySession,
+} from "./auth";
 import { scanRedditLive } from "./reddit";
 import { scanToolifyLive } from "./toolify";
 
@@ -5,6 +13,9 @@ export interface Env {
   ASSETS: Fetcher;
   REDDIT_CLIENT_ID?: string;
   REDDIT_CLIENT_SECRET?: string;
+  AUTH_USERNAME?: string;
+  AUTH_PASSWORD?: string;
+  AUTH_SECRET?: string;
 }
 
 const JSON_HEADERS = {
@@ -345,6 +356,46 @@ export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
     const { pathname } = url;
+
+    if (pathname === "/login" || pathname === "/login/") {
+      return env.ASSETS.fetch(new Request(new URL("/login.html", url.origin)));
+    }
+
+    if (pathname === "/api/login" && request.method === "POST") {
+      try {
+        const body = (await request.json()) as { username?: string; password?: string };
+        if (!checkPassword(env, String(body.username || ""), String(body.password || ""))) {
+          return json({ error: "用户名或密码错误" }, 401);
+        }
+        const cookie = await createSessionCookie(env);
+        return new Response(JSON.stringify({ ok: true }), {
+          status: 200,
+          headers: {
+            "content-type": "application/json; charset=utf-8",
+            "set-cookie": cookie,
+          },
+        });
+      } catch (e) {
+        return json({ error: e instanceof Error ? e.message : String(e) }, 400);
+      }
+    }
+
+    if (pathname === "/api/logout") {
+      return new Response(JSON.stringify({ ok: true }), {
+        status: 200,
+        headers: {
+          "content-type": "application/json; charset=utf-8",
+          "set-cookie": clearSessionCookie(),
+        },
+      });
+    }
+
+    if (!isPublicPath(pathname)) {
+      const ok = await verifySession(request, env);
+      if (!ok) {
+        return unauthorizedResponse(url, pathname.startsWith("/api/"));
+      }
+    }
 
     if (pathname === "/tiktok" || pathname === "/tiktok/") {
       return env.ASSETS.fetch(new Request(new URL("/tiktok/index.html", url.origin)));

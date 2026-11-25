@@ -22,12 +22,15 @@ const assetFiles = [
   "reddit.js",
   "toolify.css",
   "toolify.js",
+  "login.css",
+  "login.js",
 ];
 mkdirSync(join(publicDir, "assets"), { recursive: true });
 for (const f of assetFiles) {
   cpSync(join(staticDir, f), join(publicDir, "assets", f));
 }
 cpSync(join(staticDir, "index.html"), join(publicDir, "index.html"));
+cpSync(join(staticDir, "login.html"), join(publicDir, "login.html"));
 
 for (const page of ["tiktok", "trends", "reddit", "toolify"]) {
   mkdirSync(join(publicDir, page), { recursive: true });

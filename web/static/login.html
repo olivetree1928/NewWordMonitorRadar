@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>登录 · 模型新词雷达</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/styles.css" />
+  <link rel="stylesheet" href="/assets/login.css" />
+</head>
+<body class="page-login">
+  <div class="noise" aria-hidden="true"></div>
+  <div class="orb orb-a" aria-hidden="true"></div>
+  <div class="orb orb-b" aria-hidden="true"></div>
+
+  <main class="login-wrap">
+    <section class="login-card">
+      <div class="brand">
+        <span class="mark" aria-hidden="true"></span>
+        <div>
+          <p class="brand-name">模型新词雷达</p>
+          <p class="brand-sub">登录后查看监控面板</p>
+        </div>
+      </div>
+      <h1>欢迎回来</h1>
+      <form id="loginForm">
+        <label>
+          用户名
+          <input name="username" autocomplete="username" required />
+        </label>
+        <label>
+          密码
+          <input name="password" type="password" autocomplete="current-password" required />
+        </label>
+        <p class="err" id="err" hidden></p>
+        <button type="submit" class="btn primary" id="btn">登录</button>
+      </form>
+    </section>
+  </main>
+
+  <script src="/assets/login.js"></script>
+</body>
+</html>

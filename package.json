@@ -1,0 +1,14 @@
+{
+  "name": "new-word-monitor-radar",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "sync:public": "node scripts/sync-public.mjs",
+    "deploy": "npm run sync:public && wrangler deploy",
+    "dev": "npm run sync:public && wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.168.0"
+  }
+}

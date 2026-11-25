@@ -49,6 +49,16 @@ python -m src.tiktok_scanner  # 单独扫 TikTok 热词
 - 模型新词页：http://127.0.0.1:8765/
 - TikTok 热词页：http://127.0.0.1:8765/tiktok
 
+## Cloudflare Workers 部署
+
+```powershell
+npm install
+npm run deploy
+```
+
+Worker 名：`new-word-monitor-radar`  
+预期地址：`https://new-word-monitor-radar.olivetree1928.workers.dev`
+
 报告输出：`data/reports/YYYY-MM-DD.md` 与 `data/reports/latest.md`  
 网页读取：`data/reports/latest.json` · TikTok：`data/tiktok/latest.json`
 

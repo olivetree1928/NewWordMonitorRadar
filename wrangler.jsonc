@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "new-word-monitor-radar",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-11-25",
+  "account_id": "8a2cf1126c51259e70f6c701293ae723",
+  "workers_dev": true,
+  "preview_urls": true,
+  "observability": {
+    "enabled": true,
+    "traces": {
+      "enabled": true
+    }
+  },
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    "run_worker_first": ["/api/*", "/tiktok"]
+  }
+}

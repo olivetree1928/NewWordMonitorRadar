@@ -1,6 +1,11 @@
 User-agent: *
 Allow: /
 Allow: /login
+Allow: /about
+Allow: /contact
+Allow: /privacy
+Allow: /terms
+Allow: /llms.txt
 Disallow: /api/
 
 Sitemap: https://trendmonitor.blog/sitemap.xml

@@ -360,6 +360,19 @@ export default {
     if (pathname === "/login" || pathname === "/login/") {
       return env.ASSETS.fetch(new Request(new URL("/login.html", url.origin)));
     }
+    const publicHtml: Record<string, string> = {
+      "/about": "/about.html",
+      "/about/": "/about.html",
+      "/contact": "/contact.html",
+      "/contact/": "/contact.html",
+      "/privacy": "/privacy.html",
+      "/privacy/": "/privacy.html",
+      "/terms": "/terms.html",
+      "/terms/": "/terms.html",
+    };
+    if (publicHtml[pathname]) {
+      return env.ASSETS.fetch(new Request(new URL(publicHtml[pathname], url.origin)));
+    }
 
     if (pathname === "/api/login" && request.method === "POST") {
       try {

@@ -31,7 +31,15 @@ for (const f of assetFiles) {
 }
 cpSync(join(staticDir, "index.html"), join(publicDir, "index.html"));
 cpSync(join(staticDir, "login.html"), join(publicDir, "login.html"));
-for (const f of ["robots.txt", "sitemap.xml"]) {
+for (const f of [
+  "robots.txt",
+  "sitemap.xml",
+  "llms.txt",
+  "about.html",
+  "contact.html",
+  "privacy.html",
+  "terms.html",
+]) {
   const src = join(staticDir, f);
   if (existsSync(src)) cpSync(src, join(publicDir, f));
 }

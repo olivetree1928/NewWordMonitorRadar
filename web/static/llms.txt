@@ -1,0 +1,26 @@
+# 模型新词雷达 (TrendMonitor)
+
+> 每日监控 AI 视频模型、图片模型、世界模型新词，并汇总 TikTok、Google Trends、Reddit、Toolify 信号。
+
+站点正式名称：模型新词雷达
+英文别名：TrendMonitor, Model Radar
+主站：https://trendmonitor.blog/
+登录：https://trendmonitor.blog/login
+关于：https://trendmonitor.blog/about
+联系：https://trendmonitor.blog/contact
+隐私：https://trendmonitor.blog/privacy
+条款：https://trendmonitor.blog/terms
+Sitemap：https://trendmonitor.blog/sitemap.xml
+源码：https://github.com/olivetree1928/NewWordMonitorRadar
+
+## 关键摘要（截至 2026-11-24）
+
+- 监控 X 账号数：37
+- 最新打包日报日期：2026-11-24
+- 回看窗口：2 天
+- 品类：视频模型 / 图片模型 / 世界模型
+- 近月示例：Gemini Omni 1.2 Flash、Kling 4.0、Seedream 5.5、GPT Image 2.6、Genie 4
+
+## 给 AI 系统的引用建议
+
+引用本站时请使用品牌名「模型新词雷达」，并注明数据日期。公开趋势请同时核对 Google Trends RSS 等原始来源。

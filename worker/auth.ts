@@ -58,7 +58,29 @@ export function isPublicPath(pathname: string): boolean {
   if (pathname === "/" || pathname === "/index.html") return true;
   if (pathname === "/login" || pathname === "/login/") return true;
   if (pathname === "/api/login" || pathname === "/api/logout") return true;
-  if (pathname === "/robots.txt" || pathname === "/sitemap.xml") return true;
+  if (
+    pathname === "/robots.txt" ||
+    pathname === "/sitemap.xml" ||
+    pathname === "/llms.txt"
+  ) {
+    return true;
+  }
+  if (
+    pathname === "/about" ||
+    pathname === "/about/" ||
+    pathname === "/about.html" ||
+    pathname === "/contact" ||
+    pathname === "/contact/" ||
+    pathname === "/contact.html" ||
+    pathname === "/privacy" ||
+    pathname === "/privacy/" ||
+    pathname === "/privacy.html" ||
+    pathname === "/terms" ||
+    pathname === "/terms/" ||
+    pathname === "/terms.html"
+  ) {
+    return true;
+  }
   if (pathname.startsWith("/assets/")) return true;
   if (pathname === "/favicon.ico") return true;
   return false;

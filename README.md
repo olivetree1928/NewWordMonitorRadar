@@ -50,10 +50,12 @@ python -m src.tiktok_scanner  # 单独扫 TikTok 热词
 - TikTok 热词页：http://127.0.0.1:8765/tiktok
 - 谷歌趋势页：http://127.0.0.1:8765/trends
 - Reddit 页：http://127.0.0.1:8765/reddit
+- Toolify 月榜：http://127.0.0.1:8765/toolify （默认第 80–150 名）
 
 ```powershell
 python -m src.google_trends_scanner   # 扫 Google Trends RSS
 python -m src.reddit_scanner          # 扫 Reddit（需 OAuth）
+python -m src.toolify_scanner         # 扫 Toolify 月榜 80–150
 ```
 
 Reddit 需在 `.env` 配置 `REDDIT_CLIENT_ID` / `REDDIT_CLIENT_SECRET`（[创建应用](https://www.reddit.com/prefs/apps)）。
@@ -75,6 +77,7 @@ Worker 名：`new-word-monitor-radar`
 - https://new-word-monitor-radar.olivetree1928.workers.dev/tiktok
 - https://new-word-monitor-radar.olivetree1928.workers.dev/trends
 - https://new-word-monitor-radar.olivetree1928.workers.dev/reddit
+- https://new-word-monitor-radar.olivetree1928.workers.dev/toolify
 
 报告输出：`data/reports/YYYY-MM-DD.md` 与 `data/reports/latest.md`  
 网页读取：`data/reports/latest.json` · TikTok：`data/tiktok/latest.json`

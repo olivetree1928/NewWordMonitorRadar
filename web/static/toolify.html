@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Toolify 月榜 80–150</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/styles.css" />
+  <link rel="stylesheet" href="/assets/tiktok.css" />
+  <link rel="stylesheet" href="/assets/toolify.css" />
+</head>
+<body class="page-toolify">
+  <div class="noise" aria-hidden="true"></div>
+  <div class="orb orb-a" aria-hidden="true"></div>
+  <div class="orb orb-b tf-orb" aria-hidden="true"></div>
+
+  <header class="top">
+    <div class="brand">
+      <span class="mark tf-mark" aria-hidden="true"></span>
+      <div>
+        <p class="brand-name">Toolify 月榜雷达</p>
+        <p class="brand-sub">第 80–150 名 · 做什么 · 流量</p>
+      </div>
+    </div>
+    <nav class="nav">
+      <a href="/">模型新词</a>
+      <a href="/tiktok">TikTok 热词</a>
+      <a href="/trends">谷歌趋势</a>
+      <a href="/reddit">Reddit</a>
+      <a class="active" href="/toolify">Toolify</a>
+    </nav>
+    <div class="meta">
+      <span class="pill" id="scanAt">—</span>
+      <button type="button" class="btn" id="btnScan">重新扫描</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Toolify<br /><em>80–150</em></h1>
+      <p class="lede" id="capSummary">
+        聚焦月榜中腰部网站：简介、月访问量、增长量与增长率。
+      </p>
+      <div class="stats">
+        <div class="stat"><strong id="statCount">0</strong><span>上榜工具</span></div>
+        <div class="stat"><strong id="statPeriod">—</strong><span>榜单周期</span></div>
+        <div class="stat"><strong id="statTopGrowth">—</strong><span>区间最高增长</span></div>
+        <div class="stat"><strong id="statMedian">—</strong><span>区间中位访问</span></div>
+      </div>
+      <div class="filters">
+        <input id="q" type="search" placeholder="搜名称 / 简介 / 标签…" />
+        <select id="sort">
+          <option value="rank">按排名</option>
+          <option value="visit">按月访问</option>
+          <option value="growth">按增长量</option>
+          <option value="rate">按增长率</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="block-head">
+        <h2>腰部榜单</h2>
+        <p id="listNote">数据来自 Toolify 月度增长榜</p>
+      </div>
+      <div class="list" id="toolList"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <span>缓存 · <code>data/toolify/latest.json</code></span>
+    <a id="sourceLink" href="https://www.toolify.ai/Best-trending-AI-Tools" target="_blank" rel="noopener">Toolify 原榜</a>
+  </footer>
+
+  <script src="/assets/toolify.js"></script>
+</body>
+</html>

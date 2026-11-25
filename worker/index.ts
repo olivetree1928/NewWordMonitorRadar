@@ -1,4 +1,5 @@
 import { scanRedditLive } from "./reddit";
+import { scanToolifyLive } from "./toolify";
 
 export interface Env {
   ASSETS: Fetcher;
@@ -354,6 +355,9 @@ export default {
     if (pathname === "/reddit" || pathname === "/reddit/") {
       return env.ASSETS.fetch(new Request(new URL("/reddit/index.html", url.origin)));
     }
+    if (pathname === "/toolify" || pathname === "/toolify/") {
+      return env.ASSETS.fetch(new Request(new URL("/toolify/index.html", url.origin)));
+    }
 
     if (pathname === "/api/health") {
       return json({
@@ -422,6 +426,23 @@ export default {
     if (pathname === "/api/reddit/scan" && request.method === "POST") {
       try {
         return json(await scanRedditLive(env));
+      } catch (e) {
+        return json({ error: e instanceof Error ? e.message : String(e) }, 500);
+      }
+    }
+
+    if (pathname === "/api/toolify/latest") {
+      const raw = await assetJson(env, "/data/toolify/latest.json");
+      if (!raw) return json({ error: "no toolify cache" }, 404);
+      return json(raw);
+    }
+
+    if (pathname === "/api/toolify/scan" && request.method === "POST") {
+      try {
+        const cached = (await assetJson(env, "/data/toolify/latest.json")) as
+          | Record<string, unknown>
+          | null;
+        return json(await scanToolifyLive(cached));
       } catch (e) {
         return json({ error: e instanceof Error ? e.message : String(e) }, 500);
       }

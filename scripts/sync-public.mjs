@@ -20,6 +20,8 @@ const assetFiles = [
   "trends.js",
   "reddit.css",
   "reddit.js",
+  "toolify.css",
+  "toolify.js",
 ];
 mkdirSync(join(publicDir, "assets"), { recursive: true });
 for (const f of assetFiles) {
@@ -27,7 +29,7 @@ for (const f of assetFiles) {
 }
 cpSync(join(staticDir, "index.html"), join(publicDir, "index.html"));
 
-for (const page of ["tiktok", "trends", "reddit"]) {
+for (const page of ["tiktok", "trends", "reddit", "toolify"]) {
   mkdirSync(join(publicDir, page), { recursive: true });
   cpSync(join(staticDir, `${page}.html`), join(publicDir, page, "index.html"));
   const p = join(publicDir, page, "index.html");
@@ -39,6 +41,7 @@ const dataPairs = [
   ["tiktok", "latest.json"],
   ["trends", "latest.json"],
   ["reddit", "latest.json"],
+  ["toolify", "latest.json"],
 ];
 for (const [dir, file] of dataPairs) {
   const src = join(root, "data", dir, file);

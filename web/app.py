@@ -24,8 +24,10 @@ from src.reddit_scanner import load_latest as load_reddit_latest  # noqa: E402
 from src.reddit_scanner import run_reddit_scan  # noqa: E402
 from src.tiktok_scanner import load_latest as load_tiktok_latest  # noqa: E402
 from src.tiktok_scanner import run_tiktok_scan  # noqa: E402
+from src.toolify_scanner import load_latest as load_toolify_latest  # noqa: E402
+from src.toolify_scanner import run_toolify_scan  # noqa: E402
 
-app = FastAPI(title="模型新词雷达", version="0.4.0")
+app = FastAPI(title="模型新词雷达", version="0.5.0")
 app.mount("/assets", StaticFiles(directory=STATIC), name="assets")
 
 
@@ -60,6 +62,11 @@ def trends_page() -> FileResponse:
 @app.get("/reddit")
 def reddit_page() -> FileResponse:
     return FileResponse(STATIC / "reddit.html")
+
+
+@app.get("/toolify")
+def toolify_page() -> FileResponse:
+    return FileResponse(STATIC / "toolify.html")
 
 
 @app.get("/api/latest")
@@ -132,11 +139,28 @@ def api_reddit_scan() -> dict:
         raise HTTPException(500, f"扫描失败: {exc}") from exc
 
 
+@app.get("/api/toolify/latest")
+def api_toolify_latest() -> dict:
+    data = load_toolify_latest()
+    if not data:
+        raise HTTPException(404, "尚无 Toolify 数据，请 POST /api/toolify/scan")
+    return data
+
+
+@app.post("/api/toolify/scan")
+def api_toolify_scan() -> dict:
+    try:
+        return run_toolify_scan()
+    except Exception as exc:  # noqa: BLE001
+        raise HTTPException(500, f"扫描失败: {exc}") from exc
+
+
 @app.get("/api/health")
 def health() -> dict:
     tt = load_tiktok_latest()
     tr = load_trends_latest()
     rd = load_reddit_latest()
+    tf = load_toolify_latest()
     return {
         "ok": True,
         "reports": _list_report_dates()[:5],
@@ -144,5 +168,7 @@ def health() -> dict:
         "trends": bool(tr),
         "reddit": bool(rd),
         "reddit_ok": bool((rd or {}).get("ok")),
-        "reddit_scanned_at": (rd or {}).get("scanned_at"),
+        "toolify": bool(tf),
+        "toolify_count": (tf or {}).get("count"),
+        "toolify_period": (tf or {}).get("period"),
     }

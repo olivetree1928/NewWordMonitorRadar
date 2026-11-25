@@ -1,0 +1,72 @@
+.page-toolify .tf-orb {
+  background: radial-gradient(circle, rgba(124, 58, 237, 0.18), transparent 70%);
+}
+.page-toolify .tf-mark {
+  background:
+    linear-gradient(135deg, #7c3aed, transparent 55%),
+    linear-gradient(315deg, #22d3ee, transparent 50%),
+    #16131f;
+}
+.page-toolify .nav a.active {
+  background: linear-gradient(120deg, rgba(124,58,237,0.22), rgba(34,211,238,0.12));
+}
+.page-toolify .hero h1 em {
+  background: linear-gradient(100deg, #a78bfa, #22d3ee 60%, #f0abfc);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.2rem;
+}
+.filters input,
+.filters select {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,0.03);
+  color: var(--ink);
+  font: inherit;
+  border-radius: 999px;
+  padding: 0.55rem 0.95rem;
+}
+.filters input {
+  flex: 1 1 220px;
+  min-width: 180px;
+}
+.filters select { cursor: pointer; }
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.45rem;
+  margin-top: 0.65rem;
+}
+.metric {
+  padding: 0.55rem 0.65rem;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,0.02);
+}
+.metric b {
+  display: block;
+  font-size: 0.95rem;
+  letter-spacing: -0.01em;
+}
+.metric span {
+  color: var(--muted);
+  font-size: 0.72rem;
+}
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.55rem;
+}
+
+@media (max-width: 720px) {
+  .metric-grid { grid-template-columns: 1fr; }
+}

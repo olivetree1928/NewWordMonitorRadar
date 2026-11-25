@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Reddit 热词雷达</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/styles.css" />
+  <link rel="stylesheet" href="/assets/tiktok.css" />
+  <link rel="stylesheet" href="/assets/reddit.css" />
+</head>
+<body class="page-reddit">
+  <div class="noise" aria-hidden="true"></div>
+  <div class="orb orb-a" aria-hidden="true"></div>
+  <div class="orb orb-b rd-orb" aria-hidden="true"></div>
+
+  <header class="top">
+    <div class="brand">
+      <span class="mark rd-mark" aria-hidden="true"></span>
+      <div>
+        <p class="brand-name">Reddit 热词雷达</p>
+        <p class="brand-sub">模型词 · 视频词 · 大V/商家 · 趋势</p>
+      </div>
+    </div>
+    <nav class="nav">
+      <a href="/">模型新词</a>
+      <a href="/tiktok">TikTok 热词</a>
+      <a href="/trends">谷歌趋势</a>
+      <a class="active" href="/reddit">Reddit</a>
+    </nav>
+    <div class="meta">
+      <span class="pill" id="scanAt">—</span>
+      <button type="button" class="btn" id="btnScan">重新扫描</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Reddit 上的<br /><em>模型与热词</em></h1>
+      <p class="lede" id="capSummary">
+        监控 AI / 视频 / SaaS 相关子版热帖，抽出模型词、视频词与商家/大V信号。
+      </p>
+      <div class="cap-grid" id="capGrid"></div>
+      <div class="stats" id="stats">
+        <div class="stat"><strong id="statPosts">0</strong><span>热帖</span></div>
+        <div class="stat"><strong id="statTerms">0</strong><span>热词</span></div>
+        <div class="stat"><strong id="statModel">0</strong><span>模型相关帖</span></div>
+        <div class="stat"><strong id="statVendor">0</strong><span>大V/商家帖</span></div>
+      </div>
+    </section>
+
+    <section class="tabs-wrap">
+      <div class="tabs" role="tablist">
+        <button class="tab active" data-panel="terms" role="tab">趋势热词</button>
+        <button class="tab" data-panel="model" role="tab">模型词帖</button>
+        <button class="tab" data-panel="video" role="tab">视频词帖</button>
+        <button class="tab" data-panel="vendor" role="tab">大V / 商家</button>
+        <button class="tab" data-panel="hot" role="tab">热帖总览</button>
+      </div>
+    </section>
+
+    <section class="panel active" id="panel-terms">
+      <div class="block-head"><h2>趋势热词</h2><p>从标题/正文抽出的模型与产品词，按提及权重排序</p></div>
+      <div class="list" id="termsList"></div>
+    </section>
+    <section class="panel" id="panel-model">
+      <div class="block-head"><h2>模型词相关帖</h2><p>命中模型名/版本号的帖子</p></div>
+      <div class="list" id="modelList"></div>
+    </section>
+    <section class="panel" id="panel-video">
+      <div class="block-head"><h2>视频词相关帖</h2><p>视频生成 / T2V / I2V 相关讨论</p></div>
+      <div class="list" id="videoList"></div>
+    </section>
+    <section class="panel" id="panel-vendor">
+      <div class="block-head"><h2>大 V / 商家信号</h2><p>官方账号、厂商关键词或发布语境</p></div>
+      <div class="list" id="vendorList"></div>
+    </section>
+    <section class="panel" id="panel-hot">
+      <div class="block-head"><h2>热帖总览</h2><p>按分数排序</p></div>
+      <div class="list" id="hotList"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <span>缓存 · <code>data/reddit/latest.json</code></span>
+    <span id="authNote"></span>
+  </footer>
+
+  <script src="/assets/reddit.js"></script>
+</body>
+</html>

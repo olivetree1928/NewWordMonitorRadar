@@ -18,6 +18,8 @@ const assetFiles = [
   "tiktok.js",
   "trends.css",
   "trends.js",
+  "reddit.css",
+  "reddit.js",
 ];
 mkdirSync(join(publicDir, "assets"), { recursive: true });
 for (const f of assetFiles) {
@@ -25,28 +27,24 @@ for (const f of assetFiles) {
 }
 cpSync(join(staticDir, "index.html"), join(publicDir, "index.html"));
 
-mkdirSync(join(publicDir, "tiktok"), { recursive: true });
-cpSync(join(staticDir, "tiktok.html"), join(publicDir, "tiktok", "index.html"));
-
-mkdirSync(join(publicDir, "trends"), { recursive: true });
-cpSync(join(staticDir, "trends.html"), join(publicDir, "trends", "index.html"));
+for (const page of ["tiktok", "trends", "reddit"]) {
+  mkdirSync(join(publicDir, page), { recursive: true });
+  cpSync(join(staticDir, `${page}.html`), join(publicDir, page, "index.html"));
+  const p = join(publicDir, page, "index.html");
+  writeFileSync(p, readFileSync(p, "utf8"), "utf8");
+}
 
 const dataPairs = [
   ["reports", "latest.json"],
   ["tiktok", "latest.json"],
   ["trends", "latest.json"],
+  ["reddit", "latest.json"],
 ];
 for (const [dir, file] of dataPairs) {
   const src = join(root, "data", dir, file);
   const destDir = join(publicDir, "data", dir);
   mkdirSync(destDir, { recursive: true });
   if (existsSync(src)) cpSync(src, join(destDir, file));
-}
-
-// touch to keep encoding
-for (const page of ["tiktok", "trends"]) {
-  const p = join(publicDir, page, "index.html");
-  writeFileSync(p, readFileSync(p, "utf8"), "utf8");
 }
 
 console.log("synced public/ from web/static + data/");

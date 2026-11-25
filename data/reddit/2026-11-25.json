@@ -1,0 +1,50 @@
+{
+  "scanned_at": "2026-11-25T02:43:07Z",
+  "auth_mode": "anonymous",
+  "auth_note": "未配置 REDDIT_CLIENT_ID/SECRET，尝试匿名 JSON（常被 403）",
+  "ok": false,
+  "summary": {
+    "posts": 0,
+    "hot_terms": 0,
+    "model_posts": 0,
+    "video_posts": 0,
+    "vendor_posts": 0,
+    "errors": 21
+  },
+  "errors": [
+    "r/LocalLLaMA: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/MachineLearning: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/OpenAI: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/ClaudeAI: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/ChatGPT: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/singularity: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/artificial: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/StableDiffusion: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/midjourney: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/FluxAI: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/aivideo: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/RunwayML: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/SoraAi: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/WeAreKling: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/SaaS: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/indiehackers: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/sideproject: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "r/Entrepreneur: 匿名 Reddit JSON 被拦截（需配置 REDDIT_CLIENT_ID / SECRET）",
+    "search[\"released\" (model OR video OR image) (AI]: search 403: <body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;--rem88:5.5rem;--rem6",
+    "search[(Kling OR Veo OR Sora OR Flux OR Seedrea]: search 403: <body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;--rem88:5.5rem;--rem6",
+    "search[AI video model OR image model launch]: search 403: <body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;--rem88:5.5rem;--rem6"
+  ],
+  "hot_terms": [],
+  "model_posts": [],
+  "video_posts": [],
+  "vendor_posts": [],
+  "by_group": {
+    "model": [],
+    "image": [],
+    "video": [],
+    "saas_vendor": []
+  },
+  "search_posts": [],
+  "hot_posts": [],
+  "note": "未能拉到 Reddit 帖子。请在 .env 配置 REDDIT_CLIENT_ID 与 REDDIT_CLIENT_SECRET（https://www.reddit.com/prefs/apps）。"
+}

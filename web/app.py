@@ -1,4 +1,4 @@
-"""模型新词雷达 + TikTok + Google Trends — 本地网页服务。"""
+"""模型新词雷达 + TikTok + Google Trends + Reddit — 本地网页服务。"""
 
 from __future__ import annotations
 
@@ -20,10 +20,12 @@ if str(ROOT) not in sys.path:
 
 from src.google_trends_scanner import load_latest as load_trends_latest  # noqa: E402
 from src.google_trends_scanner import run_trends_scan  # noqa: E402
+from src.reddit_scanner import load_latest as load_reddit_latest  # noqa: E402
+from src.reddit_scanner import run_reddit_scan  # noqa: E402
 from src.tiktok_scanner import load_latest as load_tiktok_latest  # noqa: E402
 from src.tiktok_scanner import run_tiktok_scan  # noqa: E402
 
-app = FastAPI(title="模型新词雷达", version="0.3.0")
+app = FastAPI(title="模型新词雷达", version="0.4.0")
 app.mount("/assets", StaticFiles(directory=STATIC), name="assets")
 
 
@@ -37,10 +39,7 @@ def _load_latest() -> dict:
 def _list_report_dates() -> list[str]:
     if not REPORTS.exists():
         return []
-    dates = []
-    for p in REPORTS.glob("????-??-??.json"):
-        dates.append(p.stem)
-    return sorted(dates, reverse=True)
+    return sorted((p.stem for p in REPORTS.glob("????-??-??.json")), reverse=True)
 
 
 @app.get("/")
@@ -56,6 +55,11 @@ def tiktok_page() -> FileResponse:
 @app.get("/trends")
 def trends_page() -> FileResponse:
     return FileResponse(STATIC / "trends.html")
+
+
+@app.get("/reddit")
+def reddit_page() -> FileResponse:
+    return FileResponse(STATIC / "reddit.html")
 
 
 @app.get("/api/latest")
@@ -84,7 +88,7 @@ def api_report(day: str) -> dict:
 def api_tiktok_latest() -> dict:
     data = load_tiktok_latest()
     if not data:
-        raise HTTPException(404, "尚无 TikTok 数据，请 POST /api/tiktok/scan 或点页面「重新扫描」")
+        raise HTTPException(404, "尚无 TikTok 数据，请 POST /api/tiktok/scan")
     return data
 
 
@@ -112,15 +116,33 @@ def api_trends_scan() -> dict:
         raise HTTPException(500, f"扫描失败: {exc}") from exc
 
 
+@app.get("/api/reddit/latest")
+def api_reddit_latest() -> dict:
+    data = load_reddit_latest()
+    if not data:
+        raise HTTPException(404, "尚无 Reddit 数据，请 POST /api/reddit/scan")
+    return data
+
+
+@app.post("/api/reddit/scan")
+def api_reddit_scan() -> dict:
+    try:
+        return run_reddit_scan()
+    except Exception as exc:  # noqa: BLE001
+        raise HTTPException(500, f"扫描失败: {exc}") from exc
+
+
 @app.get("/api/health")
 def health() -> dict:
     tt = load_tiktok_latest()
     tr = load_trends_latest()
+    rd = load_reddit_latest()
     return {
         "ok": True,
         "reports": _list_report_dates()[:5],
         "tiktok": bool(tt),
-        "tiktok_scanned_at": (tt or {}).get("scanned_at"),
         "trends": bool(tr),
-        "trends_scanned_at": (tr or {}).get("scanned_at"),
+        "reddit": bool(rd),
+        "reddit_ok": bool((rd or {}).get("ok")),
+        "reddit_scanned_at": (rd or {}).get("scanned_at"),
     }

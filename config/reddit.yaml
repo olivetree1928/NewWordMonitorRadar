@@ -1,0 +1,50 @@
+# Reddit 监控配置
+
+subreddits:
+  model:
+    - LocalLLaMA
+    - MachineLearning
+    - OpenAI
+    - ClaudeAI
+    - ChatGPT
+    - singularity
+    - artificial
+  image:
+    - StableDiffusion
+    - midjourney
+    - FluxAI
+  video:
+    - aivideo
+    - RunwayML
+    - SoraAi
+    - WeAreKling
+  saas_vendor:
+    - SaaS
+    - indiehackers
+    - sideproject
+    - Entrepreneur
+
+# 大 V / 官方账号（作者命中即标 vendor/influencer）
+notable_authors:
+  - OpenAI
+  - anthropicai
+  - GoogleDeepMind
+  - StabilityAI
+  - midjourney
+  - runwayml
+  - blackforestlabs
+  - OfficialKlingAI
+  - lumaai
+  - MetaAI
+  - HuggingFace
+  - levelsio
+
+# 搜索补强（OAuth 可用时）
+search_queries:
+  - '"released" (model OR video OR image) (AI OR LLM OR diffusion)'
+  - "(Kling OR Veo OR Sora OR Flux OR Seedream OR Omni OR Genie OR Wan) (model OR release)"
+  - "AI video model OR image model launch"
+
+limits:
+  per_subreddit: 25
+  search: 25

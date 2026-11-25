@@ -1,5 +1,9 @@
+import { scanRedditLive } from "./reddit";
+
 export interface Env {
   ASSETS: Fetcher;
+  REDDIT_CLIENT_ID?: string;
+  REDDIT_CLIENT_SECRET?: string;
 }
 
 const JSON_HEADERS = {
@@ -347,6 +351,9 @@ export default {
     if (pathname === "/trends" || pathname === "/trends/") {
       return env.ASSETS.fetch(new Request(new URL("/trends/index.html", url.origin)));
     }
+    if (pathname === "/reddit" || pathname === "/reddit/") {
+      return env.ASSETS.fetch(new Request(new URL("/reddit/index.html", url.origin)));
+    }
 
     if (pathname === "/api/health") {
       return json({
@@ -401,6 +408,20 @@ export default {
     if (pathname === "/api/trends/scan" && request.method === "POST") {
       try {
         return json(await scanGoogleTrendsLive());
+      } catch (e) {
+        return json({ error: e instanceof Error ? e.message : String(e) }, 500);
+      }
+    }
+
+    if (pathname === "/api/reddit/latest") {
+      const raw = await assetJson(env, "/data/reddit/latest.json");
+      if (!raw) return json({ error: "no reddit cache" }, 404);
+      return json(raw);
+    }
+
+    if (pathname === "/api/reddit/scan" && request.method === "POST") {
+      try {
+        return json(await scanRedditLive(env));
       } catch (e) {
         return json({ error: e instanceof Error ? e.message : String(e) }, 500);
       }

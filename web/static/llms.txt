@@ -11,7 +11,6 @@
 隐私：https://trendmonitor.blog/privacy
 条款：https://trendmonitor.blog/terms
 Sitemap：https://trendmonitor.blog/sitemap.xml
-源码：https://github.com/olivetree1928/NewWordMonitorRadar
 
 ## 关键摘要（截至 2026-11-24）
 
